@@ -1,0 +1,49 @@
+name: NFL Newsroom
+
+# Checks ESPN for new NFL headlines, injuries and trades and posts them to Discord.
+# cron-job.org starts this every minute (POST .../actions/workflows/newsroom.yml/dispatches,
+# body {"ref":"main"}). The schedule below is only a backup in case that timer stops.
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: Print to this log instead of posting to Discord
+        type: boolean
+        default: false
+  schedule:
+    - cron: "*/15 * * * *"
+
+permissions:
+  contents: write   # saves data/state.json so nothing is posted twice
+
+concurrency:
+  group: newsroom
+  cancel-in-progress: false
+
+jobs:
+  news:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Install
+        run: python3 -c "import requests" 2>/dev/null || python3 -m pip install --quiet --break-system-packages requests
+
+      - name: Post new NFL news
+        env:
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: |
+          if [ "$DRY_RUN" = "true" ]; then python3 -m newsroom --dry-run; else python3 -m newsroom; fi
+
+      - name: Remember what was posted
+        if: always()
+        run: |
+          git config user.name "league-newsroom"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then echo "Nothing new"; exit 0; fi
+          git commit -q -m "Update newsroom state"
+          for i in 1 2 3; do git push -q && exit 0; git pull -q --rebase; done
+          exit 1
