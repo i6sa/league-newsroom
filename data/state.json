@@ -4,6 +4,7 @@
    "A.J. Brown": "Out",
    "AJ Barner": "Active",
    "AJ Dillon": "Active",
+   "Aaron Jones Sr.": "Active",
    "Aaron Rodgers": "Active",
    "Adam Randall": "Injured Reserve",
    "Adonai Mitchell": "Active",
@@ -239,6 +240,7 @@
    "Jordan Addison": "Active",
    "Jordan Hudson": "Active",
    "Jordan Love": "Active",
+   "Jordan Mason": "Active",
    "Jordan Watkins": "Active",
    "Jordan Whittington": "Active",
    "Jordyn Tyson": "Active",
@@ -425,10 +427,6 @@
    "Zay Flowers": "Active"
   },
   "injuries_gone": {
-   "Aaron Jones Sr.": [
-    "Active",
-    "2026-11-09T23:51Z"
-   ],
    "David Moore": [
     "Active",
     "2026-11-09T23:20Z"
@@ -436,10 +434,6 @@
    "John Metchie III": [
     "Active",
     "2026-11-09T23:34Z"
-   ],
-   "Jordan Mason": [
-    "Active",
-    "2026-11-09T23:51Z"
    ]
   },
   "news": [
