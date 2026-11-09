@@ -113,7 +113,6 @@
    "Darnell Washington": "Active",
    "Darren Waller": "Active",
    "David Montgomery": "Out",
-   "David Moore": "Active",
    "David Njoku": "Injured Reserve",
    "Dawson Knox": "Active",
    "DeMario Douglas": "Active",
@@ -428,7 +427,12 @@
    "Zavier Scott": "Injured Reserve",
    "Zay Flowers": "Active"
   },
-  "injuries_gone": {},
+  "injuries_gone": {
+   "David Moore": [
+    "Active",
+    "2026-11-09T23:20Z"
+   ]
+  },
   "news": [
    "50425853",
    "50427398",
