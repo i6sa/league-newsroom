@@ -22,6 +22,7 @@ POSITIONS = {"QB", "RB", "WR", "TE", "K", "PK"}
 BACKFILL_HOURS = 12         # first run: injury changes from the last 12 hours (at most 10)
 BACKFILL_NEWS = 5           # first run: the latest 5 headlines
 MAX_PER_RUN = 25            # never flood a channel in one go
+FLICKER_HOURS = 12          # ESPN's injury feed sometimes drops a player for a minute; remember them this long
 TRADE = re.compile(r"\b(acquired|traded)\b", re.I)
 
 
@@ -113,10 +114,19 @@ def _status_line(prev: str | None, now: str) -> str:
     return f"{prev} → {now}" if prev and prev != now else now
 
 
-def injuries(all_teams: dict, known: dict, first_run: bool) -> tuple[list[tuple[str, dict]], dict]:
-    """(posts, updated statuses). known: athlete id -> last status seen."""
+def injuries(all_teams: dict, known: dict, first_run: bool, gone: dict | None = None):
+    """(posts, updated statuses, recently missing). known: athlete id -> last status seen.
+
+    gone: athlete id -> [last status, when they dropped out of the feed]. ESPN's feed flickers
+    (a player can vanish for a minute and come back), so a player who reappears within
+    FLICKER_HOURS keeps his old status instead of being posted again as a new injury."""
     now = datetime.now(timezone.utc)
     current, out = {}, []
+    gone = dict(gone or {})
+
+    def missing_for(pid):
+        since = _when(gone[pid][1]) if pid in gone else None
+        return now - since if since else None
     for team_block in _get("injuries").get("injuries", []):
         team = all_teams.get(str(team_block.get("id"))) or all_teams.get(team_block.get("displayName", ""))
         for inj in team_block.get("injuries", []):
@@ -131,6 +141,8 @@ def injuries(all_teams: dict, known: dict, first_run: bool) -> tuple[list[tuple[
                 continue                            # healthy scratches and the like aren't injuries
             current[pid] = status
             prev = known.get(pid)
+            if prev is None and pid in gone and (missing_for(pid) or timedelta(days=99)) <= timedelta(hours=FLICKER_HOURS):
+                prev = gone[pid][0]                 # it was only a flicker
             when = _when(inj.get("date"))
             if status == "Active":
                 if prev and prev != "Active":      # was hurt, now back
@@ -145,7 +157,14 @@ def injuries(all_teams: dict, known: dict, first_run: bool) -> tuple[list[tuple[
             out.append((when, pid, _injury_embed(team, ath, pos, inj, prev)))
     out.sort(key=lambda r: r[0] or now)
     cap = 10 if first_run else MAX_PER_RUN
-    return [(pid, embed) for _, pid, embed in out[-cap:]], current
+    stamp = now.strftime("%Y-%m-%dT%H:%MZ")
+    for pid, status in known.items():
+        if pid not in current:
+            gone.setdefault(pid, [status, stamp])
+    for pid in list(gone):
+        if pid in current or (missing_for(pid) or timedelta(days=99)) > timedelta(hours=FLICKER_HOURS):
+            del gone[pid]
+    return [(pid, embed) for _, pid, embed in out[-cap:]], current, gone
 
 
 def _injury_embed(team, ath, pos, inj, prev, back=False) -> dict:
@@ -324,9 +343,11 @@ def run(cfg, router, state: dict, dry_run: bool) -> list[str]:
     except Exception as err:  # noqa: BLE001
         notes.append(f"headlines failed: {str(err)[:120]}")
     try:
-        posts, current = injuries(all_teams, wire.get("injuries", {}), first_run="injuries" not in wire)
+        posts, current, gone = injuries(all_teams, wire.get("injuries", {}), first_run="injuries" not in wire,
+                                        gone=wire.get("injuries_gone", {}))
         if send("wire_injuries", posts, "injuries") and not dry_run:
             wire["injuries"] = current
+            wire["injuries_gone"] = gone
     except Exception as err:  # noqa: BLE001
         notes.append(f"injuries failed: {str(err)[:120]}")
     try:

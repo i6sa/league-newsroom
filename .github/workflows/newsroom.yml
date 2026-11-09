@@ -26,6 +26,8 @@ jobs:
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@v6
+        with:
+          ref: ${{ github.ref }}   # the branch's latest commit, not the one from when this run was queued
 
       - name: Install
         run: python3 -c "import requests" 2>/dev/null || python3 -m pip install --quiet --break-system-packages requests
@@ -45,5 +47,5 @@ jobs:
           git add data/
           if git diff --cached --quiet; then echo "Nothing new"; exit 0; fi
           git commit -q -m "Update newsroom state"
-          for i in 1 2 3; do git push -q && exit 0; git pull -q --rebase; done
+          for i in 1 2 3; do git push -q && exit 0; git pull -q --rebase -X theirs; done
           exit 1
