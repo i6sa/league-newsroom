@@ -669,10 +669,6 @@
     "Active",
     "2026-11-06T19:10Z"
    ],
-   "Greg Dortch": [
-    "Active",
-    "2026-11-02T15:08Z"
-   ],
    "Greg Dulcich": [
     "Active",
     "2026-11-09T03:40Z"
@@ -768,6 +764,10 @@
    "Jadarian Price": [
     "Active",
     "2026-11-09T02:51Z"
+   ],
+   "Jaden Bradley": [
+    "Active",
+    "2026-11-07T23:25Z"
    ],
    "Jahan Dotson": [
     "Active",
@@ -953,6 +953,10 @@
     "Active",
     "2026-11-09T01:13Z"
    ],
+   "Josh Allen": [
+    "Active",
+    "2026-11-10T04:48Z"
+   ],
    "Josh Cameron": [
     "Active",
     "2026-11-06T17:58Z"
@@ -1064,6 +1068,10 @@
    "Keon Coleman": [
     "Active",
     "2026-11-07T19:30Z"
+   ],
+   "KhaDarel Hodge": [
+    "Active",
+    "2026-11-08T01:20Z"
    ],
    "Khalil Herbert": [
     "Active",
@@ -1229,10 +1237,6 @@
     "Questionable",
     "2026-11-08T21:11Z"
    ],
-   "Montorie Foster Jr.": [
-    "Active",
-    "2026-11-08T00:45Z"
-   ],
    "Nate Adkins": [
     "Active",
     "2026-11-02T05:15Z"
@@ -1304,6 +1308,10 @@
    "Pharaoh Brown": [
     "Active",
     "2026-11-09T21:15Z"
+   ],
+   "Phil Mafah": [
+    "Active",
+    "2026-11-08T01:04Z"
    ],
    "Puka Nacua": [
     "Doubtful",
@@ -1472,10 +1480,6 @@
    "Tez Johnson": [
     "Active",
     "2026-11-04T03:07Z"
-   ],
-   "Theo Johnson": [
-    "Active",
-    "2026-11-05T01:35Z"
    ],
    "Theo Wease Jr.": [
     "Active",
@@ -1700,15 +1704,15 @@
     "2026-11-10T04:50Z",
     "2026-11-07T21:05Z"
    ],
+   "Greg Dortch": [
+    "Active",
+    "2026-11-10T05:04Z",
+    "2026-11-02T15:08Z"
+   ],
    "Jabari Small": [
     "Active",
     "2026-11-10T04:48Z",
     "2026-11-07T23:55Z"
-   ],
-   "Jaden Bradley": [
-    "Active",
-    "2026-11-10T05:03Z",
-    "2026-11-07T23:25Z"
    ],
    "James Mitchell": [
     "Active",
@@ -1738,25 +1742,15 @@
     "Active",
     "2026-11-09T23:56Z"
    ],
-   "Josh Allen": [
-    "Active",
-    "2026-11-10T05:03Z",
-    "2026-11-10T04:48Z"
-   ],
-   "KhaDarel Hodge": [
-    "Active",
-    "2026-11-10T05:03Z",
-    "2026-11-08T01:20Z"
-   ],
    "Khalil Shakir": [
     "Active",
     "2026-11-10T04:54Z",
     "2026-11-02T03:06Z"
    ],
-   "Phil Mafah": [
+   "Montorie Foster Jr.": [
     "Active",
-    "2026-11-10T05:03Z",
-    "2026-11-08T01:04Z"
+    "2026-11-10T05:04Z",
+    "2026-11-08T00:45Z"
    ],
    "Salvon Ahmed": [
     "Active",
@@ -1776,6 +1770,11 @@
     "Active",
     "2026-11-10T04:11Z",
     "2026-11-02T03:25Z"
+   ],
+   "Theo Johnson": [
+    "Active",
+    "2026-11-10T05:04Z",
+    "2026-11-05T01:35Z"
    ],
    "Zamir White": [
     "Active",
