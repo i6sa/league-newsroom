@@ -829,6 +829,10 @@
     "Injured Reserve",
     "2026-11-04T00:31Z"
    ],
+   "James Cook III": [
+    "Active",
+    "2026-11-10T04:39Z"
+   ],
    "Jameson Williams": [
     "Active",
     "2026-11-08T23:22Z"
@@ -1072,10 +1076,6 @@
    "Khalil Herbert": [
     "Active",
     "2026-11-08T00:19Z"
-   ],
-   "Khalil Shakir": [
-    "Active",
-    "2026-11-02T03:06Z"
    ],
    "Kirk Cousins": [
     "Active",
@@ -1717,11 +1717,6 @@
     "2026-11-10T04:48Z",
     "2026-11-07T23:55Z"
    ],
-   "James Cook III": [
-    "Active",
-    "2026-11-10T03:34Z",
-    "2026-11-01T22:30Z"
-   ],
    "James Mitchell": [
     "Active",
     "2026-11-10T04:07Z",
@@ -1754,6 +1749,11 @@
     "Active",
     "2026-11-10T03:28Z",
     "2026-11-01T22:28Z"
+   ],
+   "Khalil Shakir": [
+    "Active",
+    "2026-11-10T04:54Z",
+    "2026-11-02T03:06Z"
    ],
    "Salvon Ahmed": [
     "Active",
