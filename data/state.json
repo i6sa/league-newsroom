@@ -69,7 +69,7 @@
    "Carson Wentz": "Active",
    "Case Keenum": "Out",
    "CeeDee Lamb": "Active",
-   "Charlie Jones": "Active",
+   "Charlie Jones": "Questionable",
    "Charlie Kolar": "Active",
    "Charlie Smyth": "Active",
    "Chase Brown": "Active",
@@ -109,6 +109,7 @@
    "Daniel Jones": "Active",
    "Dare Ogunbowale": "Active",
    "Darius Cooper": "Active",
+   "Darnell Mooney": "Questionable",
    "Darnell Washington": "Active",
    "Darren Waller": "Active",
    "David Montgomery": "Out",
@@ -120,7 +121,7 @@
    "DeeJay Dallas": "Active",
    "Deebo Samuel Sr.": "Out",
    "Demarcus Robinson": "Active",
-   "Demond Claiborne": "Injured Reserve",
+   "Demond Claiborne": "Out",
    "Denzel Boston": "Active",
    "Derius Davis": "Active",
    "Derrick Henry": "Active",
@@ -428,10 +429,6 @@
    "Aaron Jones Sr.": [
     "Active",
     "2026-11-09T23:56Z"
-   ],
-   "Darnell Mooney": [
-    "Questionable",
-    "2026-11-10T00:18Z"
    ],
    "David Moore": [
     "Active",
