@@ -345,6 +345,10 @@
     "Active",
     "2026-11-09T00:12Z"
    ],
+   "Cody Schrader": [
+    "Active",
+    "2026-11-08T00:51Z"
+   ],
    "Cody White": [
     "Active",
     "2026-11-06T00:36Z"
@@ -837,10 +841,6 @@
     "Injured Reserve",
     "2026-11-04T00:31Z"
    ],
-   "James Mitchell": [
-    "Active",
-    "2026-11-07T22:40Z"
-   ],
    "Jameson Williams": [
     "Active",
     "2026-11-08T23:22Z"
@@ -1035,7 +1035,7 @@
    ],
    "Kaytron Allen": [
     "Active",
-    "2026-11-08T17:20Z"
+    "2026-11-10T03:56Z"
    ],
    "KeAndre Lambert-Smith": [
     "Active",
@@ -1701,11 +1701,6 @@
     "2026-11-10T03:55Z",
     "2026-11-07T20:45Z"
    ],
-   "Cody Schrader": [
-    "Active",
-    "2026-11-10T04:06Z",
-    "2026-11-08T00:51Z"
-   ],
    "David Moore": [
     "Active",
     "2026-11-09T23:20Z"
@@ -1714,6 +1709,11 @@
     "Active",
     "2026-11-10T03:34Z",
     "2026-11-01T22:30Z"
+   ],
+   "James Mitchell": [
+    "Active",
+    "2026-11-10T04:07Z",
+    "2026-11-07T22:40Z"
    ],
    "Jerome Ford": [
     "Active",
