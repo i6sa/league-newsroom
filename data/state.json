@@ -905,10 +905,6 @@
     "Injured Reserve",
     "2026-11-04T17:09Z"
    ],
-   "Jerome Ford": [
-    "Active",
-    "2026-11-08T00:00Z"
-   ],
    "Jerry Jeudy": [
     "Active",
     "2026-11-09T03:31Z"
@@ -1064,6 +1060,10 @@
    "Keenan Allen": [
     "Active",
     "2026-11-10T01:36Z"
+   ],
+   "Kendrick Bourne": [
+    "Injured Reserve",
+    "2026-11-03T21:12Z"
    ],
    "Kenneth Walker III": [
     "Active",
@@ -1527,7 +1527,7 @@
    ],
    "Tory Horton": [
     "Active",
-    "2026-11-03T17:16Z"
+    "2026-11-10T03:33Z"
    ],
    "Travis Etienne Jr.": [
     "Injured Reserve",
@@ -1713,6 +1713,11 @@
     "2026-11-10T03:34Z",
     "2026-11-01T22:30Z"
    ],
+   "Jerome Ford": [
+    "Active",
+    "2026-11-10T03:44Z",
+    "2026-11-08T00:00Z"
+   ],
    "John Metchie III": [
     "Active",
     "2026-11-09T23:34Z"
@@ -1730,10 +1735,6 @@
     "Active",
     "2026-11-10T03:28Z",
     "2026-11-01T22:28Z"
-   ],
-   "Kendrick Bourne": [
-    "Injured Reserve",
-    "2026-11-10T00:43Z"
    ],
    "Shawn Bowman": [
     "Active",
