@@ -789,10 +789,6 @@
     "Out",
     "2026-11-10T01:39Z"
    ],
-   "Jake Moody": [
-    "Active",
-    "2026-11-10T16:57Z"
-   ],
    "Jakobi Meyers": [
     "Active",
     "2026-11-06T05:14Z"
@@ -1683,6 +1679,11 @@
    ]
   },
   "injuries_gone": {
+   "Jake Moody": [
+    "Active",
+    "2026-11-10T18:10Z",
+    "2026-11-10T16:57Z"
+   ],
    "Nick Folk": [
     "Active",
     "2026-11-10T17:28Z",
