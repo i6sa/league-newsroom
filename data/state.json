@@ -877,6 +877,10 @@
     "Injured Reserve",
     "2026-10-28T22:30Z"
    ],
+   "Jeremiyah Love": [
+    "Injured Reserve",
+    "2026-11-03T21:13Z"
+   ],
    "Jeremy McNichols": [
     "Injured Reserve",
     "2026-11-04T17:09Z"
@@ -896,10 +900,6 @@
    "Joe Milton": [
     "Active",
     "2026-11-08T23:50Z"
-   ],
-   "Joey Aguilar": [
-    "Active",
-    "2026-11-10T16:14Z"
    ],
    "Joey Slye": [
     "Active",
@@ -977,10 +977,6 @@
     "Out",
     "2026-11-10T01:39Z"
    ],
-   "Josh Johnson": [
-    "Active",
-    "2026-11-10T00:34Z"
-   ],
    "Josh Whyle": [
     "Questionable",
     "2026-11-10T15:44Z"
@@ -1057,6 +1053,10 @@
     "Active",
     "2026-11-09T20:55Z"
    ],
+   "Kendrick Bourne": [
+    "Injured Reserve",
+    "2026-11-03T21:12Z"
+   ],
    "Kenneth Walker III": [
     "Active",
     "2026-11-08T22:24Z"
@@ -1080,6 +1080,10 @@
    "Khalil Shakir": [
     "Active",
     "2026-11-10T05:22Z"
+   ],
+   "Kirk Cousins": [
+    "Active",
+    "2026-11-10T19:02Z"
    ],
    "Kurtis Rourke": [
     "Active",
@@ -1680,25 +1684,20 @@
     "2026-11-10T18:12Z",
     "2026-11-10T16:57Z"
    ],
-   "Jeremiyah Love": [
-    "Injured Reserve",
-    "2026-11-10T19:48Z",
-    "2026-11-03T21:13Z"
+   "Joey Aguilar": [
+    "Active",
+    "2026-11-10T19:49Z",
+    "2026-11-10T16:14Z"
+   ],
+   "Josh Johnson": [
+    "Active",
+    "2026-11-10T19:49Z",
+    "2026-11-10T00:34Z"
    ],
    "Keenan Allen": [
     "Active",
     "2026-11-10T19:06Z",
     "2026-11-10T01:36Z"
-   ],
-   "Kendrick Bourne": [
-    "Injured Reserve",
-    "2026-11-10T19:48Z",
-    "2026-11-03T21:12Z"
-   ],
-   "Kirk Cousins": [
-    "Active",
-    "2026-11-10T19:48Z",
-    "2026-11-10T19:02Z"
    ],
    "Nick Folk": [
     "Active",
