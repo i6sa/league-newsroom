@@ -69,6 +69,10 @@
     "Active",
     "2026-11-07T00:43Z"
    ],
+   "Anthony Richardson Sr.": [
+    "Active",
+    "2026-11-02T02:01Z"
+   ],
    "Antonio Williams": [
     "Active",
     "2026-11-10T04:32Z"
@@ -973,10 +977,6 @@
     "Active",
     "2026-11-06T18:55Z"
    ],
-   "Josh Downs": [
-    "Active",
-    "2026-11-09T02:53Z"
-   ],
    "Josh Jacobs": [
     "Out",
     "2026-11-10T01:39Z"
@@ -1683,11 +1683,6 @@
    ]
   },
   "injuries_gone": {
-   "Anthony Richardson Sr.": [
-    "Active",
-    "2026-11-10T20:40Z",
-    "2026-11-02T02:01Z"
-   ],
    "Jake Moody": [
     "Active",
     "2026-11-10T18:12Z",
@@ -1697,6 +1692,11 @@
     "Injured Reserve",
     "2026-11-10T19:50Z",
     "2026-11-03T21:13Z"
+   ],
+   "Josh Downs": [
+    "Active",
+    "2026-11-10T20:42Z",
+    "2026-11-09T02:53Z"
    ],
    "Keenan Allen": [
     "Active",
