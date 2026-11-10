@@ -629,10 +629,6 @@
     "Active",
     "2026-11-09T04:59Z"
    ],
-   "Evan Svoboda": [
-    "Active",
-    "2026-11-10T23:06Z"
-   ],
    "Fernando Mendoza": [
     "Active",
     "2026-11-10T19:57Z"
@@ -865,10 +861,6 @@
     "Active",
     "2026-11-08T23:12Z"
    ],
-   "Jaydon Blue": [
-    "Active",
-    "2026-11-10T03:45Z"
-   ],
    "Jaylen Waddle": [
     "Questionable",
     "2026-11-08T19:52Z"
@@ -1084,6 +1076,10 @@
    "Khalil Shakir": [
     "Active",
     "2026-11-10T05:22Z"
+   ],
+   "Kimani Vidal": [
+    "Active",
+    "2026-11-03T01:50Z"
    ],
    "Kurtis Rourke": [
     "Active",
@@ -1457,10 +1453,6 @@
     "Active",
     "2026-11-05T02:12Z"
    ],
-   "Stone Smartt": [
-    "Questionable",
-    "2026-11-10T23:04Z"
-   ],
    "T.J. Hockenson": [
     "Active",
     "2026-11-10T05:14Z"
@@ -1700,10 +1692,20 @@
     "2026-11-10T20:53Z",
     "2026-11-02T02:01Z"
    ],
+   "Evan Svoboda": [
+    "Active",
+    "2026-11-10T23:11Z",
+    "2026-11-10T23:06Z"
+   ],
    "Jake Moody": [
     "Active",
     "2026-11-10T18:12Z",
     "2026-11-10T16:57Z"
+   ],
+   "Jaydon Blue": [
+    "Active",
+    "2026-11-10T23:11Z",
+    "2026-11-10T03:45Z"
    ],
    "Jeremiyah Love": [
     "Injured Reserve",
@@ -1725,11 +1727,6 @@
     "2026-11-10T19:50Z",
     "2026-11-03T21:12Z"
    ],
-   "Kimani Vidal": [
-    "Active",
-    "2026-11-10T23:10Z",
-    "2026-11-03T01:50Z"
-   ],
    "Kirk Cousins": [
     "Active",
     "2026-11-10T19:50Z",
@@ -1739,6 +1736,11 @@
     "Active",
     "2026-11-10T17:28Z",
     "2026-11-10T03:03Z"
+   ],
+   "Stone Smartt": [
+    "Questionable",
+    "2026-11-10T23:11Z",
+    "2026-11-10T23:04Z"
    ]
   },
   "news": [
