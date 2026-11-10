@@ -116,7 +116,8 @@ def test_injuries_post_status_changes_for_the_whole_nfl():
     assert lamar["title"] == "🚑 Lamar Jackson · QB → Injured Reserve"
     assert lamar["description"].startswith("**Injured Reserve** · Thumb (surgery) · expected back around Dec 13")
     assert lamar["color"] == 0x29126F and lamar["author"]["name"] == "Baltimore Ravens"
-    assert known == {"1": "Injured Reserve", "3": "Active", "4": "Questionable"}
+    assert {pid: status for pid, (status, _) in known.items()} == \
+        {"1": "Injured Reserve", "3": "Active", "4": "Questionable"}
 
     later = _injury_feed([_inj("1", "Lamar Jackson", "QB", "Injured Reserve", 1),
                           _inj("4", "Zay Flowers", "WR", "Out", 1), _inj("3", "Derrick Henry", "RB", "Active", 1)])
@@ -133,17 +134,44 @@ def test_injuries_post_status_changes_for_the_whole_nfl():
 
 def test_a_player_who_flickers_out_of_the_feed_is_not_posted_twice():
     yankoff = _inj("5", "Colson Yankoff", "TE", "Questionable", 1)
-    known = {"5": "Questionable"}
+    known = {"5": ["Questionable", yankoff["date"]]}
     with mock.patch.object(wire, "_get", return_value=_injury_feed([])):        # ESPN drops him for a minute
         posts, known, gone = wire.injuries(all_teams(), known, first_run=False)
     assert posts == [] and known == {} and gone["5"][0] == "Questionable"
     with mock.patch.object(wire, "_get", return_value=_injury_feed([yankoff])):  # and he's back
         posts, known, gone = wire.injuries(all_teams(), known, first_run=False, gone=gone)
-    assert posts == [] and known == {"5": "Questionable"} and gone == {}
+    assert posts == [] and known == {"5": ["Questionable", yankoff["date"]]} and gone == {}
     out = _injury_feed([_inj("5", "Colson Yankoff", "TE", "Out", 0)])            # a real change still posts
     with mock.patch.object(wire, "_get", return_value=out):
         posts, _, _ = wire.injuries(all_teams(), known, first_run=False)
     assert posts[0][1]["title"] == "🔴 Colson Yankoff · TE → Out"
+
+
+def test_an_older_copy_of_an_entry_does_not_flip_the_status_back():
+    out_ = _inj("7", "Joshua Palmer", "WR", "Out", 3)                       # the 2:24 version
+    ir = _inj("7", "Joshua Palmer", "WR", "Injured Reserve", 2)             # the 2:39 version
+    with mock.patch.object(wire, "_get", return_value=_injury_feed([out_])):
+        posts, known, gone = wire.injuries(all_teams(), {}, first_run=False)
+    assert [e["title"] for _, e in posts] == ["🔴 Joshua Palmer · WR → Out"]
+    with mock.patch.object(wire, "_get", return_value=_injury_feed([ir])):
+        posts, known, gone = wire.injuries(all_teams(), known, first_run=False, gone=gone)
+    assert [e["title"] for _, e in posts] == ["🚑 Joshua Palmer · WR → Injured Reserve"]
+    for feed in ([out_], [out_, ir], [ir, out_], [ir]):                     # ESPN serving old and new copies
+        with mock.patch.object(wire, "_get", return_value=_injury_feed(feed)):
+            posts, known, gone = wire.injuries(all_teams(), known, first_run=False, gone=gone)
+        assert posts == [] and known["7"][0] == "Injured Reserve"
+
+
+def test_older_saves_without_update_times_still_work():
+    with mock.patch.object(wire, "_get", return_value=_injury_feed([_inj("8", "A Player", "RB", "Out", 1)])):
+        posts, known, _ = wire.injuries(all_teams(), {"8": "Out"}, first_run=False)
+    assert posts == [] and known["8"][0] == "Out"
+
+
+def test_the_first_run_after_the_update_learns_quietly():
+    with mock.patch.object(wire, "_get", return_value=_injury_feed([_inj("8", "A Player", "RB", "Injured Reserve", 1)])):
+        posts, known, _ = wire.injuries(all_teams(), {"8": "Out"}, first_run=False)
+    assert posts == [] and known["8"][0] == "Injured Reserve"
 
 
 def test_a_player_gone_for_a_long_time_counts_as_new_when_he_returns():

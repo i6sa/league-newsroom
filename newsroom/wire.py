@@ -114,19 +114,31 @@ def _status_line(prev: str | None, now: str) -> str:
     return f"{prev} → {now}" if prev and prev != now else now
 
 
-def injuries(all_teams: dict, known: dict, first_run: bool, gone: dict | None = None):
-    """(posts, updated statuses, recently missing). known: athlete id -> last status seen.
+def _entry(value):
+    """A saved status: [status, ESPN's update time] (older saves are just the status)."""
+    if isinstance(value, list):
+        return value[0], (value[1] if len(value) > 1 else None)
+    return value, None
 
-    gone: athlete id -> [last status, when they dropped out of the feed]. ESPN's feed flickers
-    (a player can vanish for a minute and come back), so a player who reappears within
-    FLICKER_HOURS keeps his old status instead of being posted again as a new injury."""
+
+def injuries(all_teams: dict, known: dict, first_run: bool, gone: dict | None = None):
+    """(posts, updated statuses, recently missing).
+
+    known: athlete id -> [status, ESPN's update time] from the last run.
+    ESPN's feed flickers in two ways, and neither should post anything:
+      - a player vanishes for a minute and comes back. gone remembers who dropped out
+        ([status, when they dropped out, update time]) for FLICKER_HOURS.
+      - an older copy of a player's entry comes back after a newer one (Out, then IR, then
+        Out again). Only an update newer than the last one we saw counts."""
     now = datetime.now(timezone.utc)
-    current, out = {}, []
     gone = dict(gone or {})
 
     def missing_for(pid):
         since = _when(gone[pid][1]) if pid in gone else None
         return now - since if since else None
+
+    # the newest entry for each player in this copy of the feed
+    latest = {}
     for team_block in _get("injuries").get("injuries", []):
         team = all_teams.get(str(team_block.get("id"))) or all_teams.get(team_block.get("displayName", ""))
         for inj in team_block.get("injuries", []):
@@ -139,28 +151,42 @@ def injuries(all_teams: dict, known: dict, first_run: bool, gone: dict | None = 
             reason = ((inj.get("details") or {}).get("type") or "").lower()
             if reason in NOT_INJURIES:
                 continue                            # healthy scratches and the like aren't injuries
-            current[pid] = status
-            prev = known.get(pid)
-            if prev is None and pid in gone and (missing_for(pid) or timedelta(days=99)) <= timedelta(hours=FLICKER_HOURS):
-                prev = gone[pid][0]                 # it was only a flicker
             when = _when(inj.get("date"))
-            if status == "Active":
-                if prev and prev != "Active":      # was hurt, now back
-                    out.append((when, pid, _injury_embed(team, ath, pos, inj, prev, back=True)))
-                continue
-            if prev == status:
-                continue
-            if first_run and not (when and now - when <= timedelta(hours=BACKFILL_HOURS)):
-                continue                            # first run only shows the last few hours
-            if not first_run and prev is None and when and now - when > timedelta(days=3):
-                continue                            # an old listing we just hadn't seen yet
-            out.append((when, pid, _injury_embed(team, ath, pos, inj, prev)))
+            old = latest.get(pid)
+            if old is None or (when and (old[0] is None or when > old[0])):
+                latest[pid] = (when, team, ath, pos, inj, status)
+
+    current, out = {}, []
+    for pid, (when, team, ath, pos, inj, status) in latest.items():
+        saved = known.get(pid)
+        if saved is None and pid in gone and (missing_for(pid) or timedelta(days=99)) <= timedelta(hours=FLICKER_HOURS):
+            saved = [gone[pid][0], gone[pid][2] if len(gone[pid]) > 2 else None]   # it was only a flicker
+        prev, prev_stamp = _entry(saved) if saved is not None else (None, None)
+        prev_when = _when(prev_stamp)
+        if prev_when and when and when < prev_when:
+            current[pid] = saved                    # an older copy of this entry: ignore it
+            continue
+        current[pid] = [status, inj.get("date")]
+        if saved is not None and not isinstance(saved, list):
+            continue                                # first run after an update: just learn ESPN's update times
+        if status == "Active":
+            if prev and prev != "Active":          # was hurt, now back
+                out.append((when, pid, _injury_embed(team, ath, pos, inj, prev, back=True)))
+            continue
+        if prev == status:
+            continue
+        if first_run and not (when and now - when <= timedelta(hours=BACKFILL_HOURS)):
+            continue                                # first run only shows the last few hours
+        if not first_run and prev is None and when and now - when > timedelta(days=3):
+            continue                                # an old listing we just hadn't seen yet
+        out.append((when, pid, _injury_embed(team, ath, pos, inj, prev)))
     out.sort(key=lambda r: r[0] or now)
     cap = 10 if first_run else MAX_PER_RUN
     stamp = now.strftime("%Y-%m-%dT%H:%MZ")
-    for pid, status in known.items():
+    for pid, saved in known.items():
         if pid not in current:
-            gone.setdefault(pid, [status, stamp])
+            status, updated = _entry(saved)
+            gone.setdefault(pid, [status, stamp, updated])
     for pid in list(gone):
         if pid in current or (missing_for(pid) or timedelta(days=99)) > timedelta(hours=FLICKER_HOURS):
             del gone[pid]
