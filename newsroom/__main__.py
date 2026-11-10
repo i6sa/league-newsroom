@@ -51,11 +51,23 @@ class Router:
 def main(argv=None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--dry-run", action="store_true")
+    parser.add_argument("--cleanup-hours", type=float, default=0,
+                        help="delete repeated injury posts from this many hours back, then stop")
     args = parser.parse_args(argv)
     token = os.environ.get("DISCORD_BOT_TOKEN", "").strip()
     if not token:
         print("Add the DISCORD_BOT_TOKEN secret to this repo first (Settings → Secrets and variables → Actions).")
         return 1
+    if args.cleanup_hours:
+        from . import cleanup
+        router = Router(BotClient(token))
+        found = router.target("wire_injuries")
+        if not found:
+            print("cleanup: couldn't find the injury channel")
+            return 1
+        for line in cleanup.run(router.bot, found[0], args.cleanup_hours, args.dry_run):
+            print(line)
+        return 0
     state = json.loads(STATE.read_text()) if STATE.exists() else {}
     before = json.dumps(state, sort_keys=True)
     for line in wire.run(Config(CHANNELS), Router(BotClient(token)), state, args.dry_run):

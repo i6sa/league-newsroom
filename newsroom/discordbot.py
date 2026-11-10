@@ -37,6 +37,14 @@ class BotClient:
         payload = {"embeds": [embed], "allowed_mentions": {"parse": []}, **({"content": content} if content else {})}
         return self._request("POST", f"/channels/{channel_id}/messages", payload)["id"]
 
+    def messages(self, channel_id: str, before: str | None = None) -> list[dict]:
+        """Up to 100 messages, newest first."""
+        params = {"limit": 100, **({"before": before} if before else {})}
+        return self._request("GET", f"/channels/{channel_id}/messages", params=params) or []
+
+    def delete(self, channel_id: str, message_id: str) -> None:
+        self._request("DELETE", f"/channels/{channel_id}/messages/{message_id}", missing_ok=True)
+
     def me(self) -> dict:
         return self._request("GET", "/users/@me")
 

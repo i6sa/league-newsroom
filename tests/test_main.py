@@ -40,3 +40,13 @@ def test_saves_state_only_when_something_changed(monkeypatch, tmp_path):
     assert json.loads((tmp_path / "state.json").read_text()) == {"wire": {"news": ["a"]}}
     (tmp_path / "state.json").unlink()
     assert cli.main(["--dry-run"]) == 0 and not (tmp_path / "state.json").exists()
+
+
+def test_cleanup_keeps_the_first_post_of_each_title():
+    from newsroom import cleanup
+    bot = {"id": "B"}
+    msgs = [{"id": str(i), "author": bot if who == "B" else {"id": who}, "embeds": [{"title": t}]}
+            for i, (who, t) in enumerate([("B", "🔴 Palmer → Out"), ("B", "🚑 Palmer → IR"), ("B", "🔴 Palmer → Out"),
+                                           ("U", "🔴 Palmer → Out"), ("B", "🚑 Palmer → IR"), ("B", "🟡 Yankoff → Q")],
+                                          start=100)]
+    assert [m["id"] for m in cleanup.repeats(list(reversed(msgs)), "B")] == ["102", "104"]

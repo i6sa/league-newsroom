@@ -10,6 +10,10 @@ on:
         description: Print to this log instead of posting to Discord
         type: boolean
         default: false
+      cleanup_hours:
+        description: Delete repeated injury posts from this many hours back (0 = normal run)
+        type: string
+        default: "0"
   schedule:
     - cron: "*/15 * * * *"
 
@@ -36,8 +40,11 @@ jobs:
         env:
           DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
           DRY_RUN: ${{ inputs.dry_run }}
+          CLEANUP_HOURS: ${{ inputs.cleanup_hours || '0' }}
         run: |
-          if [ "$DRY_RUN" = "true" ]; then python3 -m newsroom --dry-run; else python3 -m newsroom; fi
+          ARGS="--cleanup-hours $CLEANUP_HOURS"
+          if [ "$DRY_RUN" = "true" ]; then ARGS="$ARGS --dry-run"; fi
+          python3 -m newsroom $ARGS
 
       - name: Remember what was posted
         if: always()
