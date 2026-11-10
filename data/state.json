@@ -1,430 +1,1702 @@
 {
  "wire": {
   "injuries": {
-   "A.J. Brown": "Out",
-   "AJ Barner": "Active",
-   "AJ Dillon": "Active",
-   "Aaron Rodgers": "Active",
-   "Adam Randall": "Injured Reserve",
-   "Adonai Mitchell": "Active",
-   "Aidan O'Connell": "Active",
-   "Alec Pierce": "Injured Reserve",
-   "Alvin Kamara": "Active",
-   "Ameer Abdullah": "Active",
-   "Amon-Ra St. Brown": "Active",
-   "Andre Szmyt": "Active",
-   "Andrei Iosivas": "Injured Reserve",
-   "Andy Borregales": "Active",
-   "Andy Dalton": "Active",
-   "Anthony Gould": "Active",
-   "Antonio Williams": "Active",
-   "Ashton Dulin": "Active",
-   "Ashton Jeanty": "Active",
-   "Athan Kaliakmanis": "Active",
-   "Audric Estime": "Active",
-   "Austin Ekeler": "Active",
-   "Baker Mayfield": "Active",
-   "Bam Knight": "Out",
-   "Bauer Sharp": "Active",
-   "Beaux Collins": "Active",
-   "Behren Morton": "Active",
-   "Ben Skowronek": "Out",
-   "Bhayshul Tuten": "Active",
-   "Bijan Robinson": "Active",
-   "Blake Corum": "Active",
-   "Bo Melton": "Questionable",
-   "Bo Nix": "Active",
-   "Braelon Allen": "Active",
-   "Brandon Aubrey": "Active",
-   "Brandon McManus": "Active",
-   "Brandon Smith": "Active",
-   "Breece Hall": "Active",
-   "Brenen Thompson": "Out",
-   "Brenton Strange": "Active",
-   "Brevin Jordan": "Active",
-   "Brevyn Spann-Ford": "Active",
-   "Brian Robinson Jr.": "Injured Reserve",
-   "Brian Thomas Jr.": "Active",
-   "Britain Covey": "Out",
-   "Brock Bowers": "Active",
-   "Brock Purdy": "Active",
-   "Bryce Young": "Active",
-   "Brycen Tremayne": "Active",
-   "Bucky Irving": "Active",
-   "C.J. Stroud": "Active",
-   "CJ Donaldson": "Out",
-   "CJ Williams": "Active",
-   "Cade Otton": "Active",
-   "Cade Stover": "Active",
-   "Cairo Santos": "Active",
-   "Caleb Douglas": "Active",
-   "Caleb Williams": "Active",
-   "Calvin Ridley": "Active",
-   "Cam Little": "Active",
-   "Cam Skattebo": "Out",
-   "Cam Ward": "Active",
-   "Cameron Dicker": "Active",
-   "Carlos Washington Jr.": "Active",
-   "Carnell Tate": "Out",
-   "Carsen Ryan": "Active",
-   "Carson Beck": "Active",
-   "Carson Wentz": "Active",
-   "Case Keenum": "Out",
-   "CeeDee Lamb": "Active",
-   "Charlie Jones": "Questionable",
-   "Charlie Kolar": "Active",
-   "Charlie Smyth": "Active",
-   "Chase Brown": "Active",
-   "Chase McLaughlin": "Active",
-   "Chig Okonkwo": "Questionable",
-   "Chimere Dike": "Active",
-   "Chris Blair": "Active",
-   "Chris Boswell": "Active",
-   "Chris Brooks": "Injured Reserve",
-   "Chris Godwin Jr.": "Active",
-   "Chris Olave": "Active",
-   "Chris Rodriguez Jr.": "Active",
-   "Christian Kirk": "Injured Reserve",
-   "Christian McCaffrey": "Active",
-   "Christian Watson": "Active",
-   "Chuba Hubbard": "Active",
-   "Cody Schrader": "Active",
-   "Cody White": "Active",
-   "Colbie Young": "Active",
-   "Colby Parkinson": "Active",
-   "Colson Yankoff": "Questionable",
-   "Colston Loveland": "Active",
-   "Cooper Kupp": "Active",
-   "Corey Kiner": "Active",
-   "Courtland Sutton": "Active",
-   "Cyrus Allen": "Active",
-   "D'Andre Swift": "Active",
-   "DJ Giddens": "Active",
-   "DJ Moore": "Active",
-   "DJ Uiagalelei": "Active",
-   "DK Metcalf": "Active",
-   "Dak Prescott": "Active",
-   "Dallas Goedert": "Active",
-   "Dallen Bentley": "Active",
-   "Dalton Kincaid": "Active",
-   "Dalton Schultz": "Active",
-   "Daniel Jones": "Active",
-   "Dare Ogunbowale": "Active",
-   "Darius Cooper": "Active",
-   "Darnell Mooney": "Questionable",
-   "Darnell Washington": "Active",
-   "Darren Waller": "Active",
-   "David Montgomery": "Out",
-   "David Njoku": "Injured Reserve",
-   "Dawson Knox": "Active",
-   "DeMario Douglas": "Active",
-   "DeVonta Smith": "Out",
-   "Dean Connors": "Injured Reserve",
-   "DeeJay Dallas": "Active",
-   "Deebo Samuel Sr.": "Out",
-   "Demarcus Robinson": "Active",
-   "Demond Claiborne": "Injured Reserve",
-   "Denzel Boston": "Active",
-   "Derius Davis": "Active",
-   "Derrick Henry": "Active",
-   "Deshaun Watson": "Out",
-   "Devin Duvernay": "Active",
-   "Devin Singletary": "Active",
-   "Devontez Walker": "Active",
-   "Dillon Gabriel": "Active",
-   "Dohnte Meyers": "Active",
-   "Dominic Zvada": "Active",
-   "Dont'e Thornton Jr.": "Active",
-   "Dontayvion Wicks": "Out",
-   "Drake Dabney": "Active",
-   "Drake London": "Active",
-   "Drake Maye": "Active",
-   "Drew Allar": "Active",
-   "Drew Lock": "Questionable",
-   "Drew Ogletree": "Active",
-   "Drew Stevens": "Active",
-   "Dyami Brown": "Injured Reserve",
-   "Dylan Sampson": "Active",
-   "Efton Chism III": "Active",
-   "Eli Heidenreich": "Active",
-   "Eli Stowers": "Active",
-   "Elic Ayomanor": "Active",
-   "Elijah Higgins": "Active",
-   "Elijah Mitchell": "Active",
-   "Elijah Moore": "Active",
-   "Elijah Sarratt": "Active",
-   "Emanuel Wilson": "Active",
-   "Emeka Egbuka": "Active",
-   "Emmett Johnson": "Active",
-   "Erick All Jr.": "Injured Reserve",
-   "Evan Engram": "Active",
-   "Evan McPherson": "Active",
-   "Fernando Mendoza": "Active",
-   "Foster Moreau": "Active",
-   "Gardner Minshew II": "Doubtful",
-   "Garrett Nussmeier": "Active",
-   "Garrett Wilson": "Out",
-   "Geno Smith": "Active",
-   "George Holani": "Active",
-   "George Kittle": "Active",
-   "George Pickens": "Out",
-   "Germie Bernard": "Active",
-   "Greg Desrosiers Jr.": "Active",
-   "Greg Dortch": "Active",
-   "Greg Dulcich": "Active",
-   "Gunnar Helm": "Active",
-   "Harold Fannin Jr.": "Active",
-   "Harrison Butker": "Active",
-   "Harrison Wallace III": "Active",
-   "Haynes King": "Active",
-   "Hollywood Brown": "Active",
-   "Hunter Henry": "Active",
-   "Ian Thomas": "Active",
-   "Isaiah Davis": "Active",
-   "Isaiah Likely": "Active",
-   "Isaiah Williams": "Active",
-   "Isiah Pacheco": "Injured Reserve",
-   "J.J. McCarthy": "Questionable",
-   "J.K. Dobbins": "Active",
-   "Ja'Kobi Lane": "Active",
-   "Ja'Marr Chase": "Active",
-   "Ja'Tavion Sanders": "Active",
-   "Jabari Small": "Active",
-   "Jack Bech": "Active",
-   "Jack Strand": "Active",
-   "Jacob Saylors": "Out",
-   "Jacoby Brissett": "Active",
-   "Jadarian Price": "Active",
-   "Jaden Bradley": "Active",
-   "Jahan Dotson": "Active",
-   "Jahmyr Gibbs": "Active",
-   "Jake Bates": "Active",
-   "Jake Elliott": "Active",
-   "Jake Ferguson": "Questionable",
-   "Jake Moody": "Active",
-   "Jakobi Meyers": "Active",
-   "Jalen Coker": "Active",
-   "Jalen McMillan": "Injured Reserve",
-   "Jalen Milroe": "Active",
-   "Jalen Nailor": "Active",
-   "Jalen Tolbert": "Active",
-   "Jalin Hyatt": "Active",
-   "James Conner": "Injured Reserve",
-   "James Cook III": "Active",
-   "James Mitchell": "Active",
-   "Jameson Williams": "Active",
-   "Jared Goff": "Active",
-   "Jason Myers": "Active",
-   "Jason Sanders": "Active",
-   "Jauan Jennings": "Out",
-   "Javonte Williams": "Active",
-   "Jaxon Smith-Njigba": "Active",
-   "Jayden Daniels": "Active",
-   "Jaydon Blue": "Active",
-   "Jaylen Waddle": "Questionable",
-   "Jaylen Warren": "Active",
-   "Jaylen Wright": "Out",
-   "Jaylin Noel": "Injured Reserve",
-   "Jeremiyah Love": "Injured Reserve",
-   "Jeremy McNichols": "Injured Reserve",
-   "Jerome Ford": "Active",
-   "Jerry Jeudy": "Active",
-   "Joe Burrow": "Active",
-   "Joe Fagnano": "Active",
-   "Joe Milton": "Active",
-   "Joey Slye": "Active",
-   "John Bates": "Active",
-   "Jonah Coleman": "Active",
-   "Jonathan Mingo": "Questionable",
-   "Jonathan Taylor": "Active",
-   "Jonathon Brooks": "Injured Reserve",
-   "Jonnu Smith": "Active",
-   "Jordan Addison": "Active",
-   "Jordan Hudson": "Active",
-   "Jordan Love": "Active",
-   "Jordan Watkins": "Active",
-   "Jordan Whittington": "Active",
-   "Jordyn Tyson": "Active",
-   "Josh Allen": "Active",
-   "Josh Cameron": "Active",
-   "Josh Cuevas": "Active",
-   "Josh Downs": "Active",
-   "Josh Jacobs": "Questionable",
-   "Josh Whyle": "Out",
-   "Joshua Karty": "Active",
-   "Joshua Palmer": "Out",
-   "Justice Hill": "Active",
-   "Justin Herbert": "Questionable",
-   "Justin Joly": "Active",
-   "Juwan Johnson": "Active",
-   "KC Concepcion": "Active",
-   "Ka'imi Fairbairn": "Active",
-   "KaVontae Turpin": "Out",
-   "Kaelon Black": "Active",
-   "Kaleb Johnson": "Active",
-   "Kalif Raymond": "Active",
-   "Kayshon Boutte": "Active",
-   "Kaytron Allen": "Active",
-   "KeAndre Lambert-Smith": "Active",
-   "Keaton Mitchell": "Active",
-   "Kedon Slovis": "Active",
-   "Kenneth Walker III": "Active",
-   "Kenny Gainwell": "Active",
-   "Kenyon Sadiq": "Active",
-   "Keon Coleman": "Active",
-   "KhaDarel Hodge": "Active",
-   "Khalil Herbert": "Active",
-   "Khalil Shakir": "Active",
-   "Kirk Cousins": "Active",
-   "Kurtis Rourke": "Active",
-   "Kyle Monangai": "Out",
-   "Kyle Pitts Sr.": "Active",
-   "Kylen Granson": "Active",
-   "Kyler Murray": "Out",
-   "Kyren Williams": "Active",
-   "Ladd McConkey": "Questionable",
-   "Lamar Jackson": "Injured Reserve",
-   "Laquon Treadwell": "Active",
-   "Lil'Jordan Humphrey": "Active",
-   "Luke Schoonmaker": "Out",
-   "Luther Burden III": "Questionable",
-   "Mack Hollins": "Active",
-   "Makai Lemon": "Active",
-   "Malachi Corley": "Active",
-   "Malik Benson": "Active",
-   "Malik Nabers": "Active",
-   "Malik Washington": "Active",
-   "Malik Willis": "Questionable",
-   "MarShawn Lloyd": "Out",
-   "Mark Andrews": "Active",
-   "Marvin Harrison Jr.": "Active",
-   "Mason Rudolph": "Active",
-   "Mason Taylor": "Active",
-   "Matt Gay": "Active",
-   "Matt Hibner": "Active",
-   "Matthew Golden": "Active",
-   "Matthew Stafford": "Active",
-   "Max Brosmer": "Active",
-   "Michael Mayer": "Active",
-   "Michael Penix Jr.": "Active",
-   "Michael Pittman Jr.": "Injured Reserve",
-   "Michael Wilson": "Out",
-   "Mike Evans": "Out",
-   "Mike Gesicki": "Active",
-   "Mike Washington Jr.": "Active",
-   "Mitchell Tinsley": "Active",
-   "Mo Alie-Cox": "Questionable",
-   "Montorie Foster Jr.": "Active",
-   "Nate Adkins": "Active",
-   "Nate Boerkircher": "Active",
-   "Nicholas Singleton": "Active",
-   "Nick Folk": "Active",
-   "Nico Collins": "Active",
-   "Nikko Remigio": "Active",
-   "Noah Gray": "Active",
-   "Odell Beckham Jr.": "Active",
-   "Olamide Zaccheaus": "Active",
-   "Ollie Gordon II": "Active",
-   "Omar Cooper Jr.": "Active",
-   "Omarion Hampton": "Active",
-   "Parker Washington": "Active",
-   "Pat Bryant": "Active",
-   "Pat Freiermuth": "Active",
-   "Patrick Mahomes": "Questionable",
-   "Pharaoh Brown": "Active",
-   "Phil Mafah": "Active",
-   "Puka Nacua": "Doubtful",
-   "Quentin Johnston": "Active",
-   "Quinshon Judkins": "Active",
-   "Rachaad White": "Active",
-   "Rashee Rice": "Active",
-   "Rashid Shaheed": "Out",
-   "Rashod Bateman": "Active",
-   "Ray Davis": "Active",
-   "Reggie Virgil": "Active",
-   "Rhamondre Stevenson": "Questionable",
-   "Rico Dowdle": "Active",
-   "Riley Leonard": "Active",
-   "Robert Henry Jr.": "Active",
-   "Rome Odunze": "Active",
-   "Ronnie Rivers": "Active",
-   "Roschon Johnson": "Active",
-   "Ryan Flournoy": "Active",
-   "Salvon Ahmed": "Active",
-   "Sam Darnold": "Out",
-   "Sam Ehlinger": "Active",
-   "Sam LaPorta": "Active",
-   "Sam Roush": "Active",
-   "Samaje Perine": "Active",
-   "Saquon Barkley": "Active",
-   "Savion Williams": "Active",
-   "Sean Tucker": "Active",
-   "Seth McGowan": "Active",
-   "Shawn Bowman": "Active",
-   "Shedeur Sanders": "Active",
-   "Simi Fehoko": "Active",
-   "Sione Vaki": "Active",
-   "Spencer Shrader": "Active",
-   "Stefon Diggs": "Active",
-   "Stephen Carlson": "Active",
-   "T.J. Hockenson": "Active",
-   "Tank Dell": "Active",
-   "Tanner Koziol": "Active",
-   "Tanner McKee": "Active",
-   "Taylen Green": "Active",
-   "Ted Hurst III": "Active",
-   "Tee Higgins": "Active",
-   "Terrance Ferguson": "Injured Reserve",
-   "Tetairoa McMillan": "Active",
-   "Tez Johnson": "Active",
-   "Theo Johnson": "Active",
-   "Theo Wease Jr.": "Active",
-   "Thomas Fidone II": "Active",
-   "Tim Patrick": "Active",
-   "Tommy Tremble": "Active",
-   "Tony Pollard": "Active",
-   "Tory Horton": "Active",
-   "Travis Etienne Jr.": "Injured Reserve",
-   "Travis Hunter": "Active",
-   "Travis Kelce": "Active",
-   "Tre Tucker": "Active",
-   "Tre' Harris": "Active",
-   "TreVeyon Henderson": "Out",
-   "Trent Sherfield": "Active",
-   "Trevor Lawrence": "Active",
-   "Trey McBride": "Active",
-   "Trey Smack": "Active",
-   "Treylon Burks": "Out",
-   "Tucker Kraft": "Active",
-   "Ty Johnson": "Active",
-   "Ty Simpson": "Active",
-   "Tyjae Spears": "Out",
-   "Tyler Allgeier": "Active",
-   "Tyler Bass": "Active",
-   "Tyler Goodson": "Out",
-   "Tyler Higbee": "Active",
-   "Tyler Huntley": "Injured Reserve",
-   "Tyler Shough": "Active",
-   "Tyler Warren": "Active",
-   "Tyrell Shavers": "Out",
-   "Van Jefferson": "Active",
-   "Wan'Dale Robinson": "Active",
-   "Wil Lutz": "Active",
-   "Will Howard": "Active",
-   "Will Kacmarek": "Questionable",
-   "Will Mallory": "Active",
-   "Will Reichard": "Active",
-   "Woody Marks": "Active",
-   "Xavier Hutchinson": "Active",
-   "Xavier Legette": "Injured Reserve",
-   "Xavier Worthy": "Questionable",
-   "Zach Charbonnet": "Active",
-   "Zach Wilson": "Active",
-   "Zachariah Branch": "Out",
-   "Zamir White": "Active",
-   "Zane Gonzalez": "Active",
-   "Zavier Scott": "Injured Reserve",
-   "Zay Flowers": "Active"
+   "A.J. Brown": [
+    "Out",
+    "2026-11-09T21:29Z"
+   ],
+   "AJ Barner": [
+    "Active",
+    "2026-11-09T01:42Z"
+   ],
+   "AJ Dillon": [
+    "Active",
+    "2026-11-09T20:56Z"
+   ],
+   "Aaron Rodgers": [
+    "Active",
+    "2026-11-02T02:43Z"
+   ],
+   "Adam Randall": [
+    "Injured Reserve",
+    "2026-11-05T01:10Z"
+   ],
+   "Adonai Mitchell": [
+    "Active",
+    "2026-11-09T03:53Z"
+   ],
+   "Aidan O'Connell": [
+    "Active",
+    "2026-11-09T21:19Z"
+   ],
+   "Alec Pierce": [
+    "Injured Reserve",
+    "2026-11-04T17:54Z"
+   ],
+   "Alvin Kamara": [
+    "Active",
+    "2026-11-09T02:23Z"
+   ],
+   "Ameer Abdullah": [
+    "Active",
+    "2026-11-06T17:39Z"
+   ],
+   "Amon-Ra St. Brown": [
+    "Active",
+    "2026-11-08T22:17Z"
+   ],
+   "Andre Szmyt": [
+    "Active",
+    "2026-11-09T05:08Z"
+   ],
+   "Andrei Iosivas": [
+    "Injured Reserve",
+    "2026-11-09T19:43Z"
+   ],
+   "Andy Borregales": [
+    "Active",
+    "2026-11-03T03:29Z"
+   ],
+   "Andy Dalton": [
+    "Active",
+    "2026-11-09T20:54Z"
+   ],
+   "Anthony Gould": [
+    "Active",
+    "2026-11-07T00:43Z"
+   ],
+   "Antonio Williams": [
+    "Active",
+    "2026-11-02T05:04Z"
+   ],
+   "Ashton Dulin": [
+    "Active",
+    "2026-11-09T01:46Z"
+   ],
+   "Ashton Jeanty": [
+    "Active",
+    "2026-11-09T02:04Z"
+   ],
+   "Athan Kaliakmanis": [
+    "Active",
+    "2026-11-09T21:36Z"
+   ],
+   "Audric Estime": [
+    "Active",
+    "2026-11-09T01:09Z"
+   ],
+   "Austin Ekeler": [
+    "Active",
+    "2026-11-02T05:01Z"
+   ],
+   "Baker Mayfield": [
+    "Active",
+    "2026-11-09T05:21Z"
+   ],
+   "Bam Knight": [
+    "Out",
+    "2026-11-09T20:45Z"
+   ],
+   "Bauer Sharp": [
+    "Active",
+    "2026-11-04T19:17Z"
+   ],
+   "Beaux Collins": [
+    "Active",
+    "2026-11-08T13:09Z"
+   ],
+   "Behren Morton": [
+    "Active",
+    "2026-11-09T21:28Z"
+   ],
+   "Ben Skowronek": [
+    "Out",
+    "2026-11-03T13:07Z"
+   ],
+   "Bhayshul Tuten": [
+    "Active",
+    "2026-11-06T04:49Z"
+   ],
+   "Bijan Robinson": [
+    "Active",
+    "2026-11-08T19:30Z"
+   ],
+   "Blake Corum": [
+    "Active",
+    "2026-11-08T22:52Z"
+   ],
+   "Bo Melton": [
+    "Questionable",
+    "2026-11-09T00:35Z"
+   ],
+   "Bo Nix": [
+    "Active",
+    "2026-11-08T23:47Z"
+   ],
+   "Braelon Allen": [
+    "Active",
+    "2026-11-09T00:26Z"
+   ],
+   "Brandon Aubrey": [
+    "Active",
+    "2026-11-09T05:53Z"
+   ],
+   "Brandon McManus": [
+    "Active",
+    "2026-11-03T03:13Z"
+   ],
+   "Brandon Smith": [
+    "Active",
+    "2026-10-31T23:44Z"
+   ],
+   "Breece Hall": [
+    "Active",
+    "2026-11-08T21:31Z"
+   ],
+   "Brenen Thompson": [
+    "Out",
+    "2026-11-09T21:23Z"
+   ],
+   "Brenton Strange": [
+    "Active",
+    "2026-11-06T17:07Z"
+   ],
+   "Brevin Jordan": [
+    "Active",
+    "2026-11-05T23:05Z"
+   ],
+   "Brevyn Spann-Ford": [
+    "Active",
+    "2026-11-10T01:01Z"
+   ],
+   "Brian Robinson Jr.": [
+    "Injured Reserve",
+    "2026-11-07T21:13Z"
+   ],
+   "Brian Thomas Jr.": [
+    "Active",
+    "2026-11-06T17:01Z"
+   ],
+   "Britain Covey": [
+    "Out",
+    "2026-11-09T21:32Z"
+   ],
+   "Brock Bowers": [
+    "Active",
+    "2026-11-09T01:17Z"
+   ],
+   "Brock Purdy": [
+    "Active",
+    "2026-11-09T01:50Z"
+   ],
+   "Bryce Young": [
+    "Active",
+    "2026-11-09T00:07Z"
+   ],
+   "Brycen Tremayne": [
+    "Active",
+    "2026-11-02T15:17Z"
+   ],
+   "Bucky Irving": [
+    "Active",
+    "2026-11-09T19:49Z"
+   ],
+   "C.J. Stroud": [
+    "Active",
+    "2026-11-09T01:30Z"
+   ],
+   "CJ Donaldson": [
+    "Out",
+    "2026-11-09T21:29Z"
+   ],
+   "CJ Williams": [
+    "Active",
+    "2026-11-09T21:16Z"
+   ],
+   "Cade Otton": [
+    "Active",
+    "2026-11-03T02:42Z"
+   ],
+   "Cade Stover": [
+    "Active",
+    "2026-11-09T21:14Z"
+   ],
+   "Cairo Santos": [
+    "Active",
+    "2026-11-03T05:14Z"
+   ],
+   "Caleb Douglas": [
+    "Active",
+    "2026-11-09T00:49Z"
+   ],
+   "Caleb Williams": [
+    "Active",
+    "2026-11-09T05:17Z"
+   ],
+   "Calvin Ridley": [
+    "Active",
+    "2026-11-09T14:43Z"
+   ],
+   "Cam Little": [
+    "Active",
+    "2026-11-06T05:28Z"
+   ],
+   "Cam Skattebo": [
+    "Out",
+    "2026-11-10T00:09Z"
+   ],
+   "Cam Ward": [
+    "Active",
+    "2026-11-01T22:40Z"
+   ],
+   "Cameron Dicker": [
+    "Active",
+    "2026-11-09T04:55Z"
+   ],
+   "Carlos Washington Jr.": [
+    "Active",
+    "2026-11-07T23:53Z"
+   ],
+   "Carnell Tate": [
+    "Out",
+    "2026-11-03T13:04Z"
+   ],
+   "Carsen Ryan": [
+    "Active",
+    "2026-11-07T20:45Z"
+   ],
+   "Carson Beck": [
+    "Active",
+    "2026-11-10T00:25Z"
+   ],
+   "Carson Wentz": [
+    "Active",
+    "2026-11-05T18:30Z"
+   ],
+   "Case Keenum": [
+    "Out",
+    "2026-11-09T00:04Z"
+   ],
+   "CeeDee Lamb": [
+    "Active",
+    "2026-11-08T22:30Z"
+   ],
+   "Charlie Jones": [
+    "Questionable",
+    "2026-11-10T00:09Z"
+   ],
+   "Charlie Kolar": [
+    "Active",
+    "2026-11-03T03:18Z"
+   ],
+   "Charlie Smyth": [
+    "Active",
+    "2026-11-09T05:16Z"
+   ],
+   "Chase Brown": [
+    "Active",
+    "2026-11-08T19:20Z"
+   ],
+   "Chase McLaughlin": [
+    "Active",
+    "2026-11-03T01:58Z"
+   ],
+   "Chig Okonkwo": [
+    "Questionable",
+    "2026-11-10T00:36Z"
+   ],
+   "Chimere Dike": [
+    "Active",
+    "2026-11-02T04:01Z"
+   ],
+   "Chris Blair": [
+    "Active",
+    "2026-11-02T15:02Z"
+   ],
+   "Chris Boswell": [
+    "Active",
+    "2026-11-03T02:06Z"
+   ],
+   "Chris Brooks": [
+    "Injured Reserve",
+    "2026-11-09T21:35Z"
+   ],
+   "Chris Godwin Jr.": [
+    "Active",
+    "2026-11-09T05:30Z"
+   ],
+   "Chris Olave": [
+    "Active",
+    "2026-11-09T00:59Z"
+   ],
+   "Chris Rodriguez Jr.": [
+    "Active",
+    "2026-11-06T05:44Z"
+   ],
+   "Christian Kirk": [
+    "Injured Reserve",
+    "2026-11-07T21:50Z"
+   ],
+   "Christian McCaffrey": [
+    "Active",
+    "2026-11-09T00:53Z"
+   ],
+   "Christian Watson": [
+    "Active",
+    "2026-11-09T02:46Z"
+   ],
+   "Chuba Hubbard": [
+    "Active",
+    "2026-11-09T00:12Z"
+   ],
+   "Cody Schrader": [
+    "Active",
+    "2026-11-08T00:51Z"
+   ],
+   "Cody White": [
+    "Active",
+    "2026-11-06T00:36Z"
+   ],
+   "Colbie Young": [
+    "Active",
+    "2026-11-02T15:53Z"
+   ],
+   "Colby Parkinson": [
+    "Active",
+    "2026-11-08T16:48Z"
+   ],
+   "Colson Yankoff": [
+    "Questionable",
+    "2026-11-09T22:43Z"
+   ],
+   "Colston Loveland": [
+    "Active",
+    "2026-11-09T05:19Z"
+   ],
+   "Cooper Kupp": [
+    "Active",
+    "2026-11-03T05:18Z"
+   ],
+   "Corey Kiner": [
+    "Active",
+    "2026-11-09T03:54Z"
+   ],
+   "Courtland Sutton": [
+    "Active",
+    "2026-11-08T23:55Z"
+   ],
+   "Cyrus Allen": [
+    "Active",
+    "2026-11-03T03:41Z"
+   ],
+   "D'Andre Swift": [
+    "Active",
+    "2026-11-09T05:17Z"
+   ],
+   "DJ Giddens": [
+    "Active",
+    "2026-11-10T01:08Z"
+   ],
+   "DJ Moore": [
+    "Active",
+    "2026-11-07T19:17Z"
+   ],
+   "DJ Uiagalelei": [
+    "Active",
+    "2026-11-09T03:04Z"
+   ],
+   "DK Metcalf": [
+    "Active",
+    "2026-11-02T02:50Z"
+   ],
+   "Dak Prescott": [
+    "Active",
+    "2026-11-08T22:51Z"
+   ],
+   "Dallas Goedert": [
+    "Active",
+    "2026-11-09T00:28Z"
+   ],
+   "Dallen Bentley": [
+    "Active",
+    "2026-11-09T21:04Z"
+   ],
+   "Dalton Kincaid": [
+    "Active",
+    "2026-11-06T21:59Z"
+   ],
+   "Dalton Schultz": [
+    "Active",
+    "2026-11-09T03:11Z"
+   ],
+   "Daniel Jones": [
+    "Active",
+    "2026-11-09T01:00Z"
+   ],
+   "Dare Ogunbowale": [
+    "Active",
+    "2026-10-27T01:55Z"
+   ],
+   "Darius Cooper": [
+    "Active",
+    "2026-11-07T00:12Z"
+   ],
+   "Darnell Mooney": [
+    "Questionable",
+    "2026-11-10T00:30Z"
+   ],
+   "Darnell Washington": [
+    "Active",
+    "2026-11-02T03:38Z"
+   ],
+   "Darren Waller": [
+    "Active",
+    "2026-11-09T00:21Z"
+   ],
+   "David Montgomery": [
+    "Out",
+    "2026-11-09T20:45Z"
+   ],
+   "David Njoku": [
+    "Injured Reserve",
+    "2026-11-08T19:01Z"
+   ],
+   "Dawson Knox": [
+    "Active",
+    "2026-11-03T03:28Z"
+   ],
+   "DeMario Douglas": [
+    "Active",
+    "2026-11-09T03:43Z"
+   ],
+   "DeVonta Smith": [
+    "Out",
+    "2026-11-09T21:32Z"
+   ],
+   "Dean Connors": [
+    "Injured Reserve",
+    "2026-11-04T01:20Z"
+   ],
+   "DeeJay Dallas": [
+    "Active",
+    "2026-11-05T02:13Z"
+   ],
+   "Deebo Samuel Sr.": [
+    "Out",
+    "2026-11-10T00:01Z"
+   ],
+   "Demarcus Robinson": [
+    "Active",
+    "2026-11-07T21:44Z"
+   ],
+   "Demond Claiborne": [
+    "Injured Reserve",
+    "2026-11-10T01:02Z"
+   ],
+   "Denzel Boston": [
+    "Active",
+    "2026-11-09T00:42Z"
+   ],
+   "Derius Davis": [
+    "Active",
+    "2026-11-09T02:14Z"
+   ],
+   "Derrick Henry": [
+    "Active",
+    "2026-11-07T17:39Z"
+   ],
+   "Deshaun Watson": [
+    "Out",
+    "2026-11-09T18:35Z"
+   ],
+   "Devin Duvernay": [
+    "Active",
+    "2026-11-04T02:30Z"
+   ],
+   "Devin Singletary": [
+    "Active",
+    "2026-11-08T23:09Z"
+   ],
+   "Devontez Walker": [
+    "Active",
+    "2026-11-06T18:44Z"
+   ],
+   "Dillon Gabriel": [
+    "Active",
+    "2026-11-08T12:24Z"
+   ],
+   "Dohnte Meyers": [
+    "Active",
+    "2026-10-27T01:58Z"
+   ],
+   "Dominic Zvada": [
+    "Active",
+    "2026-11-09T04:01Z"
+   ],
+   "Dont'e Thornton Jr.": [
+    "Active",
+    "2026-11-09T21:19Z"
+   ],
+   "Dontayvion Wicks": [
+    "Out",
+    "2026-11-09T21:32Z"
+   ],
+   "Drake Dabney": [
+    "Active",
+    "2026-11-07T21:05Z"
+   ],
+   "Drake London": [
+    "Active",
+    "2026-11-08T19:35Z"
+   ],
+   "Drake Maye": [
+    "Active",
+    "2026-11-09T03:16Z"
+   ],
+   "Drew Allar": [
+    "Active",
+    "2026-11-02T19:20Z"
+   ],
+   "Drew Lock": [
+    "Questionable",
+    "2026-11-09T18:00Z"
+   ],
+   "Drew Ogletree": [
+    "Active",
+    "2026-11-07T00:29Z"
+   ],
+   "Drew Stevens": [
+    "Active",
+    "2026-11-03T01:44Z"
+   ],
+   "Dyami Brown": [
+    "Injured Reserve",
+    "2026-11-07T23:15Z"
+   ],
+   "Dylan Sampson": [
+    "Active",
+    "2026-11-09T03:11Z"
+   ],
+   "Efton Chism III": [
+    "Active",
+    "2026-11-09T01:46Z"
+   ],
+   "Eli Heidenreich": [
+    "Active",
+    "2026-11-02T19:20Z"
+   ],
+   "Eli Stowers": [
+    "Active",
+    "2026-11-03T03:49Z"
+   ],
+   "Elic Ayomanor": [
+    "Active",
+    "2026-11-03T01:46Z"
+   ],
+   "Elijah Higgins": [
+    "Active",
+    "2026-11-04T02:55Z"
+   ],
+   "Elijah Mitchell": [
+    "Active",
+    "2026-11-07T22:21Z"
+   ],
+   "Elijah Moore": [
+    "Active",
+    "2026-11-04T02:43Z"
+   ],
+   "Elijah Sarratt": [
+    "Active",
+    "2026-11-09T20:55Z"
+   ],
+   "Emanuel Wilson": [
+    "Active",
+    "2026-11-03T15:18Z"
+   ],
+   "Emeka Egbuka": [
+    "Active",
+    "2026-11-09T05:20Z"
+   ],
+   "Emmett Johnson": [
+    "Active",
+    "2026-11-09T00:43Z"
+   ],
+   "Erick All Jr.": [
+    "Injured Reserve",
+    "2026-10-28T19:05Z"
+   ],
+   "Evan Engram": [
+    "Active",
+    "2026-11-03T03:39Z"
+   ],
+   "Evan McPherson": [
+    "Active",
+    "2026-11-09T04:59Z"
+   ],
+   "Fernando Mendoza": [
+    "Active",
+    "2026-11-03T02:56Z"
+   ],
+   "Foster Moreau": [
+    "Active",
+    "2026-10-27T02:01Z"
+   ],
+   "Gardner Minshew II": [
+    "Doubtful",
+    "2026-11-09T22:51Z"
+   ],
+   "Garrett Nussmeier": [
+    "Active",
+    "2026-11-09T21:18Z"
+   ],
+   "Garrett Wilson": [
+    "Out",
+    "2026-11-09T21:31Z"
+   ],
+   "Geno Smith": [
+    "Active",
+    "2026-11-09T00:26Z"
+   ],
+   "George Holani": [
+    "Active",
+    "2026-11-03T16:58Z"
+   ],
+   "George Kittle": [
+    "Active",
+    "2026-11-09T01:52Z"
+   ],
+   "George Pickens": [
+    "Out",
+    "2026-11-10T01:02Z"
+   ],
+   "Germie Bernard": [
+    "Active",
+    "2026-11-02T05:26Z"
+   ],
+   "Greg Desrosiers Jr.": [
+    "Active",
+    "2026-11-06T19:10Z"
+   ],
+   "Greg Dortch": [
+    "Active",
+    "2026-11-02T15:08Z"
+   ],
+   "Greg Dulcich": [
+    "Active",
+    "2026-11-09T03:40Z"
+   ],
+   "Gunnar Helm": [
+    "Active",
+    "2026-11-02T03:29Z"
+   ],
+   "Harold Fannin Jr.": [
+    "Active",
+    "2026-11-09T00:53Z"
+   ],
+   "Harrison Butker": [
+    "Active",
+    "2026-11-08T22:47Z"
+   ],
+   "Harrison Wallace III": [
+    "Active",
+    "2026-11-03T22:48Z"
+   ],
+   "Haynes King": [
+    "Active",
+    "2026-11-09T20:56Z"
+   ],
+   "Hollywood Brown": [
+    "Active",
+    "2026-11-04T02:36Z"
+   ],
+   "Hunter Henry": [
+    "Active",
+    "2026-11-09T01:38Z"
+   ],
+   "Ian Thomas": [
+    "Active",
+    "2026-11-05T22:42Z"
+   ],
+   "Isaiah Davis": [
+    "Active",
+    "2026-11-03T03:01Z"
+   ],
+   "Isaiah Likely": [
+    "Active",
+    "2026-11-09T02:32Z"
+   ],
+   "Isaiah Williams": [
+    "Active",
+    "2026-11-02T04:55Z"
+   ],
+   "Isiah Pacheco": [
+    "Injured Reserve",
+    "2026-10-30T17:09Z"
+   ],
+   "J.J. McCarthy": [
+    "Questionable",
+    "2026-11-10T00:06Z"
+   ],
+   "J.K. Dobbins": [
+    "Active",
+    "2026-11-09T01:31Z"
+   ],
+   "Ja'Kobi Lane": [
+    "Active",
+    "2026-11-07T04:49Z"
+   ],
+   "Ja'Marr Chase": [
+    "Active",
+    "2026-11-08T19:11Z"
+   ],
+   "Ja'Tavion Sanders": [
+    "Active",
+    "2026-11-09T22:44Z"
+   ],
+   "Jabari Small": [
+    "Active",
+    "2026-11-07T23:55Z"
+   ],
+   "Jack Bech": [
+    "Active",
+    "2026-11-04T03:21Z"
+   ],
+   "Jack Strand": [
+    "Active",
+    "2026-11-09T20:54Z"
+   ],
+   "Jacob Saylors": [
+    "Out",
+    "2026-11-09T21:09Z"
+   ],
+   "Jacoby Brissett": [
+    "Active",
+    "2026-11-09T20:30Z"
+   ],
+   "Jadarian Price": [
+    "Active",
+    "2026-11-09T02:51Z"
+   ],
+   "Jaden Bradley": [
+    "Active",
+    "2026-11-07T23:25Z"
+   ],
+   "Jahan Dotson": [
+    "Active",
+    "2026-11-02T04:49Z"
+   ],
+   "Jahmyr Gibbs": [
+    "Active",
+    "2026-11-08T22:12Z"
+   ],
+   "Jake Bates": [
+    "Active",
+    "2026-11-09T04:33Z"
+   ],
+   "Jake Elliott": [
+    "Active",
+    "2026-11-07T01:22Z"
+   ],
+   "Jake Ferguson": [
+    "Questionable",
+    "2026-11-09T22:03Z"
+   ],
+   "Jake Moody": [
+    "Active",
+    "2026-11-07T02:51Z"
+   ],
+   "Jakobi Meyers": [
+    "Active",
+    "2026-11-06T05:14Z"
+   ],
+   "Jalen Coker": [
+    "Active",
+    "2026-11-09T02:50Z"
+   ],
+   "Jalen McMillan": [
+    "Injured Reserve",
+    "2026-11-09T19:19Z"
+   ],
+   "Jalen Milroe": [
+    "Active",
+    "2026-11-05T00:05Z"
+   ],
+   "Jalen Nailor": [
+    "Active",
+    "2026-11-09T03:21Z"
+   ],
+   "Jalen Tolbert": [
+    "Active",
+    "2026-11-09T21:26Z"
+   ],
+   "Jalin Hyatt": [
+    "Active",
+    "2026-11-08T00:59Z"
+   ],
+   "James Conner": [
+    "Injured Reserve",
+    "2026-11-04T00:31Z"
+   ],
+   "James Cook III": [
+    "Active",
+    "2026-11-01T22:30Z"
+   ],
+   "James Mitchell": [
+    "Active",
+    "2026-11-07T22:40Z"
+   ],
+   "Jameson Williams": [
+    "Active",
+    "2026-11-08T23:22Z"
+   ],
+   "Jared Goff": [
+    "Active",
+    "2026-11-08T23:18Z"
+   ],
+   "Jason Myers": [
+    "Active",
+    "2026-11-03T05:17Z"
+   ],
+   "Jason Sanders": [
+    "Active",
+    "2026-11-09T04:48Z"
+   ],
+   "Jauan Jennings": [
+    "Out",
+    "2026-11-09T23:49Z"
+   ],
+   "Javonte Williams": [
+    "Active",
+    "2026-11-08T22:38Z"
+   ],
+   "Jaxon Smith-Njigba": [
+    "Active",
+    "2026-11-09T01:39Z"
+   ],
+   "Jayden Daniels": [
+    "Active",
+    "2026-11-08T23:12Z"
+   ],
+   "Jaydon Blue": [
+    "Active",
+    "2026-11-03T03:45Z"
+   ],
+   "Jaylen Waddle": [
+    "Questionable",
+    "2026-11-08T19:52Z"
+   ],
+   "Jaylen Warren": [
+    "Active",
+    "2026-11-01T23:27Z"
+   ],
+   "Jaylen Wright": [
+    "Out",
+    "2026-11-09T21:26Z"
+   ],
+   "Jaylin Noel": [
+    "Injured Reserve",
+    "2026-10-28T22:30Z"
+   ],
+   "Jeremiyah Love": [
+    "Injured Reserve",
+    "2026-11-03T21:13Z"
+   ],
+   "Jeremy McNichols": [
+    "Injured Reserve",
+    "2026-11-04T17:09Z"
+   ],
+   "Jerome Ford": [
+    "Active",
+    "2026-11-08T00:00Z"
+   ],
+   "Jerry Jeudy": [
+    "Active",
+    "2026-11-09T03:31Z"
+   ],
+   "Joe Burrow": [
+    "Active",
+    "2026-11-08T19:05Z"
+   ],
+   "Joe Fagnano": [
+    "Active",
+    "2026-11-06T05:23Z"
+   ],
+   "Joe Milton": [
+    "Active",
+    "2026-11-08T23:50Z"
+   ],
+   "Joey Slye": [
+    "Active",
+    "2026-11-03T02:06Z"
+   ],
+   "John Bates": [
+    "Active",
+    "2026-11-06T22:41Z"
+   ],
+   "Jonah Coleman": [
+    "Active",
+    "2026-11-08T23:51Z"
+   ],
+   "Jonathan Mingo": [
+    "Questionable",
+    "2026-11-08T20:48Z"
+   ],
+   "Jonathan Taylor": [
+    "Active",
+    "2026-11-08T22:58Z"
+   ],
+   "Jonathon Brooks": [
+    "Injured Reserve",
+    "2026-11-09T18:46Z"
+   ],
+   "Jonnu Smith": [
+    "Active",
+    "2026-11-03T12:58Z"
+   ],
+   "Jordan Addison": [
+    "Active",
+    "2026-11-02T02:41Z"
+   ],
+   "Jordan Hudson": [
+    "Active",
+    "2026-11-07T22:51Z"
+   ],
+   "Jordan Love": [
+    "Active",
+    "2026-11-09T02:41Z"
+   ],
+   "Jordan Watkins": [
+    "Active",
+    "2026-11-09T02:44Z"
+   ],
+   "Jordan Whittington": [
+    "Active",
+    "2026-11-08T16:46Z"
+   ],
+   "Jordyn Tyson": [
+    "Active",
+    "2026-11-09T01:13Z"
+   ],
+   "Josh Allen": [
+    "Active",
+    "2026-11-01T22:28Z"
+   ],
+   "Josh Cameron": [
+    "Active",
+    "2026-11-06T17:58Z"
+   ],
+   "Josh Cuevas": [
+    "Active",
+    "2026-11-06T18:55Z"
+   ],
+   "Josh Downs": [
+    "Active",
+    "2026-11-09T02:53Z"
+   ],
+   "Josh Jacobs": [
+    "Questionable",
+    "2026-11-09T21:21Z"
+   ],
+   "Josh Whyle": [
+    "Out",
+    "2026-11-09T21:12Z"
+   ],
+   "Joshua Karty": [
+    "Active",
+    "2026-11-05T17:48Z"
+   ],
+   "Joshua Palmer": [
+    "Out",
+    "2026-11-09T22:24Z"
+   ],
+   "Justice Hill": [
+    "Active",
+    "2026-11-06T05:39Z"
+   ],
+   "Justin Herbert": [
+    "Questionable",
+    "2026-11-09T23:49Z"
+   ],
+   "Justin Joly": [
+    "Active",
+    "2026-11-09T21:26Z"
+   ],
+   "Juwan Johnson": [
+    "Active",
+    "2026-11-09T02:00Z"
+   ],
+   "KC Concepcion": [
+    "Active",
+    "2026-11-09T00:48Z"
+   ],
+   "Ka'imi Fairbairn": [
+    "Active",
+    "2026-11-09T03:59Z"
+   ],
+   "KaVontae Turpin": [
+    "Out",
+    "2026-11-09T20:59Z"
+   ],
+   "Kaelon Black": [
+    "Active",
+    "2026-11-09T02:45Z"
+   ],
+   "Kaleb Johnson": [
+    "Active",
+    "2026-11-09T04:08Z"
+   ],
+   "Kalif Raymond": [
+    "Active",
+    "2026-11-03T05:09Z"
+   ],
+   "Kayshon Boutte": [
+    "Active",
+    "2026-11-09T02:08Z"
+   ],
+   "Kaytron Allen": [
+    "Active",
+    "2026-11-08T17:20Z"
+   ],
+   "KeAndre Lambert-Smith": [
+    "Active",
+    "2026-11-04T03:16Z"
+   ],
+   "Keaton Mitchell": [
+    "Active",
+    "2026-11-09T02:46Z"
+   ],
+   "Kedon Slovis": [
+    "Active",
+    "2026-11-09T20:55Z"
+   ],
+   "Kenneth Walker III": [
+    "Active",
+    "2026-11-08T22:24Z"
+   ],
+   "Kenny Gainwell": [
+    "Active",
+    "2026-11-09T05:23Z"
+   ],
+   "Kenyon Sadiq": [
+    "Active",
+    "2026-11-09T03:49Z"
+   ],
+   "Keon Coleman": [
+    "Active",
+    "2026-11-07T19:30Z"
+   ],
+   "KhaDarel Hodge": [
+    "Active",
+    "2026-11-08T01:20Z"
+   ],
+   "Khalil Herbert": [
+    "Active",
+    "2026-11-08T00:19Z"
+   ],
+   "Khalil Shakir": [
+    "Active",
+    "2026-11-02T03:06Z"
+   ],
+   "Kirk Cousins": [
+    "Active",
+    "2026-11-09T02:03Z"
+   ],
+   "Kurtis Rourke": [
+    "Active",
+    "2026-11-09T21:33Z"
+   ],
+   "Kyle Monangai": [
+    "Out",
+    "2026-11-09T20:59Z"
+   ],
+   "Kyle Pitts Sr.": [
+    "Active",
+    "2026-11-08T20:01Z"
+   ],
+   "Kylen Granson": [
+    "Active",
+    "2026-11-02T19:24Z"
+   ],
+   "Kyler Murray": [
+    "Out",
+    "2026-11-09T23:49Z"
+   ],
+   "Kyren Williams": [
+    "Active",
+    "2026-11-08T22:29Z"
+   ],
+   "Ladd McConkey": [
+    "Questionable",
+    "2026-11-10T00:00Z"
+   ],
+   "Lamar Jackson": [
+    "Injured Reserve",
+    "2026-11-08T12:12Z"
+   ],
+   "Laquon Treadwell": [
+    "Active",
+    "2026-11-04T02:56Z"
+   ],
+   "Lil'Jordan Humphrey": [
+    "Active",
+    "2026-11-09T21:04Z"
+   ],
+   "Luke Schoonmaker": [
+    "Out",
+    "2026-11-09T20:59Z"
+   ],
+   "Luther Burden III": [
+    "Questionable",
+    "2026-11-09T05:13Z"
+   ],
+   "Mack Hollins": [
+    "Active",
+    "2026-11-09T01:54Z"
+   ],
+   "Makai Lemon": [
+    "Active",
+    "2026-11-09T02:33Z"
+   ],
+   "Malachi Corley": [
+    "Active",
+    "2026-11-02T16:04Z"
+   ],
+   "Malik Benson": [
+    "Active",
+    "2026-11-09T21:19Z"
+   ],
+   "Malik Nabers": [
+    "Active",
+    "2026-11-08T21:54Z"
+   ],
+   "Malik Washington": [
+    "Active",
+    "2026-11-09T03:29Z"
+   ],
+   "Malik Willis": [
+    "Questionable",
+    "2026-11-08T23:46Z"
+   ],
+   "MarShawn Lloyd": [
+    "Out",
+    "2026-11-09T21:12Z"
+   ],
+   "Mark Andrews": [
+    "Active",
+    "2026-11-06T05:28Z"
+   ],
+   "Marvin Harrison Jr.": [
+    "Active",
+    "2026-11-09T02:38Z"
+   ],
+   "Mason Rudolph": [
+    "Active",
+    "2026-10-25T12:26Z"
+   ],
+   "Mason Taylor": [
+    "Active",
+    "2026-11-05T21:08Z"
+   ],
+   "Matt Gay": [
+    "Active",
+    "2026-11-03T01:58Z"
+   ],
+   "Matt Hibner": [
+    "Active",
+    "2026-11-07T04:55Z"
+   ],
+   "Matthew Golden": [
+    "Active",
+    "2026-11-09T02:54Z"
+   ],
+   "Matthew Stafford": [
+    "Active",
+    "2026-11-08T22:47Z"
+   ],
+   "Max Brosmer": [
+    "Active",
+    "2026-11-05T18:49Z"
+   ],
+   "Michael Mayer": [
+    "Active",
+    "2026-11-09T03:18Z"
+   ],
+   "Michael Penix Jr.": [
+    "Active",
+    "2026-11-08T19:58Z"
+   ],
+   "Michael Pittman Jr.": [
+    "Injured Reserve",
+    "2026-11-02T15:44Z"
+   ],
+   "Michael Wilson": [
+    "Out",
+    "2026-11-09T21:39Z"
+   ],
+   "Mike Evans": [
+    "Out",
+    "2026-11-10T00:01Z"
+   ],
+   "Mike Gesicki": [
+    "Active",
+    "2026-11-09T03:01Z"
+   ],
+   "Mike Washington Jr.": [
+    "Active",
+    "2026-11-09T02:57Z"
+   ],
+   "Mitchell Tinsley": [
+    "Active",
+    "2026-11-02T18:48Z"
+   ],
+   "Mo Alie-Cox": [
+    "Questionable",
+    "2026-11-08T21:11Z"
+   ],
+   "Montorie Foster Jr.": [
+    "Active",
+    "2026-11-08T00:45Z"
+   ],
+   "Nate Adkins": [
+    "Active",
+    "2026-11-02T05:15Z"
+   ],
+   "Nate Boerkircher": [
+    "Active",
+    "2026-11-06T18:22Z"
+   ],
+   "Nicholas Singleton": [
+    "Active",
+    "2026-11-09T15:21Z"
+   ],
+   "Nick Folk": [
+    "Active",
+    "2026-11-03T03:53Z"
+   ],
+   "Nico Collins": [
+    "Active",
+    "2026-11-09T01:54Z"
+   ],
+   "Nikko Remigio": [
+    "Active",
+    "2026-11-08T17:02Z"
+   ],
+   "Noah Gray": [
+    "Active",
+    "2026-11-02T04:50Z"
+   ],
+   "Odell Beckham Jr.": [
+    "Active",
+    "2026-11-09T23:49Z"
+   ],
+   "Olamide Zaccheaus": [
+    "Active",
+    "2026-11-08T17:03Z"
+   ],
+   "Ollie Gordon II": [
+    "Active",
+    "2026-11-08T23:11Z"
+   ],
+   "Omar Cooper Jr.": [
+    "Active",
+    "2026-11-09T00:27Z"
+   ],
+   "Omarion Hampton": [
+    "Active",
+    "2026-11-09T02:22Z"
+   ],
+   "Parker Washington": [
+    "Active",
+    "2026-11-06T04:55Z"
+   ],
+   "Pat Bryant": [
+    "Active",
+    "2026-11-09T00:02Z"
+   ],
+   "Pat Freiermuth": [
+    "Active",
+    "2026-11-02T04:36Z"
+   ],
+   "Patrick Mahomes": [
+    "Questionable",
+    "2026-11-09T18:13Z"
+   ],
+   "Pharaoh Brown": [
+    "Active",
+    "2026-11-09T21:15Z"
+   ],
+   "Phil Mafah": [
+    "Active",
+    "2026-11-08T01:04Z"
+   ],
+   "Puka Nacua": [
+    "Doubtful",
+    "2026-11-09T22:19Z"
+   ],
+   "Quentin Johnston": [
+    "Active",
+    "2026-11-09T02:47Z"
+   ],
+   "Quinshon Judkins": [
+    "Active",
+    "2026-11-09T00:36Z"
+   ],
+   "Rachaad White": [
+    "Active",
+    "2026-11-08T23:17Z"
+   ],
+   "Rashee Rice": [
+    "Active",
+    "2026-11-08T23:32Z"
+   ],
+   "Rashid Shaheed": [
+    "Out",
+    "2026-11-09T21:35Z"
+   ],
+   "Rashod Bateman": [
+    "Active",
+    "2026-11-06T17:38Z"
+   ],
+   "Ray Davis": [
+    "Active",
+    "2026-11-03T02:33Z"
+   ],
+   "Reggie Virgil": [
+    "Active",
+    "2026-11-04T02:35Z"
+   ],
+   "Rhamondre Stevenson": [
+    "Questionable",
+    "2026-11-09T16:44Z"
+   ],
+   "Rico Dowdle": [
+    "Active",
+    "2026-11-02T02:55Z"
+   ],
+   "Riley Leonard": [
+    "Active",
+    "2026-11-09T21:15Z"
+   ],
+   "Robert Henry Jr.": [
+    "Active",
+    "2026-11-04T00:06Z"
+   ],
+   "Rome Odunze": [
+    "Active",
+    "2026-11-09T05:19Z"
+   ],
+   "Ronnie Rivers": [
+    "Active",
+    "2026-11-07T20:35Z"
+   ],
+   "Roschon Johnson": [
+    "Active",
+    "2026-11-03T17:26Z"
+   ],
+   "Ryan Flournoy": [
+    "Active",
+    "2026-11-08T17:36Z"
+   ],
+   "Salvon Ahmed": [
+    "Active",
+    "2026-11-07T23:35Z"
+   ],
+   "Sam Darnold": [
+    "Out",
+    "2026-11-10T01:02Z"
+   ],
+   "Sam Ehlinger": [
+    "Active",
+    "2026-11-09T21:04Z"
+   ],
+   "Sam LaPorta": [
+    "Active",
+    "2026-11-08T23:37Z"
+   ],
+   "Sam Roush": [
+    "Active",
+    "2026-11-03T20:15Z"
+   ],
+   "Samaje Perine": [
+    "Active",
+    "2026-11-03T03:07Z"
+   ],
+   "Saquon Barkley": [
+    "Active",
+    "2026-11-08T22:02Z"
+   ],
+   "Savion Williams": [
+    "Active",
+    "2026-11-09T01:57Z"
+   ],
+   "Sean Tucker": [
+    "Active",
+    "2026-11-03T03:20Z"
+   ],
+   "Seth McGowan": [
+    "Active",
+    "2026-11-09T01:04Z"
+   ],
+   "Shawn Bowman": [
+    "Active",
+    "2026-11-08T00:08Z"
+   ],
+   "Shedeur Sanders": [
+    "Active",
+    "2026-11-09T00:30Z"
+   ],
+   "Simi Fehoko": [
+    "Active",
+    "2026-11-04T00:32Z"
+   ],
+   "Sione Vaki": [
+    "Active",
+    "2026-11-08T17:14Z"
+   ],
+   "Spencer Shrader": [
+    "Active",
+    "2026-11-09T04:19Z"
+   ],
+   "Stefon Diggs": [
+    "Active",
+    "2026-11-08T23:20Z"
+   ],
+   "Stephen Carlson": [
+    "Active",
+    "2026-11-05T02:12Z"
+   ],
+   "T.J. Hockenson": [
+    "Active",
+    "2026-11-02T03:25Z"
+   ],
+   "Tank Dell": [
+    "Active",
+    "2026-11-09T02:14Z"
+   ],
+   "Tanner Koziol": [
+    "Active",
+    "2026-11-07T04:42Z"
+   ],
+   "Tanner McKee": [
+    "Active",
+    "2026-11-08T17:01Z"
+   ],
+   "Taylen Green": [
+    "Active",
+    "2026-11-09T20:59Z"
+   ],
+   "Ted Hurst III": [
+    "Active",
+    "2026-11-03T03:22Z"
+   ],
+   "Tee Higgins": [
+    "Active",
+    "2026-11-08T19:15Z"
+   ],
+   "Terrance Ferguson": [
+    "Injured Reserve",
+    "2026-11-08T22:20Z"
+   ],
+   "Tetairoa McMillan": [
+    "Active",
+    "2026-11-09T00:16Z"
+   ],
+   "Tez Johnson": [
+    "Active",
+    "2026-11-04T03:07Z"
+   ],
+   "Theo Johnson": [
+    "Active",
+    "2026-11-05T01:35Z"
+   ],
+   "Theo Wease Jr.": [
+    "Active",
+    "2026-11-09T21:23Z"
+   ],
+   "Thomas Fidone II": [
+    "Active",
+    "2026-11-09T21:30Z"
+   ],
+   "Tim Patrick": [
+    "Active",
+    "2026-11-09T21:31Z"
+   ],
+   "Tommy Tremble": [
+    "Active",
+    "2026-11-09T02:12Z"
+   ],
+   "Tony Pollard": [
+    "Active",
+    "2026-11-08T15:36Z"
+   ],
+   "Tory Horton": [
+    "Active",
+    "2026-11-03T17:16Z"
+   ],
+   "Travis Etienne Jr.": [
+    "Injured Reserve",
+    "2026-11-04T21:38Z"
+   ],
+   "Travis Hunter": [
+    "Active",
+    "2026-11-06T17:05Z"
+   ],
+   "Travis Kelce": [
+    "Active",
+    "2026-11-08T23:27Z"
+   ],
+   "Tre Tucker": [
+    "Active",
+    "2026-11-09T02:53Z"
+   ],
+   "Tre' Harris": [
+    "Active",
+    "2026-11-03T03:14Z"
+   ],
+   "TreVeyon Henderson": [
+    "Out",
+    "2026-11-09T21:28Z"
+   ],
+   "Trent Sherfield": [
+    "Active",
+    "2026-11-09T23:43Z"
+   ],
+   "Trevor Lawrence": [
+    "Active",
+    "2026-11-06T05:09Z"
+   ],
+   "Trey McBride": [
+    "Active",
+    "2026-11-09T01:47Z"
+   ],
+   "Trey Smack": [
+    "Active",
+    "2026-11-09T04:06Z"
+   ],
+   "Treylon Burks": [
+    "Out",
+    "2026-11-10T01:02Z"
+   ],
+   "Tucker Kraft": [
+    "Active",
+    "2026-11-09T03:48Z"
+   ],
+   "Ty Johnson": [
+    "Active",
+    "2026-11-06T22:03Z"
+   ],
+   "Ty Simpson": [
+    "Active",
+    "2026-11-09T21:25Z"
+   ],
+   "Tyjae Spears": [
+    "Out",
+    "2026-11-03T13:04Z"
+   ],
+   "Tyler Allgeier": [
+    "Active",
+    "2026-11-09T03:30Z"
+   ],
+   "Tyler Bass": [
+    "Active",
+    "2026-11-03T01:37Z"
+   ],
+   "Tyler Goodson": [
+    "Out",
+    "2026-11-09T22:39Z"
+   ],
+   "Tyler Higbee": [
+    "Active",
+    "2026-11-04T03:07Z"
+   ],
+   "Tyler Huntley": [
+    "Injured Reserve",
+    "2026-11-05T21:20Z"
+   ],
+   "Tyler Shough": [
+    "Active",
+    "2026-11-09T01:03Z"
+   ],
+   "Tyler Warren": [
+    "Active",
+    "2026-11-09T00:26Z"
+   ],
+   "Tyrell Shavers": [
+    "Out",
+    "2026-11-10T00:13Z"
+   ],
+   "Van Jefferson": [
+    "Active",
+    "2026-11-09T01:39Z"
+   ],
+   "Wan'Dale Robinson": [
+    "Active",
+    "2026-11-02T02:38Z"
+   ],
+   "Wil Lutz": [
+    "Active",
+    "2026-11-03T02:01Z"
+   ],
+   "Will Howard": [
+    "Active",
+    "2026-11-02T19:20Z"
+   ],
+   "Will Kacmarek": [
+    "Questionable",
+    "2026-11-08T20:00Z"
+   ],
+   "Will Mallory": [
+    "Active",
+    "2026-11-09T21:15Z"
+   ],
+   "Will Reichard": [
+    "Active",
+    "2026-11-03T03:50Z"
+   ],
+   "Woody Marks": [
+    "Active",
+    "2026-11-09T03:22Z"
+   ],
+   "Xavier Hutchinson": [
+    "Active",
+    "2026-11-09T02:07Z"
+   ],
+   "Xavier Legette": [
+    "Injured Reserve",
+    "2026-11-09T19:36Z"
+   ],
+   "Xavier Worthy": [
+    "Questionable",
+    "2026-11-09T18:20Z"
+   ],
+   "Zach Charbonnet": [
+    "Active",
+    "2026-11-09T02:39Z"
+   ],
+   "Zach Wilson": [
+    "Active",
+    "2026-11-09T21:29Z"
+   ],
+   "Zachariah Branch": [
+    "Out",
+    "2026-11-09T20:53Z"
+   ],
+   "Zamir White": [
+    "Active",
+    "2026-11-07T23:22Z"
+   ],
+   "Zane Gonzalez": [
+    "Active",
+    "2026-11-09T05:45Z"
+   ],
+   "Zavier Scott": [
+    "Injured Reserve",
+    "2026-11-05T21:19Z"
+   ],
+   "Zay Flowers": [
+    "Active",
+    "2026-11-06T05:03Z"
+   ]
   },
   "injuries_gone": {
    "Aaron Jones Sr.": [
