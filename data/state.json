@@ -69,10 +69,6 @@
     "Active",
     "2026-11-07T00:43Z"
    ],
-   "Anthony Richardson Sr.": [
-    "Active",
-    "2026-11-02T02:01Z"
-   ],
    "Antonio Williams": [
     "Active",
     "2026-11-10T04:32Z"
@@ -1261,6 +1257,10 @@
     "Active",
     "2026-11-09T15:21Z"
    ],
+   "Nick Westbrook-Ikhine": [
+    "Active",
+    "2026-11-10T20:38Z"
+   ],
    "Nico Collins": [
     "Active",
     "2026-11-09T01:54Z"
@@ -1683,6 +1683,11 @@
    ]
   },
   "injuries_gone": {
+   "Anthony Richardson Sr.": [
+    "Active",
+    "2026-11-10T20:53Z",
+    "2026-11-02T02:01Z"
+   ],
    "Jake Moody": [
     "Active",
     "2026-11-10T18:12Z",
