@@ -281,6 +281,10 @@
     "Active",
     "2026-11-08T22:30Z"
    ],
+   "Chad Ryland": [
+    "Active",
+    "2026-11-10T03:11Z"
+   ],
    "Charlie Jones": [
     "Questionable",
     "2026-11-10T00:09Z"
@@ -901,10 +905,6 @@
     "Injured Reserve",
     "2026-10-28T22:30Z"
    ],
-   "Jeremiyah Love": [
-    "Injured Reserve",
-    "2026-11-03T21:13Z"
-   ],
    "Jeremy McNichols": [
     "Injured Reserve",
     "2026-11-04T17:09Z"
@@ -1203,7 +1203,7 @@
    ],
    "Matt Gay": [
     "Active",
-    "2026-11-03T01:58Z"
+    "2026-11-10T02:59Z"
    ],
    "Matt Hibner": [
     "Active",
@@ -1710,6 +1710,11 @@
    "David Moore": [
     "Active",
     "2026-11-09T23:20Z"
+   ],
+   "Jeremiyah Love": [
+    "Injured Reserve",
+    "2026-11-10T03:14Z",
+    "2026-11-03T21:13Z"
    ],
    "John Metchie III": [
     "Active",
