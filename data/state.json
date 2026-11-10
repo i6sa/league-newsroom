@@ -537,10 +537,6 @@
     "Out",
     "2026-11-09T21:32Z"
    ],
-   "Drake Dabney": [
-    "Active",
-    "2026-11-07T21:05Z"
-   ],
    "Drake London": [
     "Active",
     "2026-11-08T19:35Z"
@@ -941,6 +937,10 @@
     "Active",
     "2026-11-03T12:58Z"
    ],
+   "Jordan James": [
+    "Active",
+    "2026-11-10T04:41Z"
+   ],
    "Jordan Love": [
     "Active",
     "2026-11-09T02:41Z"
@@ -1268,6 +1268,10 @@
    "Nikko Remigio": [
     "Active",
     "2026-11-08T17:02Z"
+   ],
+   "Noah Fant": [
+    "Active",
+    "2026-11-10T04:36Z"
    ],
    "Noah Gray": [
     "Active",
@@ -1702,6 +1706,11 @@
     "Active",
     "2026-11-09T23:20Z"
    ],
+   "Drake Dabney": [
+    "Active",
+    "2026-11-10T04:47Z",
+    "2026-11-07T21:05Z"
+   ],
    "James Cook III": [
     "Active",
     "2026-11-10T03:34Z",
@@ -1739,11 +1748,6 @@
     "Active",
     "2026-11-10T03:28Z",
     "2026-11-01T22:28Z"
-   ],
-   "Noah Fant": [
-    "Active",
-    "2026-11-10T04:45Z",
-    "2026-11-10T04:36Z"
    ],
    "Salvon Ahmed": [
     "Active",
