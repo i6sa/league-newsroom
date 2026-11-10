@@ -845,10 +845,6 @@
     "Injured Reserve",
     "2026-11-04T00:31Z"
    ],
-   "James Cook III": [
-    "Active",
-    "2026-11-01T22:30Z"
-   ],
    "James Mitchell": [
     "Active",
     "2026-11-07T22:40Z"
@@ -904,6 +900,10 @@
    "Jaylin Noel": [
     "Injured Reserve",
     "2026-10-28T22:30Z"
+   ],
+   "Jeremiyah Love": [
+    "Injured Reserve",
+    "2026-11-03T21:13Z"
    ],
    "Jeremy McNichols": [
     "Injured Reserve",
@@ -1437,10 +1437,6 @@
     "Active",
     "2026-11-09T01:04Z"
    ],
-   "Shawn Bowman": [
-    "Active",
-    "2026-11-08T00:08Z"
-   ],
    "Shedeur Sanders": [
     "Active",
     "2026-11-09T00:30Z"
@@ -1707,10 +1703,10 @@
     "Active",
     "2026-11-09T23:20Z"
    ],
-   "Jeremiyah Love": [
-    "Injured Reserve",
-    "2026-11-10T03:14Z",
-    "2026-11-03T21:13Z"
+   "James Cook III": [
+    "Active",
+    "2026-11-10T03:31Z",
+    "2026-11-01T22:30Z"
    ],
    "John Metchie III": [
     "Active",
@@ -1733,6 +1729,11 @@
    "Kendrick Bourne": [
     "Injured Reserve",
     "2026-11-10T00:43Z"
+   ],
+   "Shawn Bowman": [
+    "Active",
+    "2026-11-10T03:31Z",
+    "2026-11-08T00:08Z"
    ],
    "Skyler Bell": [
     "Active",
