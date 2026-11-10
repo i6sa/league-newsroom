@@ -66,7 +66,6 @@
    "Carlos Washington Jr.": "Active",
    "Carnell Tate": "Out",
    "Carsen Ryan": "Active",
-   "Carson Beck": "Active",
    "Carson Wentz": "Active",
    "Case Keenum": "Out",
    "CeeDee Lamb": "Active",
@@ -267,6 +266,7 @@
    "KeAndre Lambert-Smith": "Active",
    "Keaton Mitchell": "Active",
    "Kedon Slovis": "Active",
+   "Kendrick Bourne": "Injured Reserve",
    "Kenneth Walker III": "Active",
    "Kenny Gainwell": "Active",
    "Kenyon Sadiq": "Active",
@@ -430,6 +430,10 @@
     "Active",
     "2026-11-09T23:56Z"
    ],
+   "Carson Beck": [
+    "Active",
+    "2026-11-10T00:41Z"
+   ],
    "David Moore": [
     "Active",
     "2026-11-09T23:20Z"
@@ -441,10 +445,6 @@
    "Jordan Mason": [
     "Active",
     "2026-11-09T23:56Z"
-   ],
-   "Kendrick Bourne": [
-    "Injured Reserve",
-    "2026-11-10T00:40Z"
    ],
    "Skyler Bell": [
     "Active",
