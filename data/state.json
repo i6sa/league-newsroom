@@ -465,6 +465,10 @@
     "Active",
     "2026-11-09T00:21Z"
    ],
+   "Davante Adams": [
+    "Injured Reserve",
+    "2026-11-11T21:05Z"
+   ],
    "David Montgomery": [
     "Questionable",
     "2026-11-11T19:30Z"
@@ -866,8 +870,8 @@
     "2026-11-08T23:22Z"
    ],
    "Jared Goff": [
-    "Active",
-    "2026-11-08T23:18Z"
+    "Questionable",
+    "2026-11-11T21:19Z"
    ],
    "Jason Myers": [
     "Active",
@@ -1395,7 +1399,7 @@
    ],
    "Puka Nacua": [
     "Out",
-    "2026-11-11T21:15Z"
+    "2026-11-11T21:19Z"
    ],
    "Quentin Johnston": [
     "Active",
@@ -1448,10 +1452,6 @@
    "Rome Odunze": [
     "Active",
     "2026-11-09T05:19Z"
-   ],
-   "Ronnie Rivers": [
-    "Active",
-    "2026-11-07T20:35Z"
    ],
    "Roschon Johnson": [
     "Active",
@@ -1779,15 +1779,15 @@
    ]
   },
   "injuries_gone": {
-   "Davante Adams": [
-    "Injured Reserve",
-    "2026-11-11T21:19Z",
-    "2026-11-11T21:05Z"
-   ],
    "Nikko Remigio": [
     "Active",
     "2026-11-11T19:41Z",
     "2026-11-08T17:02Z"
+   ],
+   "Ronnie Rivers": [
+    "Active",
+    "2026-11-11T21:20Z",
+    "2026-11-07T20:35Z"
    ],
    "Tylan Wallace": [
     "Active",
