@@ -1035,7 +1035,7 @@
    ],
    "Justin Jefferson": [
     "Active",
-    "2026-11-10T04:53Z"
+    "2026-11-11T17:13Z"
    ],
    "Justin Joly": [
     "Active",
@@ -1669,10 +1669,6 @@
     "Questionable",
     "2026-11-10T15:44Z"
    ],
-   "Tylan Wallace": [
-    "Active",
-    "2026-11-02T16:00Z"
-   ],
    "Tyler Allgeier": [
     "Active",
     "2026-11-09T03:30Z"
@@ -1782,7 +1778,13 @@
     "2026-11-06T05:03Z"
    ]
   },
-  "injuries_gone": {},
+  "injuries_gone": {
+   "Tylan Wallace": [
+    "Active",
+    "2026-11-11T17:22Z",
+    "2026-11-02T16:00Z"
+   ]
+  },
   "news": [
    "50425853",
    "50427398",
