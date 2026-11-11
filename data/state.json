@@ -1061,10 +1061,6 @@
     "Active",
     "2026-11-11T01:16Z"
    ],
-   "Kameron Johnson": [
-    "Active",
-    "2026-11-11T15:26Z"
-   ],
    "Kayshon Boutte": [
     "Active",
     "2026-11-09T02:08Z"
@@ -1525,6 +1521,10 @@
     "Active",
     "2026-11-10T05:14Z"
    ],
+   "Tai Felton": [
+    "Active",
+    "2026-11-11T15:31Z"
+   ],
    "Tank Dell": [
     "Active",
     "2026-11-09T02:14Z"
@@ -1770,7 +1770,13 @@
     "2026-11-06T05:03Z"
    ]
   },
-  "injuries_gone": {},
+  "injuries_gone": {
+   "Kameron Johnson": [
+    "Active",
+    "2026-11-11T15:38Z",
+    "2026-11-11T15:26Z"
+   ]
+  },
   "news": [
    "50425853",
    "50427398",
