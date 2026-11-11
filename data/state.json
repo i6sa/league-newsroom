@@ -283,7 +283,7 @@
    ],
    "Charlie Kolar": [
     "Active",
-    "2026-11-03T03:18Z"
+    "2026-11-11T00:08Z"
    ],
    "Charlie Smyth": [
     "Active",
@@ -1045,10 +1045,6 @@
     "Active",
     "2026-11-10T03:56Z"
    ],
-   "KeAndre Lambert-Smith": [
-    "Active",
-    "2026-11-04T03:16Z"
-   ],
    "Keaton Mitchell": [
     "Active",
     "2026-11-09T02:46Z"
@@ -1296,6 +1292,10 @@
    "Omarion Hampton": [
     "Active",
     "2026-11-09T02:22Z"
+   ],
+   "Oronde Gadsden": [
+    "Active",
+    "2026-11-11T00:14Z"
    ],
    "Parker Washington": [
     "Active",
@@ -1716,6 +1716,11 @@
     "2026-11-10T20:51Z",
     "2026-11-09T02:53Z"
    ],
+   "KeAndre Lambert-Smith": [
+    "Active",
+    "2026-11-11T00:21Z",
+    "2026-11-04T03:16Z"
+   ],
    "Keenan Allen": [
     "Active",
     "2026-11-10T19:06Z",
@@ -1822,7 +1827,12 @@
    "2026-11-09:Bates III",
    "2026-11-09:Andre Cisco",
    "2026-11-09:Davon Godchaux",
-   "2026-11-10:Kirk Cousins"
+   "2026-11-10:Kirk Cousins",
+   "2026-11-10:Jessie Bates",
+   "2026-11-10:Amani Hooker",
+   "2026-11-10:Daiyan Henley",
+   "2026-11-10:Keenan Allen",
+   "2026-11-10:Jordan Davis"
   ]
  }
 }
