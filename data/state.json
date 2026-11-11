@@ -473,10 +473,6 @@
     "Injured Reserve",
     "2026-11-08T19:01Z"
    ],
-   "Davis Mills": [
-    "Active",
-    "2026-11-11T15:48Z"
-   ],
    "Dawson Knox": [
     "Active",
     "2026-11-11T00:26Z"
@@ -1024,10 +1020,6 @@
    "Justice Hill": [
     "Active",
     "2026-11-06T05:39Z"
-   ],
-   "Justin Fields": [
-    "Active",
-    "2026-11-11T15:55Z"
    ],
    "Justin Herbert": [
     "Questionable",
@@ -1782,7 +1774,18 @@
     "2026-11-06T05:03Z"
    ]
   },
-  "injuries_gone": {},
+  "injuries_gone": {
+   "Davis Mills": [
+    "Active",
+    "2026-11-11T16:06Z",
+    "2026-11-11T15:48Z"
+   ],
+   "Justin Fields": [
+    "Active",
+    "2026-11-11T16:06Z",
+    "2026-11-11T15:55Z"
+   ]
+  },
   "news": [
    "50425853",
    "50427398",
