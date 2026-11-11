@@ -43,7 +43,7 @@
    ],
    "Alvin Kamara": [
     "Questionable",
-    "2026-11-11T22:12Z"
+    "2026-11-11T22:28Z"
    ],
    "Ameer Abdullah": [
     "Active",
@@ -222,8 +222,8 @@
     "2026-11-09T01:30Z"
    ],
    "CJ Donaldson": [
-    "Out",
-    "2026-11-11T22:22Z"
+    "Questionable",
+    "2026-11-11T22:32Z"
    ],
    "CJ Williams": [
     "Active",
@@ -718,8 +718,8 @@
     "2026-11-02T03:29Z"
    ],
    "Harold Fannin Jr.": [
-    "Active",
-    "2026-11-09T00:53Z"
+    "Questionable",
+    "2026-11-11T22:32Z"
    ],
    "Harrison Butker": [
     "Active",
@@ -736,10 +736,6 @@
    "Hunter Henry": [
     "Active",
     "2026-11-09T01:38Z"
-   ],
-   "Hunter Long": [
-    "Injured Reserve",
-    "2026-11-11T22:25Z"
    ],
    "Ian Thomas": [
     "Active",
@@ -860,6 +856,10 @@
    "Jalin Hyatt": [
     "Active",
     "2026-11-08T00:59Z"
+   ],
+   "James Conner": [
+    "Injured Reserve",
+    "2026-11-04T00:31Z"
    ],
    "James Cook III": [
     "Active",
@@ -1779,10 +1779,10 @@
    ]
   },
   "injuries_gone": {
-   "James Conner": [
+   "Hunter Long": [
     "Injured Reserve",
-    "2026-11-11T22:36Z",
-    "2026-11-04T00:31Z"
+    "2026-11-11T22:37Z",
+    "2026-11-11T22:25Z"
    ],
    "Nikko Remigio": [
     "Active",
