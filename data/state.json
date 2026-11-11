@@ -737,10 +737,6 @@
     "Active",
     "2026-11-09T01:38Z"
    ],
-   "Hunter Long": [
-    "Injured Reserve",
-    "2026-11-11T22:25Z"
-   ],
    "Ian Thomas": [
     "Active",
     "2026-11-05T22:42Z"
@@ -860,6 +856,10 @@
    "Jalin Hyatt": [
     "Active",
     "2026-11-08T00:59Z"
+   ],
+   "James Conner": [
+    "Injured Reserve",
+    "2026-11-04T00:31Z"
    ],
    "James Cook III": [
     "Active",
@@ -1779,10 +1779,10 @@
    ]
   },
   "injuries_gone": {
-   "James Conner": [
+   "Hunter Long": [
     "Injured Reserve",
-    "2026-11-11T22:30Z",
-    "2026-11-04T00:31Z"
+    "2026-11-11T22:32Z",
+    "2026-11-11T22:25Z"
    ],
    "Nikko Remigio": [
     "Active",
@@ -1868,7 +1868,8 @@
    "50454416",
    "50454952",
    "50455074",
-   "50455318"
+   "50455318",
+   "50455698"
   ],
   "trades": [
    "2026-08-24:Deion Jones-Zamir White",
