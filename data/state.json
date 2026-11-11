@@ -61,10 +61,6 @@
     "Injured Reserve",
     "2026-11-09T19:43Z"
    ],
-   "Andrew Armstrong": [
-    "Active",
-    "2026-10-27T01:57Z"
-   ],
    "Andy Borregales": [
     "Active",
     "2026-11-10T03:00Z"
@@ -840,6 +836,10 @@
    "Jalen Nailor": [
     "Active",
     "2026-11-09T03:21Z"
+   ],
+   "Jalen Royals": [
+    "Active",
+    "2026-11-11T03:01Z"
    ],
    "Jalen Tolbert": [
     "Active",
@@ -1763,6 +1763,11 @@
    ]
   },
   "injuries_gone": {
+   "Andrew Armstrong": [
+    "Active",
+    "2026-11-11T03:07Z",
+    "2026-10-27T01:57Z"
+   ],
    "Anthony Richardson Sr.": [
     "Active",
     "2026-11-10T20:53Z",
