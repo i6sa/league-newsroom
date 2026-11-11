@@ -737,6 +737,10 @@
     "Active",
     "2026-11-09T01:38Z"
    ],
+   "Hunter Long": [
+    "Injured Reserve",
+    "2026-11-11T22:25Z"
+   ],
    "Ian Thomas": [
     "Active",
     "2026-11-05T22:42Z"
@@ -857,10 +861,6 @@
     "Active",
     "2026-11-08T00:59Z"
    ],
-   "James Conner": [
-    "Injured Reserve",
-    "2026-11-04T00:31Z"
-   ],
    "James Cook III": [
     "Active",
     "2026-11-10T04:39Z"
@@ -882,8 +882,8 @@
     "2026-11-09T04:48Z"
    ],
    "Jauan Jennings": [
-    "Out",
-    "2026-11-11T22:08Z"
+    "Questionable",
+    "2026-11-11T22:32Z"
    ],
    "Javonte Williams": [
     "Active",
@@ -1538,8 +1538,8 @@
     "2026-11-11T15:31Z"
    ],
    "Tank Dell": [
-    "Active",
-    "2026-11-09T02:14Z"
+    "Questionable",
+    "2026-11-11T22:32Z"
    ],
    "Tanner Koziol": [
     "Active",
@@ -1730,8 +1730,8 @@
     "2026-11-11T01:54Z"
    ],
    "Woody Marks": [
-    "Active",
-    "2026-11-09T03:22Z"
+    "Questionable",
+    "2026-11-11T22:32Z"
    ],
    "Xavier Hutchinson": [
     "Active",
@@ -1779,10 +1779,10 @@
    ]
   },
   "injuries_gone": {
-   "Hunter Long": [
+   "James Conner": [
     "Injured Reserve",
-    "2026-11-11T22:34Z",
-    "2026-11-11T22:25Z"
+    "2026-11-11T22:36Z",
+    "2026-11-04T00:31Z"
    ],
    "Nikko Remigio": [
     "Active",
