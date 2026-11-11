@@ -465,10 +465,6 @@
     "Out",
     "2026-11-09T21:32Z"
    ],
-   "Dean Connors": [
-    "Injured Reserve",
-    "2026-11-04T01:20Z"
-   ],
    "DeeJay Dallas": [
     "Active",
     "2026-11-05T02:13Z"
@@ -955,7 +951,7 @@
    ],
    "Jordan Whittington": [
     "Injured Reserve",
-    "2026-11-10T21:29Z"
+    "2026-11-11T00:38Z"
    ],
    "Jordyn Tyson": [
     "Active",
@@ -1665,6 +1661,10 @@
     "Injured Reserve",
     "2026-11-09T19:36Z"
    ],
+   "Xavier Smith": [
+    "Active",
+    "2026-11-11T00:32Z"
+   ],
    "Xavier Worthy": [
     "Questionable",
     "2026-11-09T18:20Z"
@@ -1699,6 +1699,11 @@
     "Active",
     "2026-11-10T20:53Z",
     "2026-11-02T02:01Z"
+   ],
+   "Dean Connors": [
+    "Injured Reserve",
+    "2026-11-11T00:44Z",
+    "2026-11-04T01:20Z"
    ],
    "Ihmir Smith-Marsette": [
     "Out",
@@ -1749,11 +1754,6 @@
     "Active",
     "2026-11-10T17:28Z",
     "2026-11-10T03:03Z"
-   ],
-   "Xavier Smith": [
-    "Active",
-    "2026-11-11T00:43Z",
-    "2026-11-11T00:32Z"
    ]
   },
   "news": [
