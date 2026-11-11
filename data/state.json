@@ -589,6 +589,10 @@
     "Active",
     "2026-11-02T19:20Z"
    ],
+   "Eli Raridon": [
+    "Active",
+    "2026-11-11T00:55Z"
+   ],
    "Eli Stowers": [
     "Active",
     "2026-11-10T02:43Z"
@@ -989,10 +993,6 @@
     "Questionable",
     "2026-11-10T15:44Z"
    ],
-   "Joshua Karty": [
-    "Active",
-    "2026-11-05T17:48Z"
-   ],
    "Joshua Palmer": [
     "Injured Reserve",
     "2026-11-10T01:39Z"
@@ -1105,6 +1105,10 @@
     "Active",
     "2026-11-08T20:01Z"
    ],
+   "Kyle Williams": [
+    "Active",
+    "2026-11-11T01:03Z"
+   ],
    "Kylen Granson": [
     "Active",
     "2026-11-02T19:24Z"
@@ -1124,6 +1128,10 @@
    "Lamar Jackson": [
     "Injured Reserve",
     "2026-11-08T12:12Z"
+   ],
+   "Lan Larison": [
+    "Active",
+    "2026-11-11T01:04Z"
    ],
    "Laquon Treadwell": [
     "Active",
@@ -1175,7 +1183,7 @@
    ],
    "Malik Willis": [
     "Injured Reserve",
-    "2026-11-10T21:39Z"
+    "2026-11-11T01:01Z"
    ],
    "MarShawn Lloyd": [
     "Questionable",
@@ -1589,6 +1597,10 @@
     "Active",
     "2026-11-09T03:48Z"
    ],
+   "Tutu Atwell": [
+    "Active",
+    "2026-11-11T00:54Z"
+   ],
    "Ty Johnson": [
     "Active",
     "2026-11-10T05:31Z"
@@ -1616,6 +1628,10 @@
    "Tyler Goodson": [
     "Out",
     "2026-11-10T15:05Z"
+   ],
+   "Tyler Higbee": [
+    "Active",
+    "2026-11-11T00:58Z"
    ],
    "Tyler Huntley": [
     "Injured Reserve",
@@ -1717,11 +1733,6 @@
     "2026-11-11T00:44Z",
     "2026-11-04T01:20Z"
    ],
-   "Eli Raridon": [
-    "Active",
-    "2026-11-11T01:11Z",
-    "2026-11-11T00:55Z"
-   ],
    "Ihmir Smith-Marsette": [
     "Out",
     "2026-11-11T00:28Z",
@@ -1747,6 +1758,11 @@
     "2026-11-10T20:51Z",
     "2026-11-09T02:53Z"
    ],
+   "Joshua Karty": [
+    "Active",
+    "2026-11-11T01:12Z",
+    "2026-11-05T17:48Z"
+   ],
    "KeAndre Lambert-Smith": [
     "Active",
     "2026-11-11T00:21Z",
@@ -1767,30 +1783,10 @@
     "2026-11-10T19:50Z",
     "2026-11-10T19:02Z"
    ],
-   "Kyle Williams": [
-    "Active",
-    "2026-11-11T01:11Z",
-    "2026-11-11T01:03Z"
-   ],
-   "Lan Larison": [
-    "Active",
-    "2026-11-11T01:11Z",
-    "2026-11-11T01:04Z"
-   ],
    "Nick Folk": [
     "Active",
     "2026-11-10T17:28Z",
     "2026-11-10T03:03Z"
-   ],
-   "Tutu Atwell": [
-    "Active",
-    "2026-11-11T01:11Z",
-    "2026-11-11T00:54Z"
-   ],
-   "Tyler Higbee": [
-    "Active",
-    "2026-11-11T00:57Z",
-    "2026-11-04T03:07Z"
    ]
   },
   "news": [
@@ -1850,7 +1846,8 @@
    "50445819",
    "50446499",
    "50446573",
-   "50446805"
+   "50446805",
+   "50447756"
   ],
   "trades": [
    "2026-08-24:Deion Jones-Zamir White",
