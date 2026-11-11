@@ -197,10 +197,6 @@
     "Active",
     "2026-11-09T01:50Z"
    ],
-   "Bryce Lance": [
-    "Active",
-    "2026-11-11T00:46Z"
-   ],
    "Bryce Young": [
     "Active",
     "2026-11-09T00:07Z"
@@ -1085,6 +1081,10 @@
     "Active",
     "2026-11-11T00:29Z"
    ],
+   "Konata Mumpfield": [
+    "Active",
+    "2026-11-11T00:50Z"
+   ],
    "Kurtis Rourke": [
     "Active",
     "2026-11-09T21:33Z"
@@ -1324,6 +1324,10 @@
    "Pharaoh Brown": [
     "Active",
     "2026-11-09T21:15Z"
+   ],
+   "Pierre Strong Jr.": [
+    "Active",
+    "2026-11-11T00:49Z"
    ],
    "Puka Nacua": [
     "Doubtful",
@@ -1609,10 +1613,6 @@
     "Out",
     "2026-11-10T15:05Z"
    ],
-   "Tyler Higbee": [
-    "Active",
-    "2026-11-04T03:07Z"
-   ],
    "Tyler Huntley": [
     "Injured Reserve",
     "2026-11-05T21:20Z"
@@ -1708,6 +1708,11 @@
     "2026-11-10T20:53Z",
     "2026-11-02T02:01Z"
    ],
+   "Bryce Lance": [
+    "Active",
+    "2026-11-11T00:57Z",
+    "2026-11-11T00:46Z"
+   ],
    "Dean Connors": [
     "Injured Reserve",
     "2026-11-11T00:44Z",
@@ -1763,10 +1768,10 @@
     "2026-11-10T17:28Z",
     "2026-11-10T03:03Z"
    ],
-   "Pierre Strong Jr.": [
+   "Tyler Higbee": [
     "Active",
-    "2026-11-11T00:56Z",
-    "2026-11-11T00:49Z"
+    "2026-11-11T00:57Z",
+    "2026-11-04T03:07Z"
    ]
   },
   "news": [
