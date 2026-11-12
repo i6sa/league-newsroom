@@ -621,10 +621,6 @@
     "Active",
     "2026-11-09T00:43Z"
    ],
-   "Erick All Jr.": [
-    "Injured Reserve",
-    "2026-10-28T19:05Z"
-   ],
    "Evan Engram": [
     "Active",
     "2026-11-10T03:26Z"
@@ -1162,7 +1158,7 @@
     "2026-11-09T21:04Z"
    ],
    "Luke Schoonmaker": [
-    "Out",
+    "Active",
     "2026-11-11T23:49Z"
    ],
    "Luther Burden III": [
@@ -1729,6 +1725,11 @@
     "Active",
     "2026-11-12T22:44Z",
     "2026-11-09T01:30Z"
+   ],
+   "Erick All Jr.": [
+    "Injured Reserve",
+    "2026-11-12T23:12Z",
+    "2026-10-28T19:05Z"
    ],
    "Seth McGowan": [
     "Active",
