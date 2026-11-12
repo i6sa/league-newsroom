@@ -30,7 +30,7 @@
     "2026-11-09T03:53Z"
    ],
    "Aidan O'Connell": [
-    "Out",
+    "Active",
     "2026-11-11T19:12Z"
    ],
    "Alec Pierce": [
@@ -502,7 +502,7 @@
     "2026-11-07T17:39Z"
    ],
    "Deshaun Watson": [
-    "Out",
+    "Active",
     "2026-11-11T14:38Z"
    ],
    "Devaughn Vele": [
@@ -989,10 +989,6 @@
     "Questionable",
     "2026-11-12T22:33Z"
    ],
-   "Joshua Palmer": [
-    "Injured Reserve",
-    "2026-11-10T01:39Z"
-   ],
    "Justice Hill": [
     "Active",
     "2026-11-06T05:39Z"
@@ -1058,8 +1054,8 @@
     "2026-11-11T02:03Z"
    ],
    "Keaton Mitchell": [
-    "Active",
-    "2026-11-09T02:46Z"
+    "Questionable",
+    "2026-11-12T23:37Z"
    ],
    "Kedon Slovis": [
     "Active",
@@ -1633,6 +1629,10 @@
     "Active",
     "2026-11-11T21:10Z"
    ],
+   "Tyrell Shavers": [
+    "Out",
+    "2026-11-10T00:13Z"
+   ],
    "Van Jefferson": [
     "Active",
     "2026-11-09T01:39Z"
@@ -1731,6 +1731,11 @@
     "2026-11-12T23:12Z",
     "2026-10-28T19:05Z"
    ],
+   "Joshua Palmer": [
+    "Injured Reserve",
+    "2026-11-12T23:45Z",
+    "2026-11-10T01:39Z"
+   ],
    "Seth McGowan": [
     "Active",
     "2026-11-12T20:51Z",
@@ -1745,11 +1750,6 @@
     "Active",
     "2026-11-12T21:56Z",
     "2026-11-09T01:03Z"
-   ],
-   "Tyrell Shavers": [
-    "Out",
-    "2026-11-12T21:43Z",
-    "2026-11-10T00:13Z"
    ]
   },
   "news": [
