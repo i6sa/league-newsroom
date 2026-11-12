@@ -481,6 +481,10 @@
     "Injured Reserve",
     "2026-11-08T19:01Z"
    ],
+   "Davis Allen": [
+    "Questionable",
+    "2026-11-12T00:30Z"
+   ],
    "Davis Mills": [
     "Active",
     "2026-11-11T15:48Z"
@@ -1339,7 +1343,7 @@
    ],
    "Noah Fant": [
     "Questionable",
-    "2026-11-11T23:15Z"
+    "2026-11-12T00:32Z"
    ],
    "Noah Gray": [
     "Active",
@@ -1775,11 +1779,6 @@
    ]
   },
   "injuries_gone": {
-   "Davis Allen": [
-    "Questionable",
-    "2026-11-12T00:35Z",
-    "2026-11-12T00:30Z"
-   ],
    "James Conner": [
     "Injured Reserve",
     "2026-11-11T22:39Z",
