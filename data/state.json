@@ -345,6 +345,10 @@
     "Active",
     "2026-11-09T05:30Z"
    ],
+   "Chris Olave": [
+    "Active",
+    "2026-11-09T00:59Z"
+   ],
    "Chris Rodriguez Jr.": [
     "Questionable",
     "2026-11-11T21:20Z"
@@ -1153,10 +1157,6 @@
     "Doubtful",
     "2026-11-11T20:01Z"
    ],
-   "Kyren Williams": [
-    "Active",
-    "2026-11-08T22:29Z"
-   ],
    "Ladd McConkey": [
     "Questionable",
     "2026-11-10T00:00Z"
@@ -1605,6 +1605,10 @@
     "Active",
     "2026-11-06T05:09Z"
    ],
+   "Trey McBride": [
+    "Active",
+    "2026-11-09T01:47Z"
+   ],
    "Trey Smack": [
     "Questionable",
     "2026-11-11T22:18Z"
@@ -1747,11 +1751,6 @@
    ]
   },
   "injuries_gone": {
-   "Chris Olave": [
-    "Active",
-    "2026-11-12T03:35Z",
-    "2026-11-09T00:59Z"
-   ],
    "Christian Kirk": [
     "Injured Reserve",
     "2026-11-12T02:33Z",
@@ -1782,6 +1781,11 @@
     "2026-11-12T03:01Z",
     "2026-11-09T02:41Z"
    ],
+   "Kyren Williams": [
+    "Active",
+    "2026-11-12T03:36Z",
+    "2026-11-08T22:29Z"
+   ],
    "Malachi Corley": [
     "Active",
     "2026-11-11T23:44Z",
@@ -1811,11 +1815,6 @@
     "Active",
     "2026-11-11T21:20Z",
     "2026-11-07T20:35Z"
-   ],
-   "Trey McBride": [
-    "Active",
-    "2026-11-12T03:35Z",
-    "2026-11-09T01:47Z"
    ],
    "Tylan Wallace": [
     "Active",
