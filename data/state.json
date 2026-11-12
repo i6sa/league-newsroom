@@ -274,7 +274,7 @@
     "2026-11-12T23:28Z"
    ],
    "Case Keenum": [
-    "Out",
+    "Active",
     "2026-11-09T00:04Z"
    ],
    "CeeDee Lamb": [
@@ -444,10 +444,6 @@
    "David Montgomery": [
     "Questionable",
     "2026-11-12T22:33Z"
-   ],
-   "David Njoku": [
-    "Injured Reserve",
-    "2026-11-08T19:01Z"
    ],
    "Davis Allen": [
     "Questionable",
@@ -1194,7 +1190,7 @@
     "2026-11-12T00:14Z"
    ],
    "MarShawn Lloyd": [
-    "Out",
+    "Active",
     "2026-11-11T22:13Z"
    ],
    "Mark Andrews": [
@@ -1725,6 +1721,11 @@
     "Active",
     "2026-11-12T22:44Z",
     "2026-11-09T01:30Z"
+   ],
+   "David Njoku": [
+    "Injured Reserve",
+    "2026-11-12T23:51Z",
+    "2026-11-08T19:01Z"
    ],
    "Erick All Jr.": [
     "Injured Reserve",
