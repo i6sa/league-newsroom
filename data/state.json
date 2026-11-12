@@ -85,10 +85,6 @@
     "Active",
     "2026-11-09T21:36Z"
    ],
-   "Audric Estime": [
-    "Active",
-    "2026-11-09T01:09Z"
-   ],
    "Austin Ekeler": [
     "Active",
     "2026-11-10T02:02Z"
@@ -1641,10 +1637,6 @@
     "Active",
     "2026-11-11T00:58Z"
    ],
-   "Tyler Shough": [
-    "Active",
-    "2026-11-09T01:03Z"
-   ],
    "Tyler Warren": [
     "Active",
     "2026-11-11T21:10Z"
@@ -1732,6 +1724,11 @@
     "2026-11-12T18:55Z",
     "2026-11-05T01:10Z"
    ],
+   "Audric Estime": [
+    "Active",
+    "2026-11-12T21:56Z",
+    "2026-11-09T01:09Z"
+   ],
    "Seth McGowan": [
     "Active",
     "2026-11-12T20:51Z",
@@ -1741,6 +1738,11 @@
     "Injured Reserve",
     "2026-11-12T19:09Z",
     "2026-11-05T21:20Z"
+   ],
+   "Tyler Shough": [
+    "Active",
+    "2026-11-12T21:56Z",
+    "2026-11-09T01:03Z"
    ],
    "Tyrell Shavers": [
     "Out",
