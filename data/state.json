@@ -1401,6 +1401,10 @@
     "Active",
     "2026-11-09T21:15Z"
    ],
+   "Riley Patterson": [
+    "Active",
+    "2026-11-12T17:15Z"
+   ],
    "Rome Odunze": [
     "Active",
     "2026-11-09T05:19Z"
@@ -1633,10 +1637,6 @@
     "Active",
     "2026-11-11T00:58Z"
    ],
-   "Tyler Huntley": [
-    "Injured Reserve",
-    "2026-11-05T21:20Z"
-   ],
    "Tyler Shough": [
     "Active",
     "2026-11-09T01:03Z"
@@ -1731,6 +1731,11 @@
     "Injured Reserve",
     "2026-11-12T18:55Z",
     "2026-11-05T01:10Z"
+   ],
+   "Tyler Huntley": [
+    "Injured Reserve",
+    "2026-11-12T19:09Z",
+    "2026-11-05T21:20Z"
    ]
   },
   "news": [
