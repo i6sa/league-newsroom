@@ -881,6 +881,10 @@
     "Active",
     "2026-11-08T23:12Z"
    ],
+   "Jaydn Ott": [
+    "Questionable",
+    "2026-11-12T21:39Z"
+   ],
    "Jaylen Waddle": [
     "Questionable",
     "2026-11-08T19:52Z"
@@ -1645,10 +1649,6 @@
     "Active",
     "2026-11-11T21:10Z"
    ],
-   "Tyrell Shavers": [
-    "Out",
-    "2026-11-10T00:13Z"
-   ],
    "Van Jefferson": [
     "Active",
     "2026-11-09T01:39Z"
@@ -1741,6 +1741,11 @@
     "Injured Reserve",
     "2026-11-12T19:09Z",
     "2026-11-05T21:20Z"
+   ],
+   "Tyrell Shavers": [
+    "Out",
+    "2026-11-12T21:43Z",
+    "2026-11-10T00:13Z"
    ]
   },
   "news": [
