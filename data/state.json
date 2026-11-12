@@ -30,7 +30,7 @@
     "2026-11-09T03:53Z"
    ],
    "Aidan O'Connell": [
-    "Out",
+    "Active",
     "2026-11-11T19:12Z"
    ],
    "Alec Pierce": [
@@ -444,10 +444,6 @@
    "David Montgomery": [
     "Questionable",
     "2026-11-12T22:33Z"
-   ],
-   "David Njoku": [
-    "Injured Reserve",
-    "2026-11-08T19:01Z"
    ],
    "Davis Allen": [
     "Questionable",
@@ -999,7 +995,7 @@
    ],
    "Justin Herbert": [
     "Active",
-    "2026-11-12T23:29Z"
+    "2026-11-12T23:34Z"
    ],
    "Justin Jefferson": [
     "Active",
@@ -1562,8 +1558,8 @@
     "2026-11-09T02:53Z"
    ],
    "Tre' Harris": [
-    "Active",
-    "2026-11-10T02:42Z"
+    "Questionable",
+    "2026-11-12T23:41Z"
    ],
    "TreVeyon Henderson": [
     "Out",
@@ -1678,7 +1674,7 @@
     "2026-11-11T00:32Z"
    ],
    "Xavier Worthy": [
-    "Questionable",
+    "Active",
     "2026-11-11T21:42Z"
    ],
    "Zach Charbonnet": [
@@ -1725,6 +1721,11 @@
     "Active",
     "2026-11-12T22:44Z",
     "2026-11-09T01:30Z"
+   ],
+   "David Njoku": [
+    "Injured Reserve",
+    "2026-11-12T23:48Z",
+    "2026-11-08T19:01Z"
    ],
    "Erick All Jr.": [
     "Injured Reserve",
