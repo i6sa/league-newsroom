@@ -193,10 +193,6 @@
     "Active",
     "2026-11-09T01:17Z"
    ],
-   "Brock Purdy": [
-    "Active",
-    "2026-11-09T01:50Z"
-   ],
    "Bryce Lance": [
     "Active",
     "2026-11-11T00:46Z"
@@ -471,7 +467,7 @@
    ],
    "Deebo Samuel Sr.": [
     "Questionable",
-    "2026-11-12T22:33Z"
+    "2026-11-12T23:37Z"
    ],
    "Deion Burks": [
     "Active",
@@ -656,10 +652,6 @@
    "George Holani": [
     "Active",
     "2026-11-10T04:24Z"
-   ],
-   "George Kittle": [
-    "Active",
-    "2026-11-09T01:52Z"
    ],
    "George Pickens": [
     "Questionable",
@@ -1057,6 +1049,10 @@
     "Active",
     "2026-11-09T20:55Z"
    ],
+   "Keenan Allen": [
+    "Active",
+    "2026-11-10T18:43Z"
+   ],
    "Keleki Latu": [
     "Active",
     "2026-11-11T02:14Z"
@@ -1247,7 +1243,7 @@
    ],
    "Mike Evans": [
     "Questionable",
-    "2026-11-12T22:33Z"
+    "2026-11-12T23:34Z"
    ],
    "Mike Gesicki": [
     "Active",
@@ -1717,6 +1713,11 @@
     "2026-11-12T21:56Z",
     "2026-11-09T01:09Z"
    ],
+   "Brock Purdy": [
+    "Active",
+    "2026-11-12T23:53Z",
+    "2026-11-09T01:50Z"
+   ],
    "C.J. Stroud": [
     "Active",
     "2026-11-12T22:44Z",
@@ -1731,6 +1732,11 @@
     "Injured Reserve",
     "2026-11-12T23:12Z",
     "2026-10-28T19:05Z"
+   ],
+   "George Kittle": [
+    "Active",
+    "2026-11-12T23:53Z",
+    "2026-11-09T01:52Z"
    ],
    "Joshua Palmer": [
     "Injured Reserve",
