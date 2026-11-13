@@ -325,6 +325,10 @@
     "Injured Reserve",
     "2026-11-12T22:58Z"
    ],
+   "Chris Collier": [
+    "Questionable",
+    "2026-11-13T18:03Z"
+   ],
    "Chris Godwin Jr.": [
     "Active",
     "2026-11-09T05:30Z"
@@ -1678,13 +1682,7 @@
     "2026-11-06T05:03Z"
    ]
   },
-  "injuries_gone": {
-   "Chris Collier": [
-    "Questionable",
-    "2026-11-13T18:15Z",
-    "2026-11-13T18:03Z"
-   ]
-  },
+  "injuries_gone": {},
   "news": [
    "50425853",
    "50427398",
