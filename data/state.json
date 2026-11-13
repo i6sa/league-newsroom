@@ -121,6 +121,10 @@
     "Active",
     "2026-11-08T19:30Z"
    ],
+   "Blake Corum": [
+    "Active",
+    "2026-11-08T22:52Z"
+   ],
    "Bo Melton": [
     "Active",
     "2026-11-12T22:48Z"
@@ -200,10 +204,6 @@
    "Bucky Irving": [
     "Active",
     "2026-11-09T19:49Z"
-   ],
-   "CJ Daniels": [
-    "Active",
-    "2026-11-13T22:03Z"
    ],
    "CJ Donaldson": [
     "Out",
@@ -312,6 +312,10 @@
    "Chris Bell": [
     "Doubtful",
     "2026-11-13T16:36Z"
+   ],
+   "Chris Blair": [
+    "Active",
+    "2026-11-02T15:02Z"
    ],
    "Chris Boswell": [
     "Active",
@@ -463,7 +467,7 @@
    ],
    "Deebo Samuel Sr.": [
     "Active",
-    "2026-11-12T23:37Z"
+    "2026-11-13T22:12Z"
    ],
    "Deion Burks": [
     "Active",
@@ -522,8 +526,8 @@
     "2026-11-09T04:01Z"
    ],
    "Dont'e Thornton Jr.": [
-    "Active",
-    "2026-11-09T21:19Z"
+    "Questionable",
+    "2026-11-13T22:14Z"
    ],
    "Dontayvion Wicks": [
     "Out",
@@ -1231,7 +1235,7 @@
    ],
    "Mike Evans": [
     "Out",
-    "2026-11-13T00:28Z"
+    "2026-11-13T22:08Z"
    ],
    "Mike Gesicki": [
     "Active",
@@ -1675,20 +1679,15 @@
    ]
   },
   "injuries_gone": {
-   "Blake Corum": [
-    "Active",
-    "2026-11-13T22:17Z",
-    "2026-11-08T22:52Z"
-   ],
    "C.J. Stroud": [
     "Active",
     "2026-11-13T21:35Z",
     "2026-11-09T01:30Z"
    ],
-   "Chris Blair": [
+   "CJ Daniels": [
     "Active",
-    "2026-11-13T22:17Z",
-    "2026-11-02T15:02Z"
+    "2026-11-13T22:19Z",
+    "2026-11-13T22:03Z"
    ],
    "Chris Collier": [
     "Questionable",
