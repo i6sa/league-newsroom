@@ -437,10 +437,6 @@
     "Questionable",
     "2026-11-12T22:33Z"
    ],
-   "David Njoku": [
-    "Injured Reserve",
-    "2026-11-13T00:14Z"
-   ],
    "Davis Allen": [
     "Questionable",
     "2026-11-12T00:30Z"
@@ -1593,10 +1589,6 @@
     "Questionable",
     "2026-11-12T22:33Z"
    ],
-   "Tyler Allgeier": [
-    "Active",
-    "2026-11-09T03:30Z"
-   ],
    "Tyler Bass": [
     "Active",
     "2026-11-11T01:47Z"
@@ -1720,6 +1712,11 @@
     "2026-11-12T22:44Z",
     "2026-11-09T01:30Z"
    ],
+   "David Njoku": [
+    "Injured Reserve",
+    "2026-11-13T00:32Z",
+    "2026-11-13T00:14Z"
+   ],
    "Erick All Jr.": [
     "Injured Reserve",
     "2026-11-12T23:12Z",
@@ -1749,6 +1746,11 @@
     "Active",
     "2026-11-12T23:54Z",
     "2026-11-09T21:30Z"
+   ],
+   "Tyler Allgeier": [
+    "Active",
+    "2026-11-13T00:32Z",
+    "2026-11-09T03:30Z"
    ],
    "Tyler Huntley": [
     "Injured Reserve",
