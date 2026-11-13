@@ -1449,6 +1449,10 @@
     "Injured Reserve",
     "2026-11-12T23:03Z"
    ],
+   "Spencer Shrader": [
+    "Active",
+    "2026-11-09T04:19Z"
+   ],
    "Stefon Diggs": [
     "Active",
     "2026-11-13T05:01Z"
@@ -1678,13 +1682,7 @@
     "2026-11-06T05:03Z"
    ]
   },
-  "injuries_gone": {
-   "Spencer Shrader": [
-    "Active",
-    "2026-11-13T18:22Z",
-    "2026-11-09T04:19Z"
-   ]
-  },
+  "injuries_gone": {},
   "news": [
    "50425853",
    "50427398",
