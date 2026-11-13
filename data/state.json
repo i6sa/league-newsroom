@@ -205,10 +205,6 @@
     "Active",
     "2026-11-09T19:49Z"
    ],
-   "C.J. Stroud": [
-    "Active",
-    "2026-11-09T01:30Z"
-   ],
    "CJ Donaldson": [
     "Out",
     "2026-11-13T19:46Z"
@@ -1683,6 +1679,11 @@
    ]
   },
   "injuries_gone": {
+   "C.J. Stroud": [
+    "Active",
+    "2026-11-13T21:35Z",
+    "2026-11-09T01:30Z"
+   ],
    "Dare Ogunbowale": [
     "Active",
     "2026-11-13T21:20Z",
