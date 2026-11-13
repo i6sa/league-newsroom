@@ -205,6 +205,10 @@
     "Active",
     "2026-11-09T19:49Z"
    ],
+   "C.J. Stroud": [
+    "Active",
+    "2026-11-09T01:30Z"
+   ],
    "CJ Donaldson": [
     "Out",
     "2026-11-13T19:46Z"
@@ -411,15 +415,11 @@
    ],
    "Dalton Kincaid": [
     "Active",
-    "2026-11-12T21:24Z"
+    "2026-11-13T21:15Z"
    ],
    "Dalton Schultz": [
     "Active",
     "2026-11-09T03:11Z"
-   ],
-   "Dare Ogunbowale": [
-    "Active",
-    "2026-11-11T04:20Z"
    ],
    "Darius Cooper": [
     "Active",
@@ -443,7 +443,7 @@
    ],
    "David Montgomery": [
     "Questionable",
-    "2026-11-13T17:04Z"
+    "2026-11-13T21:08Z"
    ],
    "David Njoku": [
     "Injured Reserve",
@@ -842,7 +842,7 @@
     "2026-11-09T04:48Z"
    ],
    "Jauan Jennings": [
-    "Questionable",
+    "Out",
     "2026-11-13T00:15Z"
    ],
    "Javonte Williams": [
@@ -1195,7 +1195,7 @@
    ],
    "Marvin Harrison Jr.": [
     "Out",
-    "2026-11-13T17:28Z"
+    "2026-11-13T21:13Z"
    ],
    "Marvin Mims Jr.": [
     "Active",
@@ -1635,7 +1635,7 @@
    ],
    "Woody Marks": [
     "Active",
-    "2026-11-13T16:56Z"
+    "2026-11-13T21:10Z"
    ],
    "Xavier Hutchinson": [
     "Active",
@@ -1683,6 +1683,11 @@
    ]
   },
   "injuries_gone": {
+   "Dare Ogunbowale": [
+    "Active",
+    "2026-11-13T21:20Z",
+    "2026-11-11T04:20Z"
+   ],
    "Spencer Shrader": [
     "Active",
     "2026-11-13T18:24Z",
