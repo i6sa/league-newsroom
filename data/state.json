@@ -1254,8 +1254,8 @@
     "2026-11-02T18:48Z"
    ],
    "Mo Alie-Cox": [
-    "Questionable",
-    "2026-11-11T23:17Z"
+    "Out",
+    "2026-11-13T18:13Z"
    ],
    "Myles Price": [
     "Active",
@@ -1448,10 +1448,6 @@
    "Skyy Moore": [
     "Injured Reserve",
     "2026-11-12T23:03Z"
-   ],
-   "Spencer Shrader": [
-    "Active",
-    "2026-11-09T04:19Z"
    ],
    "Stefon Diggs": [
     "Active",
@@ -1662,8 +1658,8 @@
     "2026-11-09T21:29Z"
    ],
    "Zachariah Branch": [
-    "Doubtful",
-    "2026-11-12T22:33Z"
+    "Out",
+    "2026-11-13T18:16Z"
    ],
    "Zane Gonzalez": [
     "Active",
@@ -1682,7 +1678,13 @@
     "2026-11-06T05:03Z"
    ]
   },
-  "injuries_gone": {},
+  "injuries_gone": {
+   "Spencer Shrader": [
+    "Active",
+    "2026-11-13T18:20Z",
+    "2026-11-09T04:19Z"
+   ]
+  },
   "news": [
    "50425853",
    "50427398",
