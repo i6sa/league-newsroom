@@ -329,10 +329,6 @@
     "Injured Reserve",
     "2026-11-12T22:58Z"
    ],
-   "Chris Collier": [
-    "Questionable",
-    "2026-11-13T18:03Z"
-   ],
    "Chris Godwin Jr.": [
     "Active",
     "2026-11-09T05:30Z"
@@ -682,7 +678,7 @@
     "2026-11-02T03:29Z"
    ],
    "Harold Fannin Jr.": [
-    "Questionable",
+    "Active",
     "2026-11-12T22:41Z"
    ],
    "Harrison Butker": [
@@ -1298,7 +1294,7 @@
     "2026-11-08T23:11Z"
    ],
    "Omar Cooper Jr.": [
-    "Active",
+    "Questionable",
     "2026-11-13T16:14Z"
    ],
    "Omarion Hampton": [
@@ -1683,6 +1679,11 @@
    ]
   },
   "injuries_gone": {
+   "Chris Collier": [
+    "Questionable",
+    "2026-11-13T21:33Z",
+    "2026-11-13T18:03Z"
+   ],
    "Dare Ogunbowale": [
     "Active",
     "2026-11-13T21:20Z",
