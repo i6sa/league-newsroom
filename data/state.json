@@ -121,10 +121,6 @@
     "Active",
     "2026-11-08T19:30Z"
    ],
-   "Blake Corum": [
-    "Active",
-    "2026-11-08T22:52Z"
-   ],
    "Bo Melton": [
     "Active",
     "2026-11-12T22:48Z"
@@ -204,6 +200,10 @@
    "Bucky Irving": [
     "Active",
     "2026-11-09T19:49Z"
+   ],
+   "CJ Daniels": [
+    "Active",
+    "2026-11-13T22:03Z"
    ],
    "CJ Donaldson": [
     "Out",
@@ -1675,15 +1675,15 @@
    ]
   },
   "injuries_gone": {
+   "Blake Corum": [
+    "Active",
+    "2026-11-13T22:22Z",
+    "2026-11-08T22:52Z"
+   ],
    "C.J. Stroud": [
     "Active",
     "2026-11-13T21:35Z",
     "2026-11-09T01:30Z"
-   ],
-   "CJ Daniels": [
-    "Active",
-    "2026-11-13T22:21Z",
-    "2026-11-13T22:03Z"
    ],
    "Chris Blair": [
     "Active",
@@ -1799,7 +1799,8 @@
    "50473143",
    "50473202",
    "50473514",
-   "50474564"
+   "50474564",
+   "50474753"
   ],
   "trades": [
    "2026-08-24:Deion Jones-Zamir White",
