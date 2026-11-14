@@ -285,10 +285,6 @@
     "Active",
     "2026-11-10T03:11Z"
    ],
-   "Charlie Jones": [
-    "Active",
-    "2026-11-10T23:03Z"
-   ],
    "Charlie Kolar": [
     "Active",
     "2026-11-11T00:08Z"
@@ -1684,6 +1680,11 @@
     "Active",
     "2026-11-13T21:35Z",
     "2026-11-09T01:30Z"
+   ],
+   "Charlie Jones": [
+    "Active",
+    "2026-11-14T03:03Z",
+    "2026-11-10T23:03Z"
    ],
    "Chris Blair": [
     "Active",
