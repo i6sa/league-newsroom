@@ -937,10 +937,6 @@
     "Active",
     "2026-11-11T21:55Z"
    ],
-   "Josh Allen": [
-    "Active",
-    "2026-11-10T04:48Z"
-   ],
    "Josh Cameron": [
     "Active",
     "2026-11-06T17:58Z"
@@ -1417,6 +1413,10 @@
     "Active",
     "2026-11-10T05:51Z"
    ],
+   "Shane Buechele": [
+    "Active",
+    "2026-11-14T21:46Z"
+   ],
    "Shedeur Sanders": [
     "Active",
     "2026-11-11T14:44Z"
@@ -1587,7 +1587,7 @@
    ],
    "Tyrell Shavers": [
     "Out",
-    "2026-11-14T00:36Z"
+    "2026-11-14T21:49Z"
    ],
    "Van Jefferson": [
     "Active",
@@ -1690,6 +1690,11 @@
     "Active",
     "2026-11-14T21:13Z",
     "2026-11-10T04:39Z"
+   ],
+   "Josh Allen": [
+    "Active",
+    "2026-11-14T21:57Z",
+    "2026-11-10T04:48Z"
    ],
    "Mack Hollins": [
     "Active",
