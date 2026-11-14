@@ -281,10 +281,6 @@
     "Active",
     "2026-11-09T00:04Z"
    ],
-   "CeeDee Lamb": [
-    "Active",
-    "2026-11-08T22:30Z"
-   ],
    "Chad Ryland": [
     "Active",
     "2026-11-10T03:11Z"
@@ -816,6 +812,10 @@
    "James Cook III": [
     "Active",
     "2026-11-10T04:39Z"
+   ],
+   "James Mitchell": [
+    "Active",
+    "2026-11-14T19:17Z"
    ],
    "Jameson Williams": [
     "Active",
@@ -1683,6 +1683,11 @@
     "Active",
     "2026-11-14T19:01Z",
     "2026-11-09T00:49Z"
+   ],
+   "CeeDee Lamb": [
+    "Active",
+    "2026-11-14T19:32Z",
+    "2026-11-08T22:30Z"
    ],
    "Dillon Gabriel": [
     "Active",
