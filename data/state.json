@@ -513,10 +513,6 @@
     "Active",
     "2026-11-06T18:44Z"
    ],
-   "Dillon Gabriel": [
-    "Active",
-    "2026-11-08T12:24Z"
-   ],
    "Dohnte Meyers": [
     "Active",
     "2026-11-11T00:43Z"
@@ -1661,6 +1657,10 @@
     "Out",
     "2026-11-13T19:42Z"
    ],
+   "Zaire Mitchell-Paden": [
+    "Active",
+    "2026-11-14T17:58Z"
+   ],
    "Zane Gonzalez": [
     "Active",
     "2026-11-10T04:42Z"
@@ -1679,6 +1679,11 @@
    ]
   },
   "injuries_gone": {
+   "Dillon Gabriel": [
+    "Active",
+    "2026-11-14T18:21Z",
+    "2026-11-08T12:24Z"
+   ],
    "Pharaoh Brown": [
     "Active",
     "2026-11-14T18:00Z",
