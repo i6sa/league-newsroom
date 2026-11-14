@@ -133,6 +133,10 @@
     "Active",
     "2026-11-08T23:47Z"
    ],
+   "Brady Cook": [
+    "Active",
+    "2026-11-14T18:46Z"
+   ],
    "Braelon Allen": [
     "Active",
     "2026-11-09T00:26Z"
@@ -228,10 +232,6 @@
    "Cairo Santos": [
     "Active",
     "2026-11-10T02:46Z"
-   ],
-   "Caleb Douglas": [
-    "Active",
-    "2026-11-09T00:49Z"
    ],
    "Caleb Williams": [
     "Active",
@@ -801,6 +801,10 @@
     "Active",
     "2026-11-09T03:21Z"
    ],
+   "Jalen Reagor": [
+    "Active",
+    "2026-11-14T18:48Z"
+   ],
    "Jalen Royals": [
     "Active",
     "2026-11-11T03:01Z"
@@ -1285,10 +1289,6 @@
     "Active",
     "2026-11-11T02:17Z"
    ],
-   "Ollie Gordon II": [
-    "Active",
-    "2026-11-08T23:11Z"
-   ],
    "Omar Cooper Jr.": [
     "Questionable",
     "2026-11-14T17:15Z"
@@ -1583,7 +1583,7 @@
    ],
    "Tyler Goodson": [
     "Injured Reserve",
-    "2026-11-14T18:40Z"
+    "2026-11-14T18:50Z"
    ],
    "Tyler Higbee": [
     "Active",
@@ -1679,10 +1679,20 @@
    ]
   },
   "injuries_gone": {
+   "Caleb Douglas": [
+    "Active",
+    "2026-11-14T19:01Z",
+    "2026-11-09T00:49Z"
+   ],
    "Dillon Gabriel": [
     "Active",
     "2026-11-14T18:21Z",
     "2026-11-08T12:24Z"
+   ],
+   "Ollie Gordon II": [
+    "Active",
+    "2026-11-14T19:01Z",
+    "2026-11-08T23:11Z"
    ],
    "Pharaoh Brown": [
     "Active",
