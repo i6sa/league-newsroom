@@ -1317,10 +1317,6 @@
     "Active",
     "2026-11-13T22:48Z"
    ],
-   "Pharaoh Brown": [
-    "Active",
-    "2026-11-09T21:15Z"
-   ],
    "Pierre Strong Jr.": [
     "Active",
     "2026-11-11T00:49Z"
@@ -1332,6 +1328,10 @@
    "Quentin Johnston": [
     "Active",
     "2026-11-09T02:47Z"
+   ],
+   "Quez Watkins": [
+    "Active",
+    "2026-11-14T17:40Z"
    ],
    "Quinshon Judkins": [
     "Active",
@@ -1675,10 +1675,10 @@
    ]
   },
   "injuries_gone": {
-   "Quez Watkins": [
+   "Pharaoh Brown": [
     "Active",
-    "2026-11-14T17:59Z",
-    "2026-11-14T17:40Z"
+    "2026-11-14T18:00Z",
+    "2026-11-09T21:15Z"
    ]
   },
   "news": [
