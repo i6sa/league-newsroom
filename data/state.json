@@ -1311,15 +1311,11 @@
    ],
    "Pat Freiermuth": [
     "Questionable",
-    "2026-11-14T17:36Z"
+    "2026-11-14T17:39Z"
    ],
    "Patrick Mahomes": [
     "Active",
     "2026-11-13T22:48Z"
-   ],
-   "Pharaoh Brown": [
-    "Active",
-    "2026-11-09T21:15Z"
    ],
    "Pierre Strong Jr.": [
     "Active",
@@ -1332,6 +1328,10 @@
    "Quentin Johnston": [
     "Active",
     "2026-11-09T02:47Z"
+   ],
+   "Quez Watkins": [
+    "Active",
+    "2026-11-14T17:40Z"
    ],
    "Quinshon Judkins": [
     "Active",
@@ -1674,7 +1674,13 @@
     "2026-11-06T05:03Z"
    ]
   },
-  "injuries_gone": {},
+  "injuries_gone": {
+   "Pharaoh Brown": [
+    "Active",
+    "2026-11-14T17:55Z",
+    "2026-11-09T21:15Z"
+   ]
+  },
   "news": [
    "50425853",
    "50427398",
