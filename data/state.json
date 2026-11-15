@@ -57,6 +57,10 @@
     "Injured Reserve",
     "2026-11-14T20:08Z"
    ],
+   "Andy Borregales": [
+    "Active",
+    "2026-11-15T19:38Z"
+   ],
    "Anthony Gould": [
     "Active",
     "2026-11-11T16:52Z"
@@ -437,6 +441,10 @@
     "Active",
     "2026-11-11T00:26Z"
    ],
+   "DeMario Douglas": [
+    "Active",
+    "2026-11-15T19:36Z"
+   ],
    "DeVonta Smith": [
     "Out",
     "2026-11-09T21:32Z"
@@ -498,8 +506,8 @@
     "2026-11-14T01:27Z"
    ],
    "Dont'e Thornton Jr.": [
-    "Questionable",
-    "2026-11-14T00:14Z"
+    "Out",
+    "2026-11-15T19:45Z"
    ],
    "Dontayvion Wicks": [
     "Out",
@@ -564,6 +572,10 @@
    "Elijah Sarratt": [
     "Active",
     "2026-11-09T20:55Z"
+   ],
+   "Emanuel Wilson": [
+    "Active",
+    "2026-11-11T02:28Z"
    ],
    "Emari Demercado": [
     "Active",
@@ -640,10 +652,6 @@
    "Hunter Long": [
     "Questionable",
     "2026-11-14T23:13Z"
-   ],
-   "Ian Thomas": [
-    "Active",
-    "2026-11-05T22:42Z"
    ],
    "Isaac TeSlaa": [
     "Active",
@@ -1029,10 +1037,6 @@
     "Injured Reserve",
     "2026-11-13T14:48Z"
    ],
-   "Lan Larison": [
-    "Active",
-    "2026-11-11T01:04Z"
-   ],
    "Laquon Treadwell": [
     "Active",
     "2026-11-11T00:16Z"
@@ -1064,10 +1068,6 @@
    "Malachi Fields": [
     "Active",
     "2026-11-13T06:19Z"
-   ],
-   "Malik Benson": [
-    "Active",
-    "2026-11-09T21:19Z"
    ],
    "Malik Nabers": [
     "Active",
@@ -1536,11 +1536,6 @@
     "2026-11-15T16:51Z",
     "2026-11-09T20:56Z"
    ],
-   "Andy Borregales": [
-    "Active",
-    "2026-11-15T17:36Z",
-    "2026-11-10T03:00Z"
-   ],
    "Andy Dalton": [
     "Active",
     "2026-11-15T16:37Z",
@@ -1566,11 +1561,6 @@
     "2026-11-15T16:50Z",
     "2026-11-10T04:59Z"
    ],
-   "DeMario Douglas": [
-    "Active",
-    "2026-11-15T15:14Z",
-    "2026-11-09T03:43Z"
-   ],
    "Dylan Sampson": [
     "Active",
     "2026-11-15T18:27Z",
@@ -1580,11 +1570,6 @@
     "Active",
     "2026-11-15T18:58Z",
     "2026-11-11T00:55Z"
-   ],
-   "Emanuel Wilson": [
-    "Active",
-    "2026-11-15T19:45Z",
-    "2026-11-11T02:28Z"
    ],
    "Garrett Nussmeier": [
     "Active",
@@ -1600,6 +1585,11 @@
     "Active",
     "2026-11-15T16:51Z",
     "2026-11-09T20:56Z"
+   ],
+   "Ian Thomas": [
+    "Active",
+    "2026-11-15T19:49Z",
+    "2026-11-05T22:42Z"
    ],
    "Isiah Pacheco": [
     "Injured Reserve",
@@ -1665,6 +1655,16 @@
     "Active",
     "2026-11-15T19:06Z",
     "2026-11-11T01:03Z"
+   ],
+   "Lan Larison": [
+    "Active",
+    "2026-11-15T19:49Z",
+    "2026-11-11T01:04Z"
+   ],
+   "Malik Benson": [
+    "Active",
+    "2026-11-15T19:49Z",
+    "2026-11-09T21:19Z"
    ],
    "Malik Washington": [
     "Active",
