@@ -353,6 +353,10 @@
     "Active",
     "2026-11-08T23:55Z"
    ],
+   "Cyrus Allen": [
+    "Active",
+    "2026-11-10T04:23Z"
+   ],
    "D'Andre Swift": [
     "Active",
     "2026-11-09T05:17Z"
@@ -873,10 +877,6 @@
     "Injured Reserve",
     "2026-11-14T19:01Z"
    ],
-   "Jonnu Smith": [
-    "Active",
-    "2026-11-11T04:08Z"
-   ],
    "Jordan Addison": [
     "Out",
     "2026-11-15T16:38Z"
@@ -1202,7 +1202,7 @@
     "2026-11-11T02:17Z"
    ],
    "Omar Cooper Jr.": [
-    "Questionable",
+    "Active",
     "2026-11-15T16:41Z"
    ],
    "Oronde Gadsden": [
@@ -1585,11 +1585,6 @@
     "2026-11-15T17:25Z",
     "2026-11-09T03:54Z"
    ],
-   "Cyrus Allen": [
-    "Active",
-    "2026-11-15T18:48Z",
-    "2026-11-10T04:23Z"
-   ],
    "DJ Moore": [
     "Active",
     "2026-11-15T16:50Z",
@@ -1629,6 +1624,11 @@
     "Active",
     "2026-11-15T16:37Z",
     "2026-11-09T20:54Z"
+   ],
+   "Jonnu Smith": [
+    "Active",
+    "2026-11-15T18:49Z",
+    "2026-11-11T04:08Z"
    ],
    "Jordan Mason": [
     "Active",
