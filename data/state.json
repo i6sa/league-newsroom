@@ -30,7 +30,7 @@
     "2026-11-11T02:55Z"
    ],
    "Adonai Mitchell": [
-    "Questionable",
+    "Active",
     "2026-11-14T17:20Z"
    ],
    "Aidan O'Connell": [
@@ -211,7 +211,11 @@
    ],
    "CJ Donaldson": [
     "Out",
-    "2026-11-13T19:46Z"
+    "2026-11-15T16:34Z"
+   ],
+   "CJ Williams": [
+    "Active",
+    "2026-11-09T21:16Z"
    ],
    "Cade Otton": [
     "Active",
@@ -965,10 +969,6 @@
     "Active",
     "2026-11-11T17:13Z"
    ],
-   "Justin Joly": [
-    "Active",
-    "2026-11-09T21:26Z"
-   ],
    "Juwan Johnson": [
     "Active",
     "2026-11-09T02:00Z"
@@ -1325,10 +1325,6 @@
     "Active",
     "2026-11-02T02:55Z"
    ],
-   "Riley Leonard": [
-    "Active",
-    "2026-11-09T21:15Z"
-   ],
    "Riley Patterson": [
     "Active",
     "2026-11-12T17:15Z"
@@ -1381,10 +1377,6 @@
     "Active",
     "2026-11-10T05:51Z"
    ],
-   "Shane Buechele": [
-    "Active",
-    "2026-11-14T21:46Z"
-   ],
    "Shedeur Sanders": [
     "Active",
     "2026-11-11T14:44Z"
@@ -1428,10 +1420,6 @@
    "Tanner McKee": [
     "Active",
     "2026-11-08T17:01Z"
-   ],
-   "Taylen Green": [
-    "Active",
-    "2026-11-09T20:59Z"
    ],
    "Ted Hurst III": [
     "Active",
@@ -1482,8 +1470,8 @@
     "2026-11-10T03:33Z"
    ],
    "Travis Etienne Jr.": [
-    "Questionable",
-    "2026-11-14T21:11Z"
+    "Active",
+    "2026-11-15T16:34Z"
    ],
    "Travis Hunter": [
     "Active",
@@ -1538,7 +1526,7 @@
     "2026-11-09T21:25Z"
    ],
    "Tyjae Spears": [
-    "Questionable",
+    "Active",
     "2026-11-15T12:21Z"
    ],
    "Tyler Bass": [
@@ -1649,11 +1637,6 @@
     "2026-11-15T13:11Z",
     "2026-11-09T21:28Z"
    ],
-   "CJ Williams": [
-    "Active",
-    "2026-11-15T16:38Z",
-    "2026-11-09T21:16Z"
-   ],
    "DeMario Douglas": [
     "Active",
     "2026-11-15T15:14Z",
@@ -1669,6 +1652,11 @@
     "2026-11-15T16:37Z",
     "2026-11-09T20:54Z"
    ],
+   "Justin Joly": [
+    "Active",
+    "2026-11-15T16:41Z",
+    "2026-11-09T21:26Z"
+   ],
    "Max Brosmer": [
     "Active",
     "2026-11-15T16:37Z",
@@ -1678,6 +1666,21 @@
     "Active",
     "2026-11-15T16:37Z",
     "2026-11-09T15:21Z"
+   ],
+   "Riley Leonard": [
+    "Active",
+    "2026-11-15T16:41Z",
+    "2026-11-09T21:15Z"
+   ],
+   "Shane Buechele": [
+    "Active",
+    "2026-11-15T16:41Z",
+    "2026-11-14T21:46Z"
+   ],
+   "Taylen Green": [
+    "Active",
+    "2026-11-15T16:41Z",
+    "2026-11-09T20:59Z"
    ],
    "Xavier Hutchinson": [
     "Active",
