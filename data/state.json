@@ -109,10 +109,6 @@
     "Active",
     "2026-11-08T13:09Z"
    ],
-   "Behren Morton": [
-    "Active",
-    "2026-11-09T21:28Z"
-   ],
    "Ben Sinnott": [
     "Active",
     "2026-11-14T00:34Z"
@@ -258,8 +254,8 @@
     "2026-11-09T04:55Z"
    ],
    "Cameron Latu": [
-    "Questionable",
-    "2026-11-11T23:13Z"
+    "Active",
+    "2026-11-15T13:03Z"
    ],
    "Carnell Tate": [
     "Out",
@@ -708,6 +704,10 @@
    "Isaiah Williams": [
     "Active",
     "2026-11-11T03:29Z"
+   ],
+   "Isiah Pacheco": [
+    "Injured Reserve",
+    "2026-10-30T17:09Z"
    ],
    "Israel Abanikanda": [
     "Active",
@@ -1342,7 +1342,7 @@
     "2026-11-13T22:18Z"
    ],
    "Rhamondre Stevenson": [
-    "Questionable",
+    "Active",
     "2026-11-15T11:14Z"
    ],
    "Rico Dowdle": [
@@ -1667,10 +1667,10 @@
    ]
   },
   "injuries_gone": {
-   "Isiah Pacheco": [
-    "Injured Reserve",
-    "2026-11-15T13:06Z",
-    "2026-10-30T17:09Z"
+   "Behren Morton": [
+    "Active",
+    "2026-11-15T13:07Z",
+    "2026-11-09T21:28Z"
    ],
    "Nico Collins": [
     "Active",
