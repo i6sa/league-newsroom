@@ -9,6 +9,10 @@
     "Active",
     "2026-11-09T01:42Z"
    ],
+   "AJ Dillon": [
+    "Active",
+    "2026-11-09T20:56Z"
+   ],
    "Aaron Jones Sr.": [
     "Active",
     "2026-11-10T05:28Z"
@@ -27,7 +31,7 @@
    ],
    "Adonai Mitchell": [
     "Active",
-    "2026-11-14T17:20Z"
+    "2026-11-15T16:39Z"
    ],
    "Aidan O'Connell": [
     "Active",
@@ -369,10 +373,6 @@
     "Active",
     "2026-11-10T01:08Z"
    ],
-   "DJ Moore": [
-    "Active",
-    "2026-11-10T04:59Z"
-   ],
    "DJ Uiagalelei": [
     "Active",
     "2026-11-09T03:04Z"
@@ -621,13 +621,9 @@
     "Injured Reserve",
     "2026-11-15T12:49Z"
    ],
-   "Garrett Nussmeier": [
-    "Active",
-    "2026-11-09T21:18Z"
-   ],
    "Garrett Wilson": [
-    "Questionable",
-    "2026-11-15T12:14Z"
+    "Active",
+    "2026-11-15T16:37Z"
    ],
    "Geno Smith": [
     "Active",
@@ -660,6 +656,10 @@
    "Harrison Butker": [
     "Active",
     "2026-11-11T18:17Z"
+   ],
+   "Haynes King": [
+    "Active",
+    "2026-11-09T20:56Z"
    ],
    "Hunter Henry": [
     "Active",
@@ -826,8 +826,8 @@
     "2026-11-13T04:56Z"
    ],
    "Jaydn Ott": [
-    "Questionable",
-    "2026-11-13T23:28Z"
+    "Out",
+    "2026-11-15T16:46Z"
    ],
    "Jaylen Waddle": [
     "Questionable",
@@ -969,6 +969,10 @@
     "Active",
     "2026-11-09T02:45Z"
    ],
+   "Kaleb Johnson": [
+    "Active",
+    "2026-11-10T16:24Z"
+   ],
    "Kalif Raymond": [
     "Active",
     "2026-11-11T01:16Z"
@@ -1007,7 +1011,7 @@
    ],
    "Kenneth Walker III": [
     "Out",
-    "2026-11-15T16:21Z"
+    "2026-11-15T16:46Z"
    ],
    "Kenny Gainwell": [
     "Active",
@@ -1230,8 +1234,8 @@
     "2026-11-11T02:17Z"
    ],
    "Omar Cooper Jr.": [
-    "Questionable",
-    "2026-11-14T17:15Z"
+    "Active",
+    "2026-11-15T16:41Z"
    ],
    "Oronde Gadsden": [
     "Active",
@@ -1276,10 +1280,6 @@
    "Rashod Bateman": [
     "Active",
     "2026-11-13T23:22Z"
-   ],
-   "Ray Davis": [
-    "Active",
-    "2026-11-10T05:21Z"
    ],
    "Reggie Virgil": [
     "Active",
@@ -1441,10 +1441,6 @@
     "Active",
     "2026-11-06T17:05Z"
    ],
-   "Travis Kelce": [
-    "Active",
-    "2026-11-08T23:27Z"
-   ],
    "Tre Tucker": [
     "Active",
     "2026-11-09T02:53Z"
@@ -1591,11 +1587,6 @@
    ]
   },
   "injuries_gone": {
-   "AJ Dillon": [
-    "Active",
-    "2026-11-15T16:47Z",
-    "2026-11-09T20:56Z"
-   ],
    "Andy Dalton": [
     "Active",
     "2026-11-15T16:37Z",
@@ -1611,15 +1602,20 @@
     "2026-11-15T16:43Z",
     "2026-11-09T21:16Z"
    ],
+   "DJ Moore": [
+    "Active",
+    "2026-11-15T16:48Z",
+    "2026-11-10T04:59Z"
+   ],
    "DeMario Douglas": [
     "Active",
     "2026-11-15T15:14Z",
     "2026-11-09T03:43Z"
    ],
-   "Haynes King": [
+   "Garrett Nussmeier": [
     "Active",
-    "2026-11-15T16:47Z",
-    "2026-11-09T20:56Z"
+    "2026-11-15T16:48Z",
+    "2026-11-09T21:18Z"
    ],
    "Isiah Pacheco": [
     "Injured Reserve",
@@ -1646,11 +1642,6 @@
     "2026-11-15T16:42Z",
     "2026-11-09T00:48Z"
    ],
-   "Kaleb Johnson": [
-    "Active",
-    "2026-11-15T16:47Z",
-    "2026-11-10T16:24Z"
-   ],
    "Max Brosmer": [
     "Active",
     "2026-11-15T16:37Z",
@@ -1671,6 +1662,11 @@
     "2026-11-15T16:45Z",
     "2026-11-11T00:49Z"
    ],
+   "Ray Davis": [
+    "Active",
+    "2026-11-15T16:48Z",
+    "2026-11-10T05:21Z"
+   ],
    "Riley Leonard": [
     "Active",
     "2026-11-15T16:41Z",
@@ -1690,6 +1686,11 @@
     "Active",
     "2026-11-15T16:47Z",
     "2026-11-09T21:31Z"
+   ],
+   "Travis Kelce": [
+    "Active",
+    "2026-11-15T16:48Z",
+    "2026-11-08T23:27Z"
    ],
    "Xavier Hutchinson": [
     "Active",
