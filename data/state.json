@@ -597,6 +597,10 @@
     "Active",
     "2026-11-11T02:28Z"
    ],
+   "Emari Demercado": [
+    "Active",
+    "2026-11-10T02:26Z"
+   ],
    "Emeka Egbuka": [
     "Active",
     "2026-11-09T05:20Z"
@@ -1605,10 +1609,6 @@
     "Active",
     "2026-11-14T18:27Z"
    ],
-   "Xavier Hutchinson": [
-    "Active",
-    "2026-11-09T02:07Z"
-   ],
    "Xavier Legette": [
     "Questionable",
     "2026-11-14T18:56Z"
@@ -1673,15 +1673,15 @@
     "2026-11-15T13:19Z",
     "2026-11-09T03:16Z"
    ],
-   "Emari Demercado": [
-    "Active",
-    "2026-11-15T14:04Z",
-    "2026-11-10T02:26Z"
-   ],
    "Isiah Pacheco": [
     "Injured Reserve",
     "2026-11-15T13:17Z",
     "2026-10-30T17:09Z"
+   ],
+   "Xavier Hutchinson": [
+    "Active",
+    "2026-11-15T14:05Z",
+    "2026-11-09T02:07Z"
    ]
   },
   "news": [
