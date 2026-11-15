@@ -565,10 +565,6 @@
     "Active",
     "2026-11-09T20:55Z"
    ],
-   "Emanuel Wilson": [
-    "Active",
-    "2026-11-11T02:28Z"
-   ],
    "Emari Demercado": [
     "Active",
     "2026-11-10T02:26Z"
@@ -837,10 +833,6 @@
     "Active",
     "2026-11-08T23:50Z"
    ],
-   "Joey Aguilar": [
-    "Active",
-    "2026-11-10T16:14Z"
-   ],
    "Joey Slye": [
     "Active",
     "2026-11-03T02:06Z"
@@ -896,10 +888,6 @@
    "Josh Jacobs": [
     "Out",
     "2026-11-15T16:34Z"
-   ],
-   "Josh Johnson": [
-    "Active",
-    "2026-11-10T00:34Z"
    ],
    "Josh Whyle": [
     "Injured Reserve",
@@ -1593,6 +1581,11 @@
     "2026-11-15T18:58Z",
     "2026-11-11T00:55Z"
    ],
+   "Emanuel Wilson": [
+    "Active",
+    "2026-11-15T19:45Z",
+    "2026-11-11T02:28Z"
+   ],
    "Garrett Nussmeier": [
     "Active",
     "2026-11-15T16:52Z",
@@ -1628,6 +1621,11 @@
     "2026-11-15T19:14Z",
     "2026-11-09T03:31Z"
    ],
+   "Joey Aguilar": [
+    "Active",
+    "2026-11-15T19:45Z",
+    "2026-11-10T16:14Z"
+   ],
    "Jonnu Smith": [
     "Active",
     "2026-11-15T18:49Z",
@@ -1637,6 +1635,11 @@
     "Active",
     "2026-11-15T18:28Z",
     "2026-11-10T05:17Z"
+   ],
+   "Josh Johnson": [
+    "Active",
+    "2026-11-15T19:45Z",
+    "2026-11-10T00:34Z"
    ],
    "Justin Joly": [
     "Active",
