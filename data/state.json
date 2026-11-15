@@ -137,10 +137,6 @@
     "Active",
     "2026-11-09T00:26Z"
    ],
-   "Brandin Cooks": [
-    "Active",
-    "2026-11-11T00:42Z"
-   ],
    "Brandon Aubrey": [
     "Active",
     "2026-11-09T05:53Z"
@@ -364,6 +360,10 @@
    "D'Andre Swift": [
     "Active",
     "2026-11-09T05:17Z"
+   ],
+   "DJ Giddens": [
+    "Active",
+    "2026-11-10T01:08Z"
    ],
    "DJ Uiagalelei": [
     "Active",
@@ -981,6 +981,10 @@
     "Active",
     "2026-11-11T02:20Z"
    ],
+   "Khalil Shakir": [
+    "Active",
+    "2026-11-10T05:22Z"
+   ],
    "Kimani Vidal": [
     "Active",
     "2026-11-11T00:29Z"
@@ -992,10 +996,6 @@
    "Konata Mumpfield": [
     "Active",
     "2026-11-13T21:52Z"
-   ],
-   "Kurtis Rourke": [
-    "Active",
-    "2026-11-09T21:33Z"
    ],
    "Kyle McCord": [
     "Active",
@@ -1115,7 +1115,7 @@
    ],
    "Mike Evans": [
     "Out",
-    "2026-11-15T18:01Z"
+    "2026-11-15T20:00Z"
    ],
    "Mike Gesicki": [
     "Active",
@@ -1530,6 +1530,11 @@
     "2026-11-15T13:11Z",
     "2026-11-09T21:28Z"
    ],
+   "Brandin Cooks": [
+    "Active",
+    "2026-11-15T20:06Z",
+    "2026-11-11T00:42Z"
+   ],
    "CJ Williams": [
     "Active",
     "2026-11-15T16:43Z",
@@ -1539,11 +1544,6 @@
     "Active",
     "2026-11-15T18:50Z",
     "2026-11-10T04:23Z"
-   ],
-   "DJ Giddens": [
-    "Active",
-    "2026-11-15T20:05Z",
-    "2026-11-10T01:08Z"
    ],
    "DJ Moore": [
     "Active",
@@ -1645,10 +1645,10 @@
     "2026-11-15T18:06Z",
     "2026-11-09T02:08Z"
    ],
-   "Khalil Shakir": [
+   "Kurtis Rourke": [
     "Active",
-    "2026-11-15T20:02Z",
-    "2026-11-10T05:22Z"
+    "2026-11-15T20:06Z",
+    "2026-11-09T21:33Z"
    ],
    "Kyle Williams": [
     "Active",
