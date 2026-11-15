@@ -409,6 +409,10 @@
     "Active",
     "2026-11-11T15:48Z"
    ],
+   "Dawson Knox": [
+    "Active",
+    "2026-11-11T00:26Z"
+   ],
    "DeMario Douglas": [
     "Active",
     "2026-11-15T19:36Z"
@@ -721,10 +725,6 @@
     "Active",
     "2026-11-09T21:26Z"
    ],
-   "James Cook III": [
-    "Active",
-    "2026-11-15T21:58Z"
-   ],
    "James Mitchell": [
     "Active",
     "2026-11-14T19:17Z"
@@ -832,10 +832,6 @@
    "Jordyn Tyson": [
     "Active",
     "2026-11-15T17:34Z"
-   ],
-   "Josh Allen": [
-    "Active",
-    "2026-11-15T22:00Z"
    ],
    "Josh Cameron": [
     "Active",
@@ -1245,6 +1241,10 @@
     "Active",
     "2026-11-15T19:28Z"
    ],
+   "Skyler Bell": [
+    "Active",
+    "2026-11-10T15:44Z"
+   ],
    "Skyy Moore": [
     "Questionable",
     "2026-11-15T19:54Z"
@@ -1536,11 +1536,6 @@
     "2026-11-15T20:45Z",
     "2026-11-09T03:11Z"
    ],
-   "Dawson Knox": [
-    "Active",
-    "2026-11-15T22:11Z",
-    "2026-11-11T00:26Z"
-   ],
    "Dylan Sampson": [
     "Active",
     "2026-11-15T18:27Z",
@@ -1601,6 +1596,11 @@
     "2026-11-15T22:04Z",
     "2026-11-05T00:05Z"
    ],
+   "James Cook III": [
+    "Active",
+    "2026-11-15T22:12Z",
+    "2026-11-15T21:58Z"
+   ],
    "Javonte Williams": [
     "Active",
     "2026-11-15T21:07Z",
@@ -1630,6 +1630,11 @@
     "Active",
     "2026-11-15T18:28Z",
     "2026-11-10T05:17Z"
+   ],
+   "Josh Allen": [
+    "Active",
+    "2026-11-15T22:12Z",
+    "2026-11-15T22:00Z"
    ],
    "Josh Johnson": [
     "Active",
@@ -1730,11 +1735,6 @@
     "Active",
     "2026-11-15T16:41Z",
     "2026-11-14T21:46Z"
-   ],
-   "Skyler Bell": [
-    "Active",
-    "2026-11-15T22:11Z",
-    "2026-11-10T15:44Z"
    ],
    "Taylen Green": [
     "Active",
