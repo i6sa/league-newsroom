@@ -9,10 +9,6 @@
     "Active",
     "2026-11-09T01:42Z"
    ],
-   "Aaron Jones Sr.": [
-    "Active",
-    "2026-11-10T05:28Z"
-   ],
    "Aaron Rodgers": [
     "Active",
     "2026-11-02T02:43Z"
@@ -1389,10 +1385,6 @@
     "Active",
     "2026-11-11T00:54Z"
    ],
-   "Ty Johnson": [
-    "Active",
-    "2026-11-10T05:31Z"
-   ],
    "Tyjae Spears": [
     "Active",
     "2026-11-15T16:33Z"
@@ -1503,6 +1495,11 @@
     "Active",
     "2026-11-15T16:51Z",
     "2026-11-09T20:56Z"
+   ],
+   "Aaron Jones Sr.": [
+    "Active",
+    "2026-11-15T20:56Z",
+    "2026-11-10T05:28Z"
    ],
    "Andy Dalton": [
     "Active",
@@ -1733,6 +1730,11 @@
     "Active",
     "2026-11-15T19:28Z",
     "2026-11-06T05:09Z"
+   ],
+   "Ty Johnson": [
+    "Active",
+    "2026-11-15T20:56Z",
+    "2026-11-10T05:31Z"
    ],
    "Ty Simpson": [
     "Active",
