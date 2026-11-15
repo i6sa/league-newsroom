@@ -381,10 +381,6 @@
     "Active",
     "2026-11-13T21:15Z"
    ],
-   "Dalton Schultz": [
-    "Active",
-    "2026-11-09T03:11Z"
-   ],
    "Dare Ogunbowale": [
     "Active",
     "2026-11-14T19:10Z"
@@ -1449,6 +1445,10 @@
     "Out",
     "2026-11-15T20:25Z"
    ],
+   "Xavier Hutchinson": [
+    "Questionable",
+    "2026-11-15T20:40Z"
+   ],
    "Xavier Legette": [
     "Active",
     "2026-11-15T17:04Z"
@@ -1543,6 +1543,11 @@
     "Active",
     "2026-11-15T16:50Z",
     "2026-11-10T04:59Z"
+   ],
+   "Dalton Schultz": [
+    "Active",
+    "2026-11-15T20:45Z",
+    "2026-11-09T03:11Z"
    ],
    "Dylan Sampson": [
     "Active",
@@ -1733,11 +1738,6 @@
     "Active",
     "2026-11-15T19:52Z",
     "2026-11-09T21:25Z"
-   ],
-   "Xavier Hutchinson": [
-    "Active",
-    "2026-11-15T14:05Z",
-    "2026-11-09T02:07Z"
    ],
    "Zach Wilson": [
     "Active",
