@@ -50,7 +50,7 @@
     "2026-11-06T17:39Z"
    ],
    "Amon-Ra St. Brown": [
-    "Questionable",
+    "Active",
     "2026-11-15T12:05Z"
    ],
    "Andre Szmyt": [
@@ -108,10 +108,6 @@
    "Beaux Collins": [
     "Active",
     "2026-11-08T13:09Z"
-   ],
-   "Behren Morton": [
-    "Active",
-    "2026-11-09T21:28Z"
    ],
    "Ben Sinnott": [
     "Active",
@@ -708,6 +704,10 @@
    "Isaiah Williams": [
     "Active",
     "2026-11-11T03:29Z"
+   ],
+   "Isiah Pacheco": [
+    "Injured Reserve",
+    "2026-10-30T17:09Z"
    ],
    "Israel Abanikanda": [
     "Active",
@@ -1667,10 +1667,10 @@
    ]
   },
   "injuries_gone": {
-   "Isiah Pacheco": [
-    "Injured Reserve",
-    "2026-11-15T13:08Z",
-    "2026-10-30T17:09Z"
+   "Behren Morton": [
+    "Active",
+    "2026-11-15T13:11Z",
+    "2026-11-09T21:28Z"
    ],
    "Nico Collins": [
     "Active",
