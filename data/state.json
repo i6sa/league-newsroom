@@ -474,8 +474,8 @@
     "2026-11-11T00:35Z"
    ],
    "Denzel Boston": [
-    "Questionable",
-    "2026-11-15T12:12Z"
+    "Active",
+    "2026-11-15T16:34Z"
    ],
    "Derrick Henry": [
     "Active",
@@ -720,10 +720,6 @@
    "Ja'Marr Chase": [
     "Active",
     "2026-11-08T19:11Z"
-   ],
-   "Ja'Tavion Sanders": [
-    "Active",
-    "2026-11-09T22:44Z"
    ],
    "Jack Bech": [
     "Active",
@@ -972,10 +968,6 @@
    "Juwan Johnson": [
     "Active",
     "2026-11-09T02:00Z"
-   ],
-   "KC Concepcion": [
-    "Active",
-    "2026-11-09T00:48Z"
    ],
    "Ka'imi Fairbairn": [
     "Active",
@@ -1647,6 +1639,11 @@
     "2026-11-15T13:17Z",
     "2026-10-30T17:09Z"
    ],
+   "Ja'Tavion Sanders": [
+    "Active",
+    "2026-11-15T16:42Z",
+    "2026-11-09T22:44Z"
+   ],
    "Jack Strand": [
     "Active",
     "2026-11-15T16:37Z",
@@ -1656,6 +1653,11 @@
     "Active",
     "2026-11-15T16:41Z",
     "2026-11-09T21:26Z"
+   ],
+   "KC Concepcion": [
+    "Active",
+    "2026-11-15T16:42Z",
+    "2026-11-09T00:48Z"
    ],
    "Max Brosmer": [
     "Active",
