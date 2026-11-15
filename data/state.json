@@ -877,10 +877,6 @@
     "Active",
     "2026-11-15T19:12Z"
    ],
-   "Ka'imi Fairbairn": [
-    "Active",
-    "2026-11-09T03:59Z"
-   ],
    "KaVontae Turpin": [
     "Active",
     "2026-11-14T00:48Z"
@@ -1109,6 +1105,10 @@
     "Active",
     "2026-11-10T20:38Z"
    ],
+   "Nico Collins": [
+    "Active",
+    "2026-11-15T22:17Z"
+   ],
    "Nikko Remigio": [
     "Active",
     "2026-11-13T22:17Z"
@@ -1280,10 +1280,6 @@
    "Tee Higgins": [
     "Active",
     "2026-11-08T19:15Z"
-   ],
-   "Terrance Ferguson": [
-    "Injured Reserve",
-    "2026-11-10T15:34Z"
    ],
    "Tetairoa McMillan": [
     "Active",
@@ -1646,6 +1642,11 @@
     "2026-11-15T17:24Z",
     "2026-11-09T02:00Z"
    ],
+   "Ka'imi Fairbairn": [
+    "Active",
+    "2026-11-15T22:23Z",
+    "2026-11-09T03:59Z"
+   ],
    "Kaleb Johnson": [
     "Active",
     "2026-11-15T16:49Z",
@@ -1740,6 +1741,11 @@
     "Active",
     "2026-11-15T16:41Z",
     "2026-11-09T20:59Z"
+   ],
+   "Terrance Ferguson": [
+    "Injured Reserve",
+    "2026-11-15T22:23Z",
+    "2026-11-10T15:34Z"
    ],
    "Tim Patrick": [
     "Active",
