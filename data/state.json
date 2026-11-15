@@ -109,6 +109,10 @@
     "Active",
     "2026-11-08T13:09Z"
    ],
+   "Behren Morton": [
+    "Active",
+    "2026-11-09T21:28Z"
+   ],
    "Ben Sinnott": [
     "Active",
     "2026-11-14T00:34Z"
@@ -704,10 +708,6 @@
    "Isaiah Williams": [
     "Active",
     "2026-11-11T03:29Z"
-   ],
-   "Isiah Pacheco": [
-    "Injured Reserve",
-    "2026-10-30T17:09Z"
    ],
    "Israel Abanikanda": [
     "Active",
@@ -1667,10 +1667,10 @@
    ]
   },
   "injuries_gone": {
-   "Behren Morton": [
-    "Active",
-    "2026-11-15T13:07Z",
-    "2026-11-09T21:28Z"
+   "Isiah Pacheco": [
+    "Injured Reserve",
+    "2026-11-15T13:08Z",
+    "2026-10-30T17:09Z"
    ],
    "Nico Collins": [
     "Active",
