@@ -3,7 +3,7 @@
   "injuries": {
    "A.J. Brown": [
     "Questionable",
-    "2026-11-15T13:06Z"
+    "2026-11-15T17:08Z"
    ],
    "AJ Barner": [
     "Active",
@@ -76,6 +76,10 @@
    "Ashton Jeanty": [
     "Active",
     "2026-11-09T02:04Z"
+   ],
+   "Audric Estime": [
+    "Active",
+    "2026-11-15T17:12Z"
    ],
    "Austin Ekeler": [
     "Active",
@@ -945,10 +949,6 @@
     "Active",
     "2026-11-11T17:13Z"
    ],
-   "Juwan Johnson": [
-    "Active",
-    "2026-11-09T02:00Z"
-   ],
    "Ka'imi Fairbairn": [
     "Active",
     "2026-11-09T03:59Z"
@@ -1523,7 +1523,7 @@
    ],
    "Xavier Legette": [
     "Active",
-    "2026-11-14T18:56Z"
+    "2026-11-15T17:04Z"
    ],
    "Xavier Restrepo": [
     "Active",
@@ -1630,6 +1630,11 @@
     "Active",
     "2026-11-15T16:41Z",
     "2026-11-09T21:26Z"
+   ],
+   "Juwan Johnson": [
+    "Active",
+    "2026-11-15T17:17Z",
+    "2026-11-09T02:00Z"
    ],
    "KC Concepcion": [
     "Active",
