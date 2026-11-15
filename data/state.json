@@ -353,10 +353,6 @@
     "Active",
     "2026-11-02T02:50Z"
    ],
-   "Dak Prescott": [
-    "Active",
-    "2026-11-08T22:51Z"
-   ],
    "Dallas Goedert": [
     "Active",
     "2026-11-09T00:28Z"
@@ -1522,6 +1518,11 @@
     "Active",
     "2026-11-15T16:50Z",
     "2026-11-10T04:59Z"
+   ],
+   "Dak Prescott": [
+    "Active",
+    "2026-11-15T22:38Z",
+    "2026-11-08T22:51Z"
    ],
    "Dalton Schultz": [
     "Active",
