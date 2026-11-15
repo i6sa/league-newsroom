@@ -310,7 +310,7 @@
     "2026-11-03T02:06Z"
    ],
    "Chris Brooks": [
-    "Active",
+    "Questionable",
     "2026-11-14T22:29Z"
    ],
    "Chris Godwin Jr.": [
@@ -616,10 +616,6 @@
    "Gardner Minshew II": [
     "Injured Reserve",
     "2026-11-15T12:49Z"
-   ],
-   "Garrett Nussmeier": [
-    "Active",
-    "2026-11-09T21:18Z"
    ],
    "Garrett Wilson": [
     "Active",
@@ -1429,10 +1425,6 @@
     "Active",
     "2026-11-06T17:05Z"
    ],
-   "Travis Kelce": [
-    "Active",
-    "2026-11-08T23:27Z"
-   ],
    "Tre Tucker": [
     "Active",
     "2026-11-09T02:53Z"
@@ -1609,6 +1601,11 @@
     "2026-11-15T15:14Z",
     "2026-11-09T03:43Z"
    ],
+   "Garrett Nussmeier": [
+    "Active",
+    "2026-11-15T16:52Z",
+    "2026-11-09T21:18Z"
+   ],
    "Haynes King": [
     "Active",
     "2026-11-15T16:51Z",
@@ -1693,6 +1690,11 @@
     "Active",
     "2026-11-15T16:47Z",
     "2026-11-09T21:31Z"
+   ],
+   "Travis Kelce": [
+    "Active",
+    "2026-11-15T16:52Z",
+    "2026-11-08T23:27Z"
    ],
    "Xavier Hutchinson": [
     "Active",
