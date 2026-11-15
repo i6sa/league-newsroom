@@ -353,10 +353,6 @@
     "Active",
     "2026-11-08T23:55Z"
    ],
-   "Cyrus Allen": [
-    "Active",
-    "2026-11-10T04:23Z"
-   ],
    "D'Andre Swift": [
     "Active",
     "2026-11-09T05:17Z"
@@ -1202,7 +1198,7 @@
     "2026-11-11T02:17Z"
    ],
    "Omar Cooper Jr.": [
-    "Active",
+    "Questionable",
     "2026-11-15T16:41Z"
    ],
    "Oronde Gadsden": [
@@ -1326,8 +1322,8 @@
     "2026-11-10T15:44Z"
    ],
    "Skyy Moore": [
-    "Active",
-    "2026-11-15T16:45Z"
+    "Questionable",
+    "2026-11-15T18:46Z"
    ],
    "Stefon Diggs": [
     "Active",
@@ -1584,6 +1580,11 @@
     "Active",
     "2026-11-15T17:25Z",
     "2026-11-09T03:54Z"
+   ],
+   "Cyrus Allen": [
+    "Active",
+    "2026-11-15T18:50Z",
+    "2026-11-10T04:23Z"
    ],
    "DJ Moore": [
     "Active",
