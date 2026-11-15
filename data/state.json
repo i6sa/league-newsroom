@@ -349,10 +349,6 @@
     "Active",
     "2026-11-11T01:25Z"
    ],
-   "Corey Kiner": [
-    "Active",
-    "2026-11-15T18:47Z"
-   ],
    "Courtland Sutton": [
     "Active",
     "2026-11-08T23:55Z"
@@ -540,6 +536,10 @@
    "Eli Heidenreich": [
     "Active",
     "2026-11-02T19:20Z"
+   ],
+   "Eli Raridon": [
+    "Active",
+    "2026-11-11T00:55Z"
    ],
    "Eli Stowers": [
     "Active",
@@ -779,7 +779,7 @@
    ],
    "Jared Wiley": [
     "Questionable",
-    "2026-11-15T18:30Z"
+    "2026-11-15T18:47Z"
    ],
    "Jason Myers": [
     "Active",
@@ -1195,7 +1195,7 @@
    ],
    "Omar Cooper Jr.": [
     "Questionable",
-    "2026-11-15T16:41Z"
+    "2026-11-15T18:46Z"
    ],
    "Oronde Gadsden": [
     "Active",
@@ -1572,6 +1572,11 @@
     "2026-11-15T16:43Z",
     "2026-11-09T21:16Z"
    ],
+   "Corey Kiner": [
+    "Active",
+    "2026-11-15T18:53Z",
+    "2026-11-15T18:47Z"
+   ],
    "Cyrus Allen": [
     "Active",
     "2026-11-15T18:50Z",
@@ -1591,11 +1596,6 @@
     "Active",
     "2026-11-15T18:27Z",
     "2026-11-09T03:11Z"
-   ],
-   "Eli Raridon": [
-    "Active",
-    "2026-11-15T18:51Z",
-    "2026-11-11T00:55Z"
    ],
    "Garrett Nussmeier": [
     "Active",
