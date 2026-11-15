@@ -269,10 +269,6 @@
     "Active",
     "2026-11-09T00:04Z"
    ],
-   "CeeDee Lamb": [
-    "Active",
-    "2026-11-08T22:30Z"
-   ],
    "Chad Ryland": [
     "Active",
     "2026-11-10T03:11Z"
@@ -723,7 +719,7 @@
    ],
    "Jake Ferguson": [
     "Out",
-    "2026-11-10T01:39Z"
+    "2026-11-15T20:04Z"
    ],
    "Jakobi Meyers": [
     "Active",
@@ -847,7 +843,7 @@
    ],
    "Jonathan Mingo": [
     "Out",
-    "2026-11-14T00:51Z"
+    "2026-11-15T20:04Z"
    ],
    "Jonathan Taylor": [
     "Active",
@@ -980,10 +976,6 @@
    "Khalil Herbert": [
     "Active",
     "2026-11-11T02:20Z"
-   ],
-   "Khalil Shakir": [
-    "Active",
-    "2026-11-10T05:22Z"
    ],
    "Kimani Vidal": [
     "Active",
@@ -1540,6 +1532,11 @@
     "2026-11-15T16:43Z",
     "2026-11-09T21:16Z"
    ],
+   "CeeDee Lamb": [
+    "Active",
+    "2026-11-15T20:07Z",
+    "2026-11-08T22:30Z"
+   ],
    "Cyrus Allen": [
     "Active",
     "2026-11-15T18:50Z",
@@ -1644,6 +1641,11 @@
     "Active",
     "2026-11-15T18:06Z",
     "2026-11-09T02:08Z"
+   ],
+   "Khalil Shakir": [
+    "Active",
+    "2026-11-15T20:07Z",
+    "2026-11-10T05:22Z"
    ],
    "Kurtis Rourke": [
     "Active",
