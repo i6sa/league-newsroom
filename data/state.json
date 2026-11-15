@@ -3,7 +3,7 @@
   "injuries": {
    "A.J. Brown": [
     "Active",
-    "2026-11-15T11:10Z"
+    "2026-11-15T13:06Z"
    ],
    "AJ Barner": [
     "Active",
@@ -536,10 +536,6 @@
    "Drake London": [
     "Active",
     "2026-11-08T19:35Z"
-   ],
-   "Drake Maye": [
-    "Active",
-    "2026-11-09T03:16Z"
    ],
    "Drew Allar": [
     "Active",
@@ -1339,7 +1335,7 @@
    ],
    "Rhamondre Stevenson": [
     "Active",
-    "2026-11-15T11:14Z"
+    "2026-11-15T13:03Z"
    ],
    "Rico Dowdle": [
     "Active",
@@ -1484,6 +1480,10 @@
    "Tim Patrick": [
     "Active",
     "2026-11-09T21:31Z"
+   ],
+   "Tommy DeVito": [
+    "Active",
+    "2026-11-15T13:12Z"
    ],
    "Tommy Tremble": [
     "Active",
@@ -1667,6 +1667,11 @@
     "Active",
     "2026-11-15T13:11Z",
     "2026-11-09T21:28Z"
+   ],
+   "Drake Maye": [
+    "Active",
+    "2026-11-15T13:19Z",
+    "2026-11-09T03:16Z"
    ],
    "Isiah Pacheco": [
     "Injured Reserve",
