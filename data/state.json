@@ -85,6 +85,10 @@
     "Active",
     "2026-11-13T05:24Z"
    ],
+   "Austin Hooper": [
+    "Active",
+    "2026-11-16T18:51Z"
+   ],
    "Baker Mayfield": [
     "Questionable",
     "2026-11-15T16:19Z"
@@ -164,10 +168,6 @@
    "Brevin Jordan": [
     "Out",
     "2026-11-15T16:37Z"
-   ],
-   "Brian Robinson Jr.": [
-    "Injured Reserve",
-    "2026-11-07T21:13Z"
    ],
    "Brian Thomas Jr.": [
     "Active",
@@ -1137,10 +1137,6 @@
     "Active",
     "2026-11-11T02:50Z"
    ],
-   "Mitchell Tinsley": [
-    "Active",
-    "2026-11-02T18:48Z"
-   ],
    "Mo Alie-Cox": [
     "Injured Reserve",
     "2026-11-14T17:24Z"
@@ -1323,6 +1319,10 @@
    ],
    "T.J. Hockenson": [
     "Out",
+    "2026-11-16T18:46Z"
+   ],
+   "Tahj Brooks": [
+    "Active",
     "2026-11-16T18:46Z"
    ],
    "Tai Felton": [
@@ -1544,6 +1544,11 @@
     "2026-11-16T17:05Z",
     "2026-11-06T17:39Z"
    ],
+   "Brian Robinson Jr.": [
+    "Injured Reserve",
+    "2026-11-16T19:00Z",
+    "2026-11-07T21:13Z"
+   ],
    "Jaylen Wright": [
     "Active",
     "2026-11-16T17:41Z",
@@ -1553,6 +1558,11 @@
     "Active",
     "2026-11-16T15:41Z",
     "2026-11-11T01:23Z"
+   ],
+   "Mitchell Tinsley": [
+    "Active",
+    "2026-11-16T19:00Z",
+    "2026-11-02T18:48Z"
    ],
    "Savion Williams": [
     "Active",
