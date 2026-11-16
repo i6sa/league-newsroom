@@ -177,10 +177,6 @@
     "Active",
     "2026-11-16T03:50Z"
    ],
-   "Bryce Lance": [
-    "Active",
-    "2026-11-11T00:46Z"
-   ],
    "Bryce Young": [
     "Active",
     "2026-11-16T03:00Z"
@@ -711,7 +707,7 @@
    ],
    "Jalen Coker": [
     "Active",
-    "2026-11-09T02:50Z"
+    "2026-11-16T04:22Z"
    ],
    "Jalen McMillan": [
     "Injured Reserve",
@@ -889,6 +885,10 @@
     "Active",
     "2026-11-16T00:09Z"
    ],
+   "Juwan Johnson": [
+    "Active",
+    "2026-11-16T04:32Z"
+   ],
    "KC Concepcion": [
     "Active",
     "2026-11-16T01:18Z"
@@ -927,7 +927,7 @@
    ],
    "Keenan Allen": [
     "Active",
-    "2026-11-13T22:06Z"
+    "2026-11-16T04:28Z"
    ],
    "Keleki Latu": [
     "Active",
@@ -1514,11 +1514,6 @@
     "2026-11-16T02:13Z",
     "2026-11-09T05:08Z"
    ],
-   "Andy Dalton": [
-    "Active",
-    "2026-11-15T16:37Z",
-    "2026-11-09T20:54Z"
-   ],
    "Anthony Gould": [
     "Active",
     "2026-11-16T02:36Z",
@@ -1543,6 +1538,11 @@
     "Active",
     "2026-11-16T04:09Z",
     "2026-11-10T01:01Z"
+   ],
+   "Bryce Lance": [
+    "Active",
+    "2026-11-16T04:37Z",
+    "2026-11-11T00:46Z"
    ],
    "CJ Williams": [
     "Active",
@@ -1654,11 +1654,6 @@
     "2026-11-15T16:42Z",
     "2026-11-09T22:44Z"
    ],
-   "Jack Strand": [
-    "Active",
-    "2026-11-15T16:37Z",
-    "2026-11-09T20:54Z"
-   ],
    "Jackson Hawes": [
     "Active",
     "2026-11-16T01:21Z",
@@ -1708,11 +1703,6 @@
     "Active",
     "2026-11-15T16:41Z",
     "2026-11-09T21:26Z"
-   ],
-   "Juwan Johnson": [
-    "Active",
-    "2026-11-15T17:24Z",
-    "2026-11-09T02:00Z"
    ],
    "Ka'imi Fairbairn": [
     "Active",
@@ -1764,20 +1754,10 @@
     "2026-11-15T19:58Z",
     "2026-11-09T21:19Z"
    ],
-   "Max Brosmer": [
-    "Active",
-    "2026-11-15T16:37Z",
-    "2026-11-10T22:36Z"
-   ],
    "Michael Wilson": [
     "Injured Reserve",
     "2026-11-16T01:47Z",
     "2026-11-10T22:53Z"
-   ],
-   "Nicholas Singleton": [
-    "Active",
-    "2026-11-15T16:37Z",
-    "2026-11-09T15:21Z"
    ],
    "Nick Westbrook-Ikhine": [
     "Active",
