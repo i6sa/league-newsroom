@@ -49,6 +49,10 @@
     "Injured Reserve",
     "2026-11-14T20:08Z"
    ],
+   "Andrew Armstrong": [
+    "Active",
+    "2026-11-16T03:36Z"
+   ],
    "Andy Borregales": [
     "Active",
     "2026-11-15T19:38Z"
@@ -307,7 +311,7 @@
    ],
    "Chris Rodriguez Jr.": [
     "Active",
-    "2026-11-13T21:53Z"
+    "2026-11-16T03:46Z"
    ],
    "Christian McCaffrey": [
     "Active",
@@ -868,10 +872,6 @@
    "Justice Hill": [
     "Active",
     "2026-11-06T05:39Z"
-   ],
-   "Justin Fields": [
-    "Active",
-    "2026-11-11T15:55Z"
    ],
    "Justin Herbert": [
     "Active",
@@ -1690,6 +1690,11 @@
     "Active",
     "2026-11-15T19:45Z",
     "2026-11-10T00:34Z"
+   ],
+   "Justin Fields": [
+    "Active",
+    "2026-11-16T03:50Z",
+    "2026-11-11T15:55Z"
    ],
    "Justin Joly": [
     "Active",
