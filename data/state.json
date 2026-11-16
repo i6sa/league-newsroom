@@ -525,10 +525,6 @@
     "Injured Reserve",
     "2026-11-07T23:15Z"
    ],
-   "Eddy Pineiro": [
-    "Active",
-    "2026-11-10T02:50Z"
-   ],
    "Eli Stowers": [
     "Active",
     "2026-11-10T02:43Z"
@@ -604,6 +600,10 @@
    "George Holani": [
     "Questionable",
     "2026-11-15T22:58Z"
+   ],
+   "George Kittle": [
+    "Active",
+    "2026-11-16T04:20Z"
    ],
    "George Pickens": [
     "Active",
@@ -1607,6 +1607,11 @@
     "Active",
     "2026-11-15T18:27Z",
     "2026-11-09T03:11Z"
+   ],
+   "Eddy Pineiro": [
+    "Active",
+    "2026-11-16T04:25Z",
+    "2026-11-10T02:50Z"
    ],
    "Eli Heidenreich": [
     "Active",
