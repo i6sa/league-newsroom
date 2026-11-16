@@ -933,10 +933,6 @@
     "Active",
     "2026-11-16T04:28Z"
    ],
-   "Keleki Latu": [
-    "Active",
-    "2026-11-11T02:14Z"
-   ],
    "Kenneth Walker III": [
     "Out",
     "2026-11-15T16:46Z"
@@ -1201,6 +1197,10 @@
     "Active",
     "2026-11-13T23:22Z"
    ],
+   "Ray Davis": [
+    "Active",
+    "2026-11-16T05:01Z"
+   ],
    "Reggie Virgil": [
     "Active",
     "2026-11-13T22:18Z"
@@ -1311,7 +1311,7 @@
    ],
    "Tee Higgins": [
     "Active",
-    "2026-11-08T19:15Z"
+    "2026-11-16T04:54Z"
    ],
    "Tetairoa McMillan": [
     "Active",
@@ -1391,7 +1391,7 @@
    ],
    "Tyjae Spears": [
     "Active",
-    "2026-11-15T16:33Z"
+    "2026-11-16T05:04Z"
    ],
    "Tyler Allgeier": [
     "Active",
@@ -1683,6 +1683,11 @@
     "Active",
     "2026-11-16T02:24Z",
     "2026-11-10T03:56Z"
+   ],
+   "Keleki Latu": [
+    "Active",
+    "2026-11-16T05:12Z",
+    "2026-11-11T02:14Z"
    ],
    "Kenyon Sadiq": [
     "Active",
