@@ -517,10 +517,6 @@
     "Injured Reserve",
     "2026-11-07T23:15Z"
    ],
-   "Dylan Sampson": [
-    "Active",
-    "2026-11-16T04:43Z"
-   ],
    "Eli Stowers": [
     "Active",
     "2026-11-10T02:43Z"
@@ -1269,6 +1265,10 @@
     "Active",
     "2026-11-16T02:23Z"
    ],
+   "Shedeur Sanders": [
+    "Active",
+    "2026-11-11T14:44Z"
+   ],
    "Simi Fehoko": [
     "Active",
     "2026-11-13T22:20Z"
@@ -1594,6 +1594,11 @@
     "2026-11-16T00:16Z",
     "2026-11-02T19:20Z"
    ],
+   "Dylan Sampson": [
+    "Active",
+    "2026-11-16T05:00Z",
+    "2026-11-16T04:43Z"
+   ],
    "Eddy Pineiro": [
     "Active",
     "2026-11-16T04:35Z",
@@ -1733,11 +1738,6 @@
     "Active",
     "2026-11-15T22:47Z",
     "2026-11-10T05:57Z"
-   ],
-   "Shedeur Sanders": [
-    "Active",
-    "2026-11-16T04:59Z",
-    "2026-11-11T14:44Z"
    ],
    "Skyler Bell": [
     "Active",
