@@ -5,6 +5,10 @@
     "Questionable",
     "2026-11-16T01:11Z"
    ],
+   "AJ Barner": [
+    "Active",
+    "2026-11-09T01:42Z"
+   ],
    "Aaron Jones Sr.": [
     "Active",
     "2026-11-16T00:29Z"
@@ -741,10 +745,6 @@
     "Out",
     "2026-11-15T16:32Z"
    ],
-   "Jaxon Smith-Njigba": [
-    "Active",
-    "2026-11-16T01:31Z"
-   ],
    "Jayden Daniels": [
     "Active",
     "2026-11-13T04:56Z"
@@ -1467,11 +1467,6 @@
    ]
   },
   "injuries_gone": {
-   "AJ Barner": [
-    "Active",
-    "2026-11-16T01:41Z",
-    "2026-11-09T01:42Z"
-   ],
    "AJ Dillon": [
     "Active",
     "2026-11-15T16:51Z",
@@ -1626,6 +1621,11 @@
     "Active",
     "2026-11-15T21:07Z",
     "2026-11-08T22:38Z"
+   ],
+   "Jaxon Smith-Njigba": [
+    "Active",
+    "2026-11-16T01:44Z",
+    "2026-11-16T01:31Z"
    ],
    "Jerry Jeudy": [
     "Active",
