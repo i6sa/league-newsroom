@@ -5,10 +5,6 @@
     "Questionable",
     "2026-11-16T01:11Z"
    ],
-   "AJ Barner": [
-    "Active",
-    "2026-11-09T01:42Z"
-   ],
    "Aaron Jones Sr.": [
     "Active",
     "2026-11-16T00:29Z"
@@ -745,6 +741,10 @@
     "Out",
     "2026-11-15T16:32Z"
    ],
+   "Jaxon Smith-Njigba": [
+    "Active",
+    "2026-11-16T01:31Z"
+   ],
    "Jayden Daniels": [
     "Active",
     "2026-11-13T04:56Z"
@@ -1065,10 +1065,6 @@
     "Injured Reserve",
     "2026-11-12T18:08Z"
    ],
-   "Michael Wilson": [
-    "Injured Reserve",
-    "2026-11-10T22:53Z"
-   ],
    "Mike Evans": [
     "Out",
     "2026-11-15T20:00Z"
@@ -1349,6 +1345,10 @@
     "Active",
     "2026-11-16T01:25Z"
    ],
+   "Trey McBride": [
+    "Active",
+    "2026-11-16T01:41Z"
+   ],
    "Treylon Burks": [
     "Active",
     "2026-11-14T00:25Z"
@@ -1467,6 +1467,11 @@
    ]
   },
   "injuries_gone": {
+   "AJ Barner": [
+    "Active",
+    "2026-11-16T01:47Z",
+    "2026-11-09T01:42Z"
+   ],
    "AJ Dillon": [
     "Active",
     "2026-11-15T16:51Z",
@@ -1622,11 +1627,6 @@
     "2026-11-15T21:07Z",
     "2026-11-08T22:38Z"
    ],
-   "Jaxon Smith-Njigba": [
-    "Active",
-    "2026-11-16T01:46Z",
-    "2026-11-16T01:31Z"
-   ],
    "Jerry Jeudy": [
     "Active",
     "2026-11-15T19:14Z",
@@ -1706,6 +1706,11 @@
     "Active",
     "2026-11-15T16:37Z",
     "2026-11-10T22:36Z"
+   ],
+   "Michael Wilson": [
+    "Injured Reserve",
+    "2026-11-16T01:47Z",
+    "2026-11-10T22:53Z"
    ],
    "Nicholas Singleton": [
     "Active",
