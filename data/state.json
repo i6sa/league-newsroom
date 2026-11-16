@@ -221,13 +221,13 @@
     "Active",
     "2026-11-09T05:17Z"
    ],
-   "Calvin Ridley": [
-    "Active",
-    "2026-11-09T14:43Z"
-   ],
    "Cam Skattebo": [
     "Active",
     "2026-11-13T04:38Z"
+   ],
+   "Cam Ward": [
+    "Active",
+    "2026-11-16T02:09Z"
    ],
    "Cameron Dicker": [
     "Active",
@@ -517,6 +517,10 @@
     "Active",
     "2026-11-10T02:43Z"
    ],
+   "Elic Ayomanor": [
+    "Active",
+    "2026-11-16T02:17Z"
+   ],
    "Elijah Higgins": [
     "Active",
     "2026-11-13T17:59Z"
@@ -789,10 +793,6 @@
     "Active",
     "2026-11-08T23:50Z"
    ],
-   "Joey Slye": [
-    "Active",
-    "2026-11-03T02:06Z"
-   ],
    "John Metchie III": [
     "Active",
     "2026-11-11T02:51Z"
@@ -900,10 +900,6 @@
    "Kameron Johnson": [
     "Active",
     "2026-11-11T15:26Z"
-   ],
-   "Kaytron Allen": [
-    "Active",
-    "2026-11-10T03:56Z"
    ],
    "KeAndre Lambert-Smith": [
     "Active",
@@ -1017,6 +1013,10 @@
     "Active",
     "2026-11-13T04:48Z"
    ],
+   "Malik Washington": [
+    "Active",
+    "2026-11-16T02:11Z"
+   ],
    "Malik Willis": [
     "Injured Reserve",
     "2026-11-12T00:14Z"
@@ -1095,7 +1095,7 @@
    ],
    "Myles Price": [
     "Active",
-    "2026-11-11T03:49Z"
+    "2026-11-16T02:11Z"
    ],
    "Nate Boerkircher": [
     "Active",
@@ -1315,7 +1315,7 @@
    ],
    "Tony Pollard": [
     "Active",
-    "2026-11-13T20:45Z"
+    "2026-11-16T02:13Z"
    ],
    "Tory Horton": [
     "Active",
@@ -1511,6 +1511,11 @@
     "2026-11-15T16:43Z",
     "2026-11-09T21:16Z"
    ],
+   "Calvin Ridley": [
+    "Active",
+    "2026-11-16T02:24Z",
+    "2026-11-09T14:43Z"
+   ],
    "Cam Little": [
     "Active",
     "2026-11-16T01:34Z",
@@ -1576,11 +1581,6 @@
     "2026-11-15T18:58Z",
     "2026-11-11T00:55Z"
    ],
-   "Elic Ayomanor": [
-    "Active",
-    "2026-11-15T21:08Z",
-    "2026-11-03T01:46Z"
-   ],
    "Emanuel Wilson": [
     "Active",
     "2026-11-15T19:51Z",
@@ -1641,6 +1641,11 @@
     "2026-11-15T19:45Z",
     "2026-11-10T16:14Z"
    ],
+   "Joey Slye": [
+    "Active",
+    "2026-11-16T02:24Z",
+    "2026-11-03T02:06Z"
+   ],
    "Jonnu Smith": [
     "Active",
     "2026-11-15T18:49Z",
@@ -1670,6 +1675,11 @@
     "Active",
     "2026-11-15T18:06Z",
     "2026-11-09T02:08Z"
+   ],
+   "Kaytron Allen": [
+    "Active",
+    "2026-11-16T02:24Z",
+    "2026-11-10T03:56Z"
    ],
    "Kenyon Sadiq": [
     "Active",
@@ -1705,11 +1715,6 @@
     "Active",
     "2026-11-15T19:58Z",
     "2026-11-09T21:19Z"
-   ],
-   "Malik Washington": [
-    "Active",
-    "2026-11-15T16:51Z",
-    "2026-11-09T03:29Z"
    ],
    "Max Brosmer": [
     "Active",
