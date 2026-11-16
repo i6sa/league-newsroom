@@ -109,10 +109,6 @@
     "Active",
     "2026-11-15T22:00Z"
    ],
-   "Blake Corum": [
-    "Active",
-    "2026-11-16T02:33Z"
-   ],
    "Bo Melton": [
     "Questionable",
     "2026-11-15T19:56Z"
@@ -559,7 +555,7 @@
    ],
    "Fernando Mendoza": [
     "Active",
-    "2026-11-10T19:57Z"
+    "2026-11-16T02:35Z"
    ],
    "Foster Moreau": [
     "Active",
@@ -708,10 +704,6 @@
    "Jalen Royals": [
     "Active",
     "2026-11-11T03:01Z"
-   ],
-   "Jalen Tolbert": [
-    "Active",
-    "2026-11-16T02:35Z"
    ],
    "James Cook III": [
     "Active",
@@ -1437,6 +1429,10 @@
     "Active",
     "2026-11-14T21:57Z"
    ],
+   "Xavier Smith": [
+    "Active",
+    "2026-11-11T00:32Z"
+   ],
    "Xavier Worthy": [
     "Active",
     "2026-11-16T00:50Z"
@@ -1499,6 +1495,11 @@
     "Active",
     "2026-11-16T02:36Z",
     "2026-11-11T16:52Z"
+   ],
+   "Blake Corum": [
+    "Active",
+    "2026-11-16T02:47Z",
+    "2026-11-16T02:33Z"
    ],
    "Brandin Cooks": [
     "Active",
@@ -1639,6 +1640,11 @@
     "Active",
     "2026-11-15T22:04Z",
     "2026-11-05T00:05Z"
+   ],
+   "Jalen Tolbert": [
+    "Active",
+    "2026-11-16T02:47Z",
+    "2026-11-16T02:35Z"
    ],
    "Javonte Williams": [
     "Active",
@@ -1819,11 +1825,6 @@
     "Active",
     "2026-11-16T00:14Z",
     "2026-11-02T19:20Z"
-   ],
-   "Xavier Smith": [
-    "Active",
-    "2026-11-16T02:46Z",
-    "2026-11-11T00:32Z"
    ],
    "Zach Wilson": [
     "Active",
