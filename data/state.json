@@ -5,6 +5,10 @@
     "Questionable",
     "2026-11-16T01:11Z"
    ],
+   "AJ Barner": [
+    "Active",
+    "2026-11-16T05:29Z"
+   ],
    "Aaron Jones Sr.": [
     "Active",
     "2026-11-16T00:29Z"
@@ -761,10 +765,6 @@
     "Out",
     "2026-11-15T21:50Z"
    ],
-   "Jason Myers": [
-    "Active",
-    "2026-11-10T02:59Z"
-   ],
    "Jason Sanders": [
     "Active",
     "2026-11-09T04:48Z"
@@ -1507,11 +1507,6 @@
    ]
   },
   "injuries_gone": {
-   "AJ Barner": [
-    "Active",
-    "2026-11-16T01:47Z",
-    "2026-11-09T01:42Z"
-   ],
    "Andre Szmyt": [
     "Active",
     "2026-11-16T02:13Z",
@@ -1641,6 +1636,11 @@
     "Active",
     "2026-11-16T02:50Z",
     "2026-11-11T03:01Z"
+   ],
+   "Jason Myers": [
+    "Active",
+    "2026-11-16T05:44Z",
+    "2026-11-10T02:59Z"
    ],
    "Joey Aguilar": [
     "Active",
