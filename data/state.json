@@ -37,10 +37,6 @@
     "Active",
     "2026-11-11T19:12Z"
    ],
-   "Alec Pierce": [
-    "Injured Reserve",
-    "2026-11-11T17:38Z"
-   ],
    "Alvin Kamara": [
     "Active",
     "2026-11-16T01:43Z"
@@ -381,6 +377,10 @@
     "Active",
     "2026-11-09T05:17Z"
    ],
+   "DJ Giddens": [
+    "Active",
+    "2026-11-17T01:49Z"
+   ],
    "DJ Moore": [
     "Active",
     "2026-11-16T00:30Z"
@@ -528,10 +528,6 @@
    "Dontayvion Wicks": [
     "Out",
     "2026-11-09T21:32Z"
-   ],
-   "Drake Dabney": [
-    "Active",
-    "2026-11-14T22:39Z"
    ],
    "Drake London": [
     "Active",
@@ -1615,6 +1611,11 @@
    ]
   },
   "injuries_gone": {
+   "Alec Pierce": [
+    "Injured Reserve",
+    "2026-11-17T01:57Z",
+    "2026-11-11T17:38Z"
+   ],
    "Ameer Abdullah": [
     "Active",
     "2026-11-16T17:05Z",
@@ -1644,6 +1645,11 @@
     "Active",
     "2026-11-16T23:55Z",
     "2026-11-09T03:04Z"
+   ],
+   "Drake Dabney": [
+    "Active",
+    "2026-11-17T01:57Z",
+    "2026-11-14T22:39Z"
    ],
    "Dyami Brown": [
     "Injured Reserve",
