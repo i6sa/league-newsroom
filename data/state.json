@@ -285,6 +285,10 @@
     "Active",
     "2026-11-16T04:01Z"
    ],
+   "Chad Ryland": [
+    "Active",
+    "2026-11-17T03:45Z"
+   ],
    "Charlie Kolar": [
     "Active",
     "2026-11-11T00:08Z"
@@ -505,10 +509,6 @@
     "Active",
     "2026-11-17T02:13Z"
    ],
-   "Devin Duvernay": [
-    "Active",
-    "2026-11-11T00:27Z"
-   ],
    "Devin Singletary": [
     "Active",
     "2026-11-13T20:40Z"
@@ -628,10 +628,6 @@
    "Fernando Mendoza": [
     "Active",
     "2026-11-16T02:35Z"
-   ],
-   "Foster Moreau": [
-    "Active",
-    "2026-11-11T04:28Z"
    ],
    "Gardner Minshew II": [
     "Injured Reserve",
@@ -981,6 +977,10 @@
     "Active",
     "2026-11-16T01:18Z"
    ],
+   "Ka'imi Fairbairn": [
+    "Active",
+    "2026-11-17T03:47Z"
+   ],
    "KaVontae Turpin": [
     "Active",
     "2026-11-14T00:48Z"
@@ -1151,7 +1151,7 @@
    ],
    "Matt Gay": [
     "Active",
-    "2026-11-10T02:59Z"
+    "2026-11-17T03:42Z"
    ],
    "Matt Hibner": [
     "Active",
@@ -1674,6 +1674,11 @@
     "2026-11-17T02:36Z",
     "2026-11-15T00:20Z"
    ],
+   "Devin Duvernay": [
+    "Active",
+    "2026-11-17T03:53Z",
+    "2026-11-11T00:27Z"
+   ],
    "Drake Dabney": [
     "Active",
     "2026-11-17T01:57Z",
@@ -1688,6 +1693,11 @@
     "Active",
     "2026-11-16T23:57Z",
     "2026-11-09T20:55Z"
+   ],
+   "Foster Moreau": [
+    "Active",
+    "2026-11-17T03:53Z",
+    "2026-11-11T04:28Z"
    ],
    "Jacob De Jesus": [
     "Active",
