@@ -253,10 +253,6 @@
     "Questionable",
     "2026-11-16T14:23Z"
    ],
-   "Carsen Ryan": [
-    "Active",
-    "2026-11-14T17:57Z"
-   ],
    "Carson Beck": [
     "Active",
     "2026-11-16T02:46Z"
@@ -1663,6 +1659,11 @@
    ]
   },
   "injuries_gone": {
+   "Carsen Ryan": [
+    "Active",
+    "2026-11-17T21:41Z",
+    "2026-11-14T17:57Z"
+   ],
    "Evan Hull": [
     "Active",
     "2026-11-17T15:57Z",
