@@ -501,10 +501,6 @@
     "Active",
     "2026-11-13T20:40Z"
    ],
-   "Devontez Walker": [
-    "Active",
-    "2026-11-06T18:44Z"
-   ],
    "Dillon Gabriel": [
     "Active",
     "2026-11-16T19:07Z"
@@ -747,7 +743,7 @@
    ],
    "Jacoby Brissett": [
     "Active",
-    "2026-11-09T20:30Z"
+    "2026-11-17T05:14Z"
    ],
    "Jacory Croskey-Merritt": [
     "Injured Reserve",
@@ -1652,6 +1648,10 @@
    "Zavion Thomas": [
     "Active",
     "2026-11-11T02:33Z"
+   ],
+   "Zay Flowers": [
+    "Active",
+    "2026-11-17T05:20Z"
    ]
   },
   "injuries_gone": {
@@ -1729,6 +1729,11 @@
     "Active",
     "2026-11-17T03:53Z",
     "2026-11-11T00:27Z"
+   ],
+   "Devontez Walker": [
+    "Active",
+    "2026-11-17T05:34Z",
+    "2026-11-06T18:44Z"
    ],
    "Drake Dabney": [
     "Active",
@@ -1844,11 +1849,6 @@
     "Active",
     "2026-11-17T01:34Z",
     "2026-11-14T17:58Z"
-   ],
-   "Zay Flowers": [
-    "Active",
-    "2026-11-16T23:00Z",
-    "2026-11-06T05:03Z"
    ],
    "Zay Jones": [
     "Active",
