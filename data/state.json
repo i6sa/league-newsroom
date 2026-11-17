@@ -101,10 +101,6 @@
     "Active",
     "2026-11-13T18:03Z"
    ],
-   "Beaux Collins": [
-    "Active",
-    "2026-11-08T13:09Z"
-   ],
    "Behren Morton": [
     "Active",
     "2026-11-16T19:30Z"
@@ -619,7 +615,7 @@
    ],
    "Evan McPherson": [
     "Active",
-    "2026-11-09T04:59Z"
+    "2026-11-17T03:50Z"
    ],
    "Fernando Mendoza": [
     "Active",
@@ -776,6 +772,10 @@
    "Jake Ferguson": [
     "Out",
     "2026-11-16T19:09Z"
+   ],
+   "Jake Moody": [
+    "Active",
+    "2026-11-17T03:56Z"
    ],
    "Jakobi Meyers": [
     "Active",
@@ -1643,6 +1643,11 @@
     "Active",
     "2026-11-16T21:37Z",
     "2026-11-04T19:17Z"
+   ],
+   "Beaux Collins": [
+    "Active",
+    "2026-11-17T04:03Z",
+    "2026-11-08T13:09Z"
    ],
    "Brady Cook": [
     "Active",
