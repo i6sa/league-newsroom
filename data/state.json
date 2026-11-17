@@ -673,6 +673,10 @@
     "Active",
     "2026-11-15T23:44Z"
    ],
+   "Harrison Butker": [
+    "Active",
+    "2026-11-11T18:17Z"
+   ],
    "Haynes King": [
     "Active",
     "2026-11-16T18:55Z"
@@ -732,10 +736,6 @@
    "Jack Strand": [
     "Active",
     "2026-11-16T17:37Z"
-   ],
-   "Jacob De Jesus": [
-    "Active",
-    "2026-11-14T17:30Z"
    ],
    "Jacob Saylors": [
     "Active",
@@ -944,6 +944,10 @@
    "Justice Hill": [
     "Active",
     "2026-11-06T05:39Z"
+   ],
+   "Justin Fields": [
+    "Active",
+    "2026-11-11T15:55Z"
    ],
    "Justin Herbert": [
     "Active",
@@ -1192,10 +1196,6 @@
    "Myles Price": [
     "Active",
     "2026-11-17T01:10Z"
-   ],
-   "Nate Carter": [
-    "Active",
-    "2026-11-14T17:28Z"
    ],
    "Nicholas Singleton": [
     "Active",
@@ -1665,10 +1665,10 @@
     "2026-11-16T23:57Z",
     "2026-11-09T20:55Z"
    ],
-   "Harrison Butker": [
+   "Jacob De Jesus": [
     "Active",
-    "2026-11-17T00:40Z",
-    "2026-11-11T18:17Z"
+    "2026-11-17T02:10Z",
+    "2026-11-14T17:30Z"
    ],
    "Jason Sanders": [
     "Active",
@@ -1714,6 +1714,11 @@
     "Active",
     "2026-11-16T19:08Z",
     "2026-11-06T18:22Z"
+   ],
+   "Nate Carter": [
+    "Active",
+    "2026-11-17T02:10Z",
+    "2026-11-14T17:28Z"
    ],
    "Savion Williams": [
     "Active",
