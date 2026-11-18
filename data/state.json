@@ -1001,10 +1001,6 @@
     "Out",
     "2026-11-17T15:35Z"
    ],
-   "Julius Chestnut": [
-    "Active",
-    "2026-11-18T15:41Z"
-   ],
    "Justice Hill": [
     "Active",
     "2026-11-18T00:33Z"
@@ -1723,6 +1719,11 @@
    ]
   },
   "injuries_gone": {
+   "Julius Chestnut": [
+    "Active",
+    "2026-11-18T15:54Z",
+    "2026-11-18T15:41Z"
+   ],
    "Matt Hibner": [
     "Active",
     "2026-11-18T04:24Z",
