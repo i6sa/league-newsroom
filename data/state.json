@@ -445,6 +445,10 @@
     "Active",
     "2026-11-16T04:59Z"
    ],
+   "Davante Adams": [
+    "Injured Reserve",
+    "2026-11-15T16:06Z"
+   ],
    "David Montgomery": [
     "Active",
     "2026-11-17T19:47Z"
@@ -1249,10 +1253,6 @@
     "Active",
     "2026-11-16T18:40Z"
    ],
-   "Max Klare": [
-    "Active",
-    "2026-11-18T17:23Z"
-   ],
    "Michael Mayer": [
     "Active",
     "2026-11-16T05:24Z"
@@ -1739,10 +1739,10 @@
    ]
   },
   "injuries_gone": {
-   "Davante Adams": [
-    "Injured Reserve",
-    "2026-11-18T17:40Z",
-    "2026-11-15T16:06Z"
+   "Max Klare": [
+    "Active",
+    "2026-11-18T17:41Z",
+    "2026-11-18T17:23Z"
    ]
   },
   "news": [
