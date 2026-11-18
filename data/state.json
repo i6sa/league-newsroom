@@ -109,10 +109,6 @@
     "Active",
     "2026-11-14T00:34Z"
    ],
-   "Ben Skowronek": [
-    "Active",
-    "2026-11-12T00:36Z"
-   ],
    "Bhayshul Tuten": [
     "Active",
     "2026-11-16T01:29Z"
@@ -447,7 +443,7 @@
    ],
    "David Montgomery": [
     "Active",
-    "2026-11-17T19:47Z"
+    "2026-11-18T19:56Z"
    ],
    "David Njoku": [
     "Active",
@@ -1249,6 +1245,10 @@
     "Active",
     "2026-11-16T18:40Z"
    ],
+   "Max Hurleman": [
+    "Active",
+    "2026-11-18T19:50Z"
+   ],
    "Max Klare": [
     "Active",
     "2026-11-18T17:23Z"
@@ -1483,7 +1483,7 @@
    ],
    "T.J. Hockenson": [
     "Questionable",
-    "2026-11-17T12:19Z"
+    "2026-11-18T19:56Z"
    ],
    "Tahj Brooks": [
     "Active",
@@ -1739,6 +1739,11 @@
    ]
   },
   "injuries_gone": {
+   "Ben Skowronek": [
+    "Active",
+    "2026-11-18T20:05Z",
+    "2026-11-12T00:36Z"
+   ],
    "Davante Adams": [
     "Injured Reserve",
     "2026-11-18T17:42Z",
