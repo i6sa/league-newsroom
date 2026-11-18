@@ -467,7 +467,7 @@
    ],
    "DeVonta Smith": [
     "Questionable",
-    "2026-11-18T17:43Z"
+    "2026-11-18T20:19Z"
    ],
    "DeeJay Dallas": [
     "Active",
@@ -668,10 +668,6 @@
    "Germie Bernard": [
     "Active",
     "2026-11-17T01:36Z"
-   ],
-   "Greg Desrosiers Jr.": [
-    "Active",
-    "2026-11-11T02:56Z"
    ],
    "Greg Dulcich": [
     "Active",
@@ -1503,7 +1499,7 @@
    ],
    "Tanner McKee": [
     "Active",
-    "2026-11-08T17:01Z"
+    "2026-11-18T20:12Z"
    ],
    "Taylen Green": [
     "Active",
@@ -1657,6 +1653,10 @@
     "Active",
     "2026-11-16T15:54Z"
    ],
+   "Tyrone Tracy Jr.": [
+    "Injured Reserve",
+    "2026-11-18T20:16Z"
+   ],
    "Van Jefferson": [
     "Active",
     "2026-11-09T01:39Z"
@@ -1752,6 +1752,11 @@
     "Injured Reserve",
     "2026-11-18T17:42Z",
     "2026-11-15T16:06Z"
+   ],
+   "Greg Desrosiers Jr.": [
+    "Active",
+    "2026-11-18T20:25Z",
+    "2026-11-11T02:56Z"
    ]
   },
   "news": [
