@@ -837,6 +837,10 @@
     "Active",
     "2026-11-17T22:42Z"
    ],
+   "Jameis Winston": [
+    "Active",
+    "2026-11-18T16:31Z"
+   ],
    "James Conner": [
     "Injured Reserve",
     "2026-11-17T16:52Z"
@@ -1730,13 +1734,7 @@
     "2026-11-17T05:20Z"
    ]
   },
-  "injuries_gone": {
-   "Jameis Winston": [
-    "Active",
-    "2026-11-18T16:40Z",
-    "2026-11-18T16:31Z"
-   ]
-  },
+  "injuries_gone": {},
   "news": [
    "50425853",
    "50427398",
