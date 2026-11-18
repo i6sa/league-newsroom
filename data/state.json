@@ -921,10 +921,6 @@
     "Active",
     "2026-11-16T04:39Z"
    ],
-   "Joe Flacco": [
-    "Active",
-    "2026-11-18T15:36Z"
-   ],
    "Joe Milton": [
     "Active",
     "2026-11-08T23:50Z"
@@ -1719,6 +1715,11 @@
    ]
   },
   "injuries_gone": {
+   "Joe Flacco": [
+    "Active",
+    "2026-11-18T15:45Z",
+    "2026-11-18T15:36Z"
+   ],
    "Matt Hibner": [
     "Active",
     "2026-11-18T04:24Z",
