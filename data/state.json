@@ -197,10 +197,6 @@
     "Active",
     "2026-11-16T03:50Z"
    ],
-   "Brock Wright": [
-    "Active",
-    "2026-11-18T02:51Z"
-   ],
    "Bryce Lance": [
     "Active",
     "2026-11-18T00:54Z"
@@ -1723,6 +1719,11 @@
    ]
   },
   "injuries_gone": {
+   "Brock Wright": [
+    "Active",
+    "2026-11-18T03:06Z",
+    "2026-11-18T02:51Z"
+   ],
    "Cameron Latu": [
     "Active",
     "2026-11-18T02:23Z",
