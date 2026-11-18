@@ -825,10 +825,6 @@
     "Active",
     "2026-11-16T16:44Z"
    ],
-   "Jalen Tolbert": [
-    "Active",
-    "2026-11-16T02:35Z"
-   ],
    "Jalon Daniels": [
     "Active",
     "2026-11-18T17:47Z"
@@ -1117,10 +1113,6 @@
     "Active",
     "2026-11-16T19:37Z"
    ],
-   "Kyle McCord": [
-    "Active",
-    "2026-11-16T01:45Z"
-   ],
    "Kyle Monangai": [
     "Active",
     "2026-11-18T21:07Z"
@@ -1200,10 +1192,6 @@
    "Malik Nabers": [
     "Active",
     "2026-11-13T04:48Z"
-   ],
-   "Malik Washington": [
-    "Active",
-    "2026-11-16T02:11Z"
    ],
    "Malik Willis": [
     "Injured Reserve",
@@ -1308,10 +1296,6 @@
    "Olamide Zaccheaus": [
     "Active",
     "2026-11-18T02:27Z"
-   ],
-   "Ollie Gordon II": [
-    "Active",
-    "2026-11-15T22:46Z"
    ],
    "Omar Cooper Jr.": [
     "Questionable",
@@ -1761,6 +1745,26 @@
     "Active",
     "2026-11-18T20:25Z",
     "2026-11-11T02:56Z"
+   ],
+   "Jalen Tolbert": [
+    "Active",
+    "2026-11-18T21:43Z",
+    "2026-11-16T02:35Z"
+   ],
+   "Kyle McCord": [
+    "Active",
+    "2026-11-18T21:43Z",
+    "2026-11-16T01:45Z"
+   ],
+   "Malik Washington": [
+    "Active",
+    "2026-11-18T21:43Z",
+    "2026-11-16T02:11Z"
+   ],
+   "Ollie Gordon II": [
+    "Active",
+    "2026-11-18T21:43Z",
+    "2026-11-15T22:46Z"
    ]
   },
   "news": [
