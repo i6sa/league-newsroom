@@ -265,10 +265,6 @@
     "Active",
     "2026-11-18T01:55Z"
    ],
-   "Cameron Latu": [
-    "Active",
-    "2026-11-15T13:03Z"
-   ],
    "Carnell Tate": [
     "Questionable",
     "2026-11-16T14:23Z"
@@ -548,10 +544,6 @@
    "Drew Lock": [
     "Active",
     "2026-11-16T02:02Z"
-   ],
-   "Drew Sample": [
-    "Active",
-    "2026-11-18T02:03Z"
    ],
    "Drew Stevens": [
     "Active",
@@ -1073,6 +1065,10 @@
     "Active",
     "2026-11-17T00:27Z"
    ],
+   "Kevin Coleman Jr.": [
+    "Active",
+    "2026-11-18T02:10Z"
+   ],
    "Khalil Herbert": [
     "Active",
     "2026-11-11T02:20Z"
@@ -1109,6 +1105,10 @@
     "Active",
     "2026-11-15T23:02Z"
    ],
+   "Kyle Williams": [
+    "Active",
+    "2026-11-18T02:08Z"
+   ],
    "Kyler Murray": [
     "Out",
     "2026-11-16T18:39Z"
@@ -1124,6 +1124,10 @@
    "Lamar Jackson": [
     "Injured Reserve",
     "2026-11-13T14:48Z"
+   ],
+   "Lan Larison": [
+    "Active",
+    "2026-11-18T02:04Z"
    ],
    "Laquon Treadwell": [
     "Active",
@@ -1695,6 +1699,11 @@
    ]
   },
   "injuries_gone": {
+   "Cameron Latu": [
+    "Active",
+    "2026-11-18T02:23Z",
+    "2026-11-15T13:03Z"
+   ],
    "Carsen Ryan": [
     "Active",
     "2026-11-17T21:41Z",
@@ -1710,6 +1719,11 @@
     "2026-11-17T21:58Z",
     "2026-11-11T15:48Z"
    ],
+   "Drew Sample": [
+    "Active",
+    "2026-11-18T02:23Z",
+    "2026-11-18T02:03Z"
+   ],
    "Evan Hull": [
     "Active",
     "2026-11-17T15:57Z",
@@ -1719,21 +1733,6 @@
     "Active",
     "2026-11-18T02:03Z",
     "2026-11-11T02:03Z"
-   ],
-   "Kevin Coleman Jr.": [
-    "Active",
-    "2026-11-18T02:22Z",
-    "2026-11-18T02:10Z"
-   ],
-   "Kyle Williams": [
-    "Active",
-    "2026-11-18T02:22Z",
-    "2026-11-18T02:08Z"
-   ],
-   "Lan Larison": [
-    "Active",
-    "2026-11-18T02:22Z",
-    "2026-11-18T02:04Z"
    ],
    "Nick Vannett": [
     "Active",
