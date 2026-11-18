@@ -133,6 +133,10 @@
     "Active",
     "2026-11-08T23:47Z"
    ],
+   "Brady Cook": [
+    "Active",
+    "2026-11-18T00:30Z"
+   ],
    "Braelon Allen": [
     "Active",
     "2026-11-16T00:54Z"
@@ -945,6 +949,10 @@
     "Out",
     "2026-11-17T15:35Z"
    ],
+   "Justice Hill": [
+    "Active",
+    "2026-11-18T00:33Z"
+   ],
    "Justin Fields": [
     "Active",
     "2026-11-11T15:55Z"
@@ -1156,10 +1164,6 @@
    "Matt Gay": [
     "Active",
     "2026-11-17T03:42Z"
-   ],
-   "Matt Hibner": [
-    "Active",
-    "2026-11-07T04:55Z"
    ],
    "Matthew Golden": [
     "Active",
@@ -1663,11 +1667,6 @@
    ]
   },
   "injuries_gone": {
-   "Brady Cook": [
-    "Active",
-    "2026-11-18T00:42Z",
-    "2026-11-18T00:30Z"
-   ],
    "Carsen Ryan": [
     "Active",
     "2026-11-17T21:41Z",
@@ -1683,10 +1682,10 @@
     "2026-11-17T15:57Z",
     "2026-11-11T02:09Z"
    ],
-   "Justice Hill": [
+   "Matt Hibner": [
     "Active",
-    "2026-11-18T00:42Z",
-    "2026-11-18T00:33Z"
+    "2026-11-18T00:44Z",
+    "2026-11-07T04:55Z"
    ]
   },
   "news": [
