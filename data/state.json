@@ -33,10 +33,6 @@
     "Active",
     "2026-11-16T01:59Z"
    ],
-   "Aidan O'Connell": [
-    "Active",
-    "2026-11-11T19:12Z"
-   ],
    "Alvin Kamara": [
     "Active",
     "2026-11-16T01:43Z"
@@ -1727,6 +1723,11 @@
    ]
   },
   "injuries_gone": {
+   "Aidan O'Connell": [
+    "Active",
+    "2026-11-18T03:15Z",
+    "2026-11-11T19:12Z"
+   ],
    "Cameron Latu": [
     "Active",
     "2026-11-18T02:23Z",
