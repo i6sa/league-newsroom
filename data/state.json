@@ -235,7 +235,7 @@
    ],
    "Caleb Douglas": [
     "Questionable",
-    "2026-11-18T20:27Z"
+    "2026-11-18T22:08Z"
    ],
    "Caleb Lohner": [
     "Injured Reserve",
@@ -315,7 +315,7 @@
    ],
    "Chris Bell": [
     "Questionable",
-    "2026-11-18T16:58Z"
+    "2026-11-18T22:13Z"
    ],
    "Chris Boswell": [
     "Active",
@@ -471,7 +471,7 @@
    ],
    "DeVonta Smith": [
     "Questionable",
-    "2026-11-18T20:19Z"
+    "2026-11-18T22:18Z"
    ],
    "DeeJay Dallas": [
     "Active",
@@ -912,10 +912,6 @@
    "Jerry Jeudy": [
     "Active",
     "2026-11-16T01:53Z"
-   ],
-   "Jeshaun Jones": [
-    "Active",
-    "2026-11-18T22:19Z"
    ],
    "Joe Burrow": [
     "Active",
@@ -1755,6 +1751,11 @@
     "2026-11-18T21:43Z",
     "2026-11-16T02:35Z"
    ],
+   "Jeshaun Jones": [
+    "Active",
+    "2026-11-18T22:26Z",
+    "2026-11-18T22:19Z"
+   ],
    "Kyle McCord": [
     "Active",
     "2026-11-18T21:43Z",
@@ -1936,7 +1937,9 @@
    "50522814",
    "50523261",
    "50523527",
-   "50523800"
+   "50523800",
+   "50524576",
+   "50524458"
   ],
   "trades": [
    "2026-08-24:Deion Jones-Zamir White",
