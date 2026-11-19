@@ -333,9 +333,9 @@
     "Questionable",
     "2026-11-18T21:52Z"
    ],
-   "Christian McCaffrey": [
-    "Active",
-    "2026-11-16T03:03Z"
+   "Christian Kirk": [
+    "Injured Reserve",
+    "2026-11-19T15:22Z"
    ],
    "Christian Watson": [
     "Active",
@@ -1710,7 +1710,13 @@
     "2026-11-17T05:20Z"
    ]
   },
-  "injuries_gone": {},
+  "injuries_gone": {
+   "Christian McCaffrey": [
+    "Active",
+    "2026-11-19T15:30Z",
+    "2026-11-16T03:03Z"
+   ]
+  },
   "news": [
    "50425853",
    "50427398",
