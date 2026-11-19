@@ -197,10 +197,6 @@
     "Active",
     "2026-11-09T19:49Z"
    ],
-   "C.J. Stroud": [
-    "Active",
-    "2026-11-15T23:56Z"
-   ],
    "CJ Daniels": [
     "Active",
     "2026-11-17T04:58Z"
@@ -1195,7 +1191,7 @@
    ],
    "Marvin Harrison Jr.": [
     "Out",
-    "2026-11-18T21:03Z"
+    "2026-11-19T23:50Z"
    ],
    "Marvin Mims Jr.": [
     "Active",
@@ -1260,10 +1256,6 @@
    "Nicholas Singleton": [
     "Active",
     "2026-11-16T20:09Z"
-   ],
-   "Nico Collins": [
-    "Active",
-    "2026-11-15T22:17Z"
    ],
    "Noah Fant": [
     "Active",
@@ -1356,6 +1348,10 @@
    "Rico Dowdle": [
     "Active",
     "2026-11-16T04:49Z"
+   ],
+   "Riley Leonard": [
+    "Active",
+    "2026-11-16T19:19Z"
    ],
    "Riley Patterson": [
     "Active",
@@ -1635,7 +1631,7 @@
    ],
    "Woody Marks": [
     "Out",
-    "2026-11-18T20:51Z"
+    "2026-11-19T23:50Z"
    ],
    "Xavier Gipson": [
     "Active",
@@ -1696,6 +1692,11 @@
     "2026-11-19T22:26Z",
     "2026-11-18T02:17Z"
    ],
+   "C.J. Stroud": [
+    "Active",
+    "2026-11-19T23:56Z",
+    "2026-11-15T23:56Z"
+   ],
    "Christian McCaffrey": [
     "Active",
     "2026-11-19T15:32Z",
@@ -1706,15 +1707,15 @@
     "2026-11-19T18:18Z",
     "2026-11-14T17:24Z"
    ],
+   "Nico Collins": [
+    "Active",
+    "2026-11-19T23:56Z",
+    "2026-11-15T22:17Z"
+   ],
    "Pierre Strong Jr.": [
     "Active",
     "2026-11-19T22:16Z",
     "2026-11-16T19:13Z"
-   ],
-   "Riley Leonard": [
-    "Active",
-    "2026-11-19T23:55Z",
-    "2026-11-16T19:19Z"
    ],
    "Tyler Goodson": [
     "Injured Reserve",
@@ -1908,7 +1909,8 @@
    "50532679",
    "50533151",
    "50533560",
-   "50534340"
+   "50534340",
+   "50535411"
   ],
   "trades": [
    "2026-08-24:Deion Jones-Zamir White",
