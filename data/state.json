@@ -177,6 +177,10 @@
     "Questionable",
     "2026-11-19T22:38Z"
    ],
+   "Brock Purdy": [
+    "Active",
+    "2026-11-16T03:50Z"
+   ],
    "Brock Wright": [
     "Active",
     "2026-11-18T02:51Z"
@@ -680,10 +684,6 @@
    "Hunter Henry": [
     "Active",
     "2026-11-15T19:21Z"
-   ],
-   "Isaac Guerendo": [
-    "Out",
-    "2026-11-20T00:28Z"
    ],
    "Isaac TeSlaa": [
     "Active",
@@ -1688,11 +1688,6 @@
     "2026-11-19T22:26Z",
     "2026-11-18T02:17Z"
    ],
-   "Brock Purdy": [
-    "Active",
-    "2026-11-20T00:43Z",
-    "2026-11-16T03:50Z"
-   ],
    "C.J. Stroud": [
     "Active",
     "2026-11-19T23:56Z",
@@ -1702,6 +1697,11 @@
     "Active",
     "2026-11-19T15:32Z",
     "2026-11-16T03:03Z"
+   ],
+   "Isaac Guerendo": [
+    "Out",
+    "2026-11-20T00:44Z",
+    "2026-11-20T00:28Z"
    ],
    "Mo Alie-Cox": [
     "Injured Reserve",
