@@ -259,7 +259,7 @@
    ],
    "Carson Beck": [
     "Questionable",
-    "2026-11-19T22:31Z"
+    "2026-11-20T17:36Z"
    ],
    "Carson Wentz": [
     "Active",
@@ -985,6 +985,10 @@
     "Out",
     "2026-11-17T15:35Z"
    ],
+   "Josh Johnson": [
+    "Active",
+    "2026-11-20T17:38Z"
+   ],
    "Julius Chestnut": [
     "Active",
     "2026-11-18T15:41Z"
@@ -1537,10 +1541,6 @@
     "Active",
     "2026-11-16T01:25Z"
    ],
-   "Trey McBride": [
-    "Active",
-    "2026-11-16T01:41Z"
-   ],
    "Trey Smack": [
     "Active",
     "2026-11-17T04:03Z"
@@ -1695,6 +1695,11 @@
     "Active",
     "2026-11-20T12:49Z",
     "2026-11-15T19:59Z"
+   ],
+   "Trey McBride": [
+    "Active",
+    "2026-11-20T17:45Z",
+    "2026-11-16T01:41Z"
    ]
   },
   "news": [
