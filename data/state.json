@@ -117,10 +117,6 @@
     "Active",
     "2026-11-15T22:00Z"
    ],
-   "Blake Corum": [
-    "Active",
-    "2026-11-16T02:33Z"
-   ],
    "Bo Melton": [
     "Questionable",
     "2026-11-15T19:56Z"
@@ -428,6 +424,10 @@
    "Darren Waller": [
     "Questionable",
     "2026-11-20T17:34Z"
+   ],
+   "Davante Adams": [
+    "Injured Reserve",
+    "2026-11-20T17:49Z"
    ],
    "David Montgomery": [
     "Active",
@@ -1691,6 +1691,11 @@
    ]
   },
   "injuries_gone": {
+   "Blake Corum": [
+    "Active",
+    "2026-11-20T17:59Z",
+    "2026-11-16T02:33Z"
+   ],
    "Malik Benson": [
     "Active",
     "2026-11-20T12:49Z",
