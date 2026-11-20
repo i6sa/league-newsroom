@@ -405,10 +405,6 @@
     "Active",
     "2026-11-17T05:09Z"
    ],
-   "Daniel Jones": [
-    "Active",
-    "2026-11-20T18:11Z"
-   ],
    "Dareke Young": [
     "Active",
     "2026-11-16T21:07Z"
@@ -611,7 +607,7 @@
    ],
    "Emmett Johnson": [
     "Active",
-    "2026-11-15T22:38Z"
+    "2026-11-20T20:28Z"
    ],
    "Evan Engram": [
     "Active",
@@ -833,10 +829,6 @@
     "Active",
     "2026-11-15T21:58Z"
    ],
-   "James Mitchell": [
-    "Active",
-    "2026-11-14T19:17Z"
-   ],
    "Jameson Williams": [
     "Active",
     "2026-11-15T19:49Z"
@@ -934,8 +926,8 @@
     "2026-11-08T23:51Z"
    ],
    "Jonathan Mingo": [
-    "Questionable",
-    "2026-11-17T12:19Z"
+    "Out",
+    "2026-11-20T20:33Z"
    ],
    "Jonathan Taylor": [
     "Active",
@@ -1699,6 +1691,16 @@
     "Active",
     "2026-11-20T18:04Z",
     "2026-11-16T02:33Z"
+   ],
+   "Daniel Jones": [
+    "Active",
+    "2026-11-20T20:37Z",
+    "2026-11-20T18:11Z"
+   ],
+   "James Mitchell": [
+    "Active",
+    "2026-11-20T20:37Z",
+    "2026-11-14T19:17Z"
    ],
    "Malik Benson": [
     "Active",
