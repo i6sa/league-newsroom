@@ -427,7 +427,7 @@
    ],
    "Darren Waller": [
     "Questionable",
-    "2026-11-20T16:38Z"
+    "2026-11-20T17:34Z"
    ],
    "David Montgomery": [
     "Active",
@@ -515,7 +515,7 @@
    ],
    "Dontayvion Wicks": [
     "Questionable",
-    "2026-11-19T22:46Z"
+    "2026-11-20T17:35Z"
    ],
    "Drake London": [
     "Active",
@@ -939,7 +939,7 @@
    ],
    "Jonathon Brooks": [
     "Injured Reserve",
-    "2026-11-19T20:22Z"
+    "2026-11-20T17:32Z"
    ],
    "Jordan Addison": [
     "Out",
@@ -984,10 +984,6 @@
    "Josh Jacobs": [
     "Out",
     "2026-11-17T15:35Z"
-   ],
-   "Josh Johnson": [
-    "Active",
-    "2026-11-20T17:38Z"
    ],
    "Julius Chestnut": [
     "Active",
@@ -1541,6 +1537,10 @@
     "Active",
     "2026-11-16T01:25Z"
    ],
+   "Trey McBride": [
+    "Active",
+    "2026-11-16T01:41Z"
+   ],
    "Trey Smack": [
     "Active",
     "2026-11-17T04:03Z"
@@ -1691,15 +1691,15 @@
    ]
   },
   "injuries_gone": {
+   "Josh Johnson": [
+    "Active",
+    "2026-11-20T17:48Z",
+    "2026-11-20T17:38Z"
+   ],
    "Malik Benson": [
     "Active",
     "2026-11-20T12:49Z",
     "2026-11-15T19:59Z"
-   ],
-   "Trey McBride": [
-    "Active",
-    "2026-11-20T17:45Z",
-    "2026-11-16T01:41Z"
    ]
   },
   "news": [
