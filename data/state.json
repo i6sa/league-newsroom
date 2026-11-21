@@ -817,10 +817,6 @@
     "Injured Reserve",
     "2026-11-18T21:40Z"
    ],
-   "James Cook III": [
-    "Active",
-    "2026-11-15T21:58Z"
-   ],
    "Jameson Williams": [
     "Active",
     "2026-11-15T19:49Z"
@@ -1678,7 +1674,13 @@
     "2026-11-17T05:20Z"
    ]
   },
-  "injuries_gone": {},
+  "injuries_gone": {
+   "James Cook III": [
+    "Active",
+    "2026-11-21T17:35Z",
+    "2026-11-15T21:58Z"
+   ]
+  },
   "news": [
    "50425853",
    "50427398",
