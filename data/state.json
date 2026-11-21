@@ -137,10 +137,6 @@
     "Active",
     "2026-11-16T00:54Z"
    ],
-   "Brandin Cooks": [
-    "Active",
-    "2026-11-21T21:24Z"
-   ],
    "Brandon Aubrey": [
     "Active",
     "2026-11-17T02:53Z"
@@ -1037,6 +1033,10 @@
     "Active",
     "2026-11-17T12:17Z"
    ],
+   "Keenan Allen": [
+    "Active",
+    "2026-11-16T04:28Z"
+   ],
    "Kenneth Walker III": [
     "Out",
     "2026-11-20T20:13Z"
@@ -1675,6 +1675,11 @@
    ]
   },
   "injuries_gone": {
+   "Brandin Cooks": [
+    "Active",
+    "2026-11-21T22:13Z",
+    "2026-11-21T21:24Z"
+   ],
    "Cam Ward": [
     "Active",
     "2026-11-21T20:35Z",
@@ -1684,11 +1689,6 @@
     "Active",
     "2026-11-21T17:35Z",
     "2026-11-15T21:58Z"
-   ],
-   "Keenan Allen": [
-    "Active",
-    "2026-11-21T22:11Z",
-    "2026-11-16T04:28Z"
    ],
    "Malik Willis": [
     "Injured Reserve",
