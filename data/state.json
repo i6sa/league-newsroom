@@ -94,12 +94,8 @@
     "2026-11-16T18:51Z"
    ],
    "Baker Mayfield": [
-    "Questionable",
-    "2026-11-22T12:24Z"
-   ],
-   "Bam Knight": [
     "Active",
-    "2026-11-18T01:10Z"
+    "2026-11-22T16:36Z"
    ],
    "Behren Morton": [
     "Active",
@@ -257,10 +253,6 @@
     "Active",
     "2026-11-16T04:01Z"
    ],
-   "Chad Ryland": [
-    "Active",
-    "2026-11-17T03:45Z"
-   ],
    "Charlie Kolar": [
     "Questionable",
     "2026-11-20T21:39Z"
@@ -382,8 +374,8 @@
     "2026-11-09T21:04Z"
    ],
    "Dalton Kincaid": [
-    "Doubtful",
-    "2026-11-20T18:16Z"
+    "Out",
+    "2026-11-22T16:34Z"
    ],
    "Dalton Schultz": [
     "Active",
@@ -940,10 +932,6 @@
    "Jordyn Tyson": [
     "Active",
     "2026-11-20T19:29Z"
-   ],
-   "Josh Allen": [
-    "Active",
-    "2026-11-15T22:00Z"
    ],
    "Josh Cameron": [
     "Active",
@@ -1688,15 +1676,30 @@
     "2026-11-22T16:34Z",
     "2026-11-18T19:18Z"
    ],
+   "Bam Knight": [
+    "Active",
+    "2026-11-22T16:39Z",
+    "2026-11-18T01:10Z"
+   ],
    "Brenton Strange": [
     "Active",
     "2026-11-22T14:25Z",
     "2026-11-16T01:10Z"
    ],
+   "Chad Ryland": [
+    "Active",
+    "2026-11-22T16:39Z",
+    "2026-11-17T03:45Z"
+   ],
    "Elijah Sarratt": [
     "Active",
     "2026-11-22T16:34Z",
     "2026-11-17T12:17Z"
+   ],
+   "Josh Allen": [
+    "Active",
+    "2026-11-22T16:39Z",
+    "2026-11-15T22:00Z"
    ],
    "Kedon Slovis": [
     "Active",
