@@ -1137,10 +1137,6 @@
     "Active",
     "2026-11-18T16:20Z"
    ],
-   "Luke Musgrave": [
-    "Out",
-    "2026-11-22T14:06Z"
-   ],
    "Luke Schoonmaker": [
     "Questionable",
     "2026-11-20T22:34Z"
@@ -1698,7 +1694,13 @@
     "2026-11-22T00:19Z"
    ]
   },
-  "injuries_gone": {},
+  "injuries_gone": {
+   "Luke Musgrave": [
+    "Out",
+    "2026-11-22T14:13Z",
+    "2026-11-22T14:06Z"
+   ]
+  },
   "news": [
    "50425853",
    "50427398",
