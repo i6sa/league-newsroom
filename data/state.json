@@ -77,10 +77,6 @@
     "Active",
     "2026-11-21T01:51Z"
    ],
-   "Ashton Jeanty": [
-    "Active",
-    "2026-11-16T02:10Z"
-   ],
    "Athan Kaliakmanis": [
     "Active",
     "2026-11-16T20:11Z"
@@ -256,6 +252,10 @@
    "Carson Wentz": [
     "Active",
     "2026-11-13T22:03Z"
+   ],
+   "Carter Runyon": [
+    "Active",
+    "2026-11-22T00:13Z"
    ],
    "Case Keenum": [
     "Active",
@@ -1205,6 +1205,10 @@
     "Active",
     "2026-11-16T18:40Z"
    ],
+   "Max Hurleman": [
+    "Active",
+    "2026-11-22T00:06Z"
+   ],
    "Max Klare": [
     "Active",
     "2026-11-18T17:23Z"
@@ -1244,10 +1248,6 @@
    "Nicholas Singleton": [
     "Active",
     "2026-11-16T20:09Z"
-   ],
-   "Nick Vannett": [
-    "Active",
-    "2026-11-22T00:10Z"
    ],
    "Nico Collins": [
     "Active",
@@ -1679,6 +1679,11 @@
    ]
   },
   "injuries_gone": {
+   "Ashton Jeanty": [
+    "Active",
+    "2026-11-22T00:21Z",
+    "2026-11-16T02:10Z"
+   ],
    "Brandin Cooks": [
     "Active",
     "2026-11-21T22:13Z",
@@ -1688,11 +1693,6 @@
     "Active",
     "2026-11-21T20:35Z",
     "2026-11-16T02:09Z"
-   ],
-   "Carter Runyon": [
-    "Active",
-    "2026-11-22T00:19Z",
-    "2026-11-22T00:13Z"
    ],
    "James Cook III": [
     "Active",
@@ -1704,10 +1704,10 @@
     "2026-11-21T19:51Z",
     "2026-11-16T17:27Z"
    ],
-   "Max Hurleman": [
+   "Nick Vannett": [
     "Active",
-    "2026-11-22T00:19Z",
-    "2026-11-22T00:06Z"
+    "2026-11-22T00:21Z",
+    "2026-11-22T00:10Z"
    ]
   },
   "news": [
