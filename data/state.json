@@ -501,6 +501,10 @@
     "Out",
     "2026-11-22T15:45Z"
    ],
+   "Drew Allar": [
+    "Active",
+    "2026-11-16T19:36Z"
+   ],
    "Drew Lock": [
     "Active",
     "2026-11-16T02:02Z"
@@ -532,6 +536,10 @@
    "Efton Chism III": [
     "Active",
     "2026-11-18T02:02Z"
+   ],
+   "Eli Heidenreich": [
+    "Active",
+    "2026-11-16T19:36Z"
    ],
    "Eli Raridon": [
     "Active",
@@ -1217,10 +1225,6 @@
     "Active",
     "2026-11-22T00:33Z"
    ],
-   "Nicholas Singleton": [
-    "Active",
-    "2026-11-16T20:09Z"
-   ],
    "Nick Vannett": [
     "Active",
     "2026-11-22T00:10Z"
@@ -1679,16 +1683,6 @@
     "2026-11-22T16:39Z",
     "2026-11-17T03:45Z"
    ],
-   "Drew Allar": [
-    "Active",
-    "2026-11-22T16:41Z",
-    "2026-11-16T19:36Z"
-   ],
-   "Eli Heidenreich": [
-    "Active",
-    "2026-11-22T16:41Z",
-    "2026-11-16T19:36Z"
-   ],
    "Elijah Sarratt": [
     "Active",
     "2026-11-22T16:34Z",
@@ -1708,6 +1702,11 @@
     "Active",
     "2026-11-22T16:34Z",
     "2026-11-17T12:17Z"
+   ],
+   "Nicholas Singleton": [
+    "Active",
+    "2026-11-22T16:43Z",
+    "2026-11-16T20:09Z"
    ]
   },
   "news": [
