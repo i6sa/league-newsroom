@@ -226,7 +226,7 @@
     "2026-11-18T01:55Z"
    ],
    "Carnell Tate": [
-    "Questionable",
+    "Active",
     "2026-11-22T12:40Z"
    ],
    "Carson Beck": [
@@ -240,10 +240,6 @@
    "Carter Runyon": [
     "Active",
     "2026-11-22T00:13Z"
-   ],
-   "Case Keenum": [
-    "Active",
-    "2026-11-09T00:04Z"
    ],
    "CeeDee Lamb": [
     "Active",
@@ -1633,13 +1629,9 @@
     "Out",
     "2026-11-17T12:20Z"
    ],
-   "Zavier Scott": [
-    "Injured Reserve",
-    "2026-11-05T21:19Z"
-   ],
    "Zavion Thomas": [
-    "Questionable",
-    "2026-11-20T20:43Z"
+    "Active",
+    "2026-11-22T16:41Z"
    ],
    "Zay Flowers": [
     "Active",
@@ -1670,6 +1662,11 @@
     "Active",
     "2026-11-22T14:25Z",
     "2026-11-16T01:10Z"
+   ],
+   "Case Keenum": [
+    "Active",
+    "2026-11-22T16:45Z",
+    "2026-11-09T00:04Z"
    ],
    "Chad Ryland": [
     "Active",
@@ -1710,6 +1707,11 @@
     "Active",
     "2026-11-22T16:44Z",
     "2026-11-16T19:32Z"
+   ],
+   "Zavier Scott": [
+    "Injured Reserve",
+    "2026-11-22T16:45Z",
+    "2026-11-05T21:19Z"
    ]
   },
   "news": [
