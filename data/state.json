@@ -153,10 +153,6 @@
     "Doubtful",
     "2026-11-21T00:04Z"
    ],
-   "Brenton Strange": [
-    "Active",
-    "2026-11-16T01:10Z"
-   ],
    "Brevyn Spann-Ford": [
     "Active",
     "2026-11-18T01:54Z"
@@ -1698,7 +1694,13 @@
     "2026-11-22T00:19Z"
    ]
   },
-  "injuries_gone": {},
+  "injuries_gone": {
+   "Brenton Strange": [
+    "Active",
+    "2026-11-22T14:25Z",
+    "2026-11-16T01:10Z"
+   ]
+  },
   "news": [
    "50425853",
    "50427398",
