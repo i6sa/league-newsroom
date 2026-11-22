@@ -1013,10 +1013,6 @@
     "Active",
     "2026-11-20T21:37Z"
    ],
-   "Lil'Jordan Humphrey": [
-    "Active",
-    "2026-11-09T21:04Z"
-   ],
    "Luke McCaffrey": [
     "Active",
     "2026-11-18T16:20Z"
@@ -1280,10 +1276,6 @@
    "Sam Darnold": [
     "Out",
     "2026-11-16T18:03Z"
-   ],
-   "Sam Ehlinger": [
-    "Active",
-    "2026-11-09T21:04Z"
    ],
    "Sam LaPorta": [
     "Active",
@@ -1712,10 +1704,20 @@
     "2026-11-22T16:34Z",
     "2026-11-17T12:17Z"
    ],
+   "Lil'Jordan Humphrey": [
+    "Active",
+    "2026-11-22T20:03Z",
+    "2026-11-09T21:04Z"
+   ],
    "Nicholas Singleton": [
     "Active",
     "2026-11-22T16:46Z",
     "2026-11-16T20:09Z"
+   ],
+   "Sam Ehlinger": [
+    "Active",
+    "2026-11-22T20:03Z",
+    "2026-11-09T21:04Z"
    ],
    "Will Howard": [
     "Active",
