@@ -1197,10 +1197,6 @@
     "Active",
     "2026-11-16T00:50Z"
    ],
-   "Matthew Stafford": [
-    "Active",
-    "2026-11-16T02:47Z"
-   ],
    "Max Brosmer": [
     "Active",
     "2026-11-16T18:40Z"
@@ -1244,10 +1240,6 @@
    "Myles Price": [
     "Active",
     "2026-11-17T01:10Z"
-   ],
-   "Nate Carter": [
-    "Active",
-    "2026-11-22T00:33Z"
    ],
    "Nicholas Singleton": [
     "Active",
@@ -1657,10 +1649,6 @@
     "Active",
     "2026-11-18T15:25Z"
    ],
-   "Xavier Smith": [
-    "Active",
-    "2026-11-16T03:15Z"
-   ],
    "Xavier Worthy": [
     "Active",
     "2026-11-16T00:50Z"
@@ -1728,6 +1716,21 @@
     "Injured Reserve",
     "2026-11-21T19:51Z",
     "2026-11-16T17:27Z"
+   ],
+   "Matthew Stafford": [
+    "Active",
+    "2026-11-22T00:43Z",
+    "2026-11-16T02:47Z"
+   ],
+   "Nate Carter": [
+    "Active",
+    "2026-11-22T00:43Z",
+    "2026-11-22T00:33Z"
+   ],
+   "Xavier Smith": [
+    "Active",
+    "2026-11-22T00:43Z",
+    "2026-11-16T03:15Z"
    ]
   },
   "news": [
