@@ -9,10 +9,6 @@
     "Active",
     "2026-11-16T05:29Z"
    ],
-   "AJ Dillon": [
-    "Active",
-    "2026-11-16T18:55Z"
-   ],
    "Aaron Jones Sr.": [
     "Active",
     "2026-11-16T00:29Z"
@@ -609,10 +605,6 @@
     "Active",
     "2026-11-18T14:52Z"
    ],
-   "Haynes King": [
-    "Active",
-    "2026-11-16T18:55Z"
-   ],
    "Hunter Henry": [
     "Active",
     "2026-11-15T19:21Z"
@@ -664,10 +656,6 @@
    "Ja'Marr Chase": [
     "Active",
     "2026-11-16T04:47Z"
-   ],
-   "Ja'Tavion Sanders": [
-    "Active",
-    "2026-11-16T18:55Z"
    ],
    "Jack Bech": [
     "Active",
@@ -1607,6 +1595,11 @@
    ]
   },
   "injuries_gone": {
+   "AJ Dillon": [
+    "Active",
+    "2026-11-22T16:48Z",
+    "2026-11-16T18:55Z"
+   ],
    "Adam Randall": [
     "Active",
     "2026-11-22T16:34Z",
@@ -1676,6 +1669,16 @@
     "Active",
     "2026-11-22T16:42Z",
     "2026-11-16T19:22Z"
+   ],
+   "Haynes King": [
+    "Active",
+    "2026-11-22T16:48Z",
+    "2026-11-16T18:55Z"
+   ],
+   "Ja'Tavion Sanders": [
+    "Active",
+    "2026-11-22T16:48Z",
+    "2026-11-16T18:55Z"
    ],
    "Jake Elliott": [
     "Active",
