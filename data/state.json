@@ -21,10 +21,6 @@
     "Active",
     "2026-11-16T04:37Z"
    ],
-   "Adam Randall": [
-    "Active",
-    "2026-11-18T19:18Z"
-   ],
    "Adam Trautman": [
     "Active",
     "2026-11-11T02:55Z"
@@ -577,10 +573,6 @@
     "Active",
     "2026-11-11T02:24Z"
    ],
-   "Elijah Sarratt": [
-    "Active",
-    "2026-11-17T12:17Z"
-   ],
    "Emanuel Wilson": [
     "Active",
     "2026-11-15T19:55Z"
@@ -1032,10 +1024,6 @@
    "Keaton Mitchell": [
     "Active",
     "2026-11-18T00:06Z"
-   ],
-   "Kedon Slovis": [
-    "Active",
-    "2026-11-17T12:17Z"
    ],
    "Keenan Allen": [
     "Active",
@@ -1695,10 +1683,25 @@
    ]
   },
   "injuries_gone": {
+   "Adam Randall": [
+    "Active",
+    "2026-11-22T16:34Z",
+    "2026-11-18T19:18Z"
+   ],
    "Brenton Strange": [
     "Active",
     "2026-11-22T14:25Z",
     "2026-11-16T01:10Z"
+   ],
+   "Elijah Sarratt": [
+    "Active",
+    "2026-11-22T16:34Z",
+    "2026-11-17T12:17Z"
+   ],
+   "Kedon Slovis": [
+    "Active",
+    "2026-11-22T16:34Z",
+    "2026-11-17T12:17Z"
    ]
   },
   "news": [
