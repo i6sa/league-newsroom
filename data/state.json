@@ -13,6 +13,10 @@
     "Active",
     "2026-11-16T00:29Z"
    ],
+   "Aaron Rodgers": [
+    "Active",
+    "2026-11-22T23:13Z"
+   ],
    "Adam Trautman": [
     "Active",
     "2026-11-11T02:55Z"
@@ -759,7 +763,7 @@
    ],
    "Jaylen Warren": [
     "Active",
-    "2026-11-16T05:14Z"
+    "2026-11-22T23:10Z"
    ],
    "Jerry Jeudy": [
     "Active",
@@ -1125,10 +1129,6 @@
     "Active",
     "2026-11-09T00:02Z"
    ],
-   "Pat Freiermuth": [
-    "Active",
-    "2026-11-16T04:42Z"
-   ],
    "Patrick Mahomes": [
     "Active",
     "2026-11-22T21:57Z"
@@ -1187,7 +1187,7 @@
    ],
    "Rico Dowdle": [
     "Active",
-    "2026-11-16T04:49Z"
+    "2026-11-22T23:11Z"
    ],
    "Riley Patterson": [
     "Active",
@@ -1500,11 +1500,6 @@
     "2026-11-22T16:55Z",
     "2026-11-16T18:55Z"
    ],
-   "Aaron Rodgers": [
-    "Active",
-    "2026-11-22T18:39Z",
-    "2026-11-16T04:37Z"
-   ],
    "Adam Randall": [
     "Active",
     "2026-11-22T16:34Z",
@@ -1724,6 +1719,11 @@
     "Active",
     "2026-11-22T22:13Z",
     "2026-11-16T01:33Z"
+   ],
+   "Pat Freiermuth": [
+    "Active",
+    "2026-11-22T23:26Z",
+    "2026-11-16T04:42Z"
    ],
    "Sam Ehlinger": [
     "Active",
