@@ -89,6 +89,10 @@
     "Active",
     "2026-11-22T16:36Z"
    ],
+   "Bam Knight": [
+    "Active",
+    "2026-11-22T23:51Z"
+   ],
    "Behren Morton": [
     "Active",
     "2026-11-16T19:30Z"
@@ -851,7 +855,7 @@
    ],
    "Josh Johnson": [
     "Active",
-    "2026-11-22T15:11Z"
+    "2026-11-22T23:43Z"
    ],
    "Julius Chestnut": [
     "Active",
@@ -1177,10 +1181,6 @@
     "Active",
     "2026-11-20T20:25Z"
    ],
-   "Reggie Virgil": [
-    "Active",
-    "2026-11-18T01:28Z"
-   ],
    "Rhamondre Stevenson": [
     "Active",
     "2026-11-15T18:38Z"
@@ -1252,10 +1252,6 @@
    "Seth McGowan": [
     "Questionable",
     "2026-11-20T03:28Z"
-   ],
-   "Simi Fehoko": [
-    "Active",
-    "2026-11-18T01:18Z"
    ],
    "Sione Vaki": [
     "Active",
@@ -1365,6 +1361,10 @@
     "Active",
     "2026-11-18T02:32Z"
    ],
+   "Trey McBride": [
+    "Active",
+    "2026-11-22T23:39Z"
+   ],
    "Trey Smack": [
     "Active",
     "2026-11-17T04:03Z"
@@ -1396,6 +1396,10 @@
    "Tylan Wallace": [
     "Active",
     "2026-11-18T02:15Z"
+   ],
+   "Tyler Allgeier": [
+    "Active",
+    "2026-11-22T23:47Z"
    ],
    "Tyler Bass": [
     "Active",
@@ -1509,11 +1513,6 @@
     "Active",
     "2026-11-22T16:47Z",
     "2026-11-16T03:27Z"
-   ],
-   "Bam Knight": [
-    "Active",
-    "2026-11-22T16:39Z",
-    "2026-11-18T01:10Z"
    ],
    "Bo Nix": [
     "Active",
@@ -1730,10 +1729,20 @@
     "2026-11-22T23:26Z",
     "2026-11-16T04:42Z"
    ],
+   "Reggie Virgil": [
+    "Active",
+    "2026-11-22T23:56Z",
+    "2026-11-18T01:28Z"
+   ],
    "Sam Ehlinger": [
     "Active",
     "2026-11-22T20:10Z",
     "2026-11-09T21:04Z"
+   ],
+   "Simi Fehoko": [
+    "Active",
+    "2026-11-22T23:56Z",
+    "2026-11-18T01:18Z"
    ],
    "Thomas Fidone II": [
     "Active",
