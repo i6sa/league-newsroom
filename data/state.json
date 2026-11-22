@@ -81,10 +81,6 @@
     "Active",
     "2026-11-16T20:11Z"
    ],
-   "Audric Estime": [
-    "Active",
-    "2026-11-16T03:27Z"
-   ],
    "Austin Ekeler": [
     "Active",
     "2026-11-13T05:24Z"
@@ -493,10 +489,6 @@
     "Out",
     "2026-11-22T15:45Z"
    ],
-   "Drew Allar": [
-    "Active",
-    "2026-11-16T19:36Z"
-   ],
    "Drew Lock": [
     "Active",
     "2026-11-16T02:02Z"
@@ -528,10 +520,6 @@
    "Efton Chism III": [
     "Active",
     "2026-11-18T02:02Z"
-   ],
-   "Eli Heidenreich": [
-    "Active",
-    "2026-11-16T19:36Z"
    ],
    "Eli Raridon": [
     "Active",
@@ -1302,7 +1290,7 @@
     "2026-11-18T01:56Z"
    ],
    "Roman Wilson": [
-    "Questionable",
+    "Active",
     "2026-11-21T19:38Z"
    ],
    "Rome Odunze": [
@@ -1557,10 +1545,6 @@
     "Active",
     "2026-11-10T02:43Z"
    ],
-   "Will Howard": [
-    "Active",
-    "2026-11-16T00:20Z"
-   ],
    "Will Mallory": [
     "Out",
     "2026-11-19T23:48Z"
@@ -1605,10 +1589,6 @@
     "Active",
     "2026-11-16T18:31Z"
    ],
-   "Zach Wilson": [
-    "Active",
-    "2026-11-16T19:32Z"
-   ],
    "Zachariah Branch": [
     "Out",
     "2026-11-17T12:20Z"
@@ -1631,6 +1611,11 @@
     "Active",
     "2026-11-22T16:34Z",
     "2026-11-18T19:18Z"
+   ],
+   "Audric Estime": [
+    "Active",
+    "2026-11-22T16:47Z",
+    "2026-11-16T03:27Z"
    ],
    "Bam Knight": [
     "Active",
@@ -1656,6 +1641,16 @@
     "Active",
     "2026-11-22T16:46Z",
     "2026-11-09T00:28Z"
+   ],
+   "Drew Allar": [
+    "Active",
+    "2026-11-22T16:47Z",
+    "2026-11-16T19:36Z"
+   ],
+   "Eli Heidenreich": [
+    "Active",
+    "2026-11-22T16:47Z",
+    "2026-11-16T19:36Z"
    ],
    "Eli Stowers": [
     "Active",
@@ -1711,6 +1706,16 @@
     "Active",
     "2026-11-22T16:46Z",
     "2026-11-16T20:09Z"
+   ],
+   "Will Howard": [
+    "Active",
+    "2026-11-22T16:47Z",
+    "2026-11-16T00:20Z"
+   ],
+   "Zach Wilson": [
+    "Active",
+    "2026-11-22T16:47Z",
+    "2026-11-16T19:32Z"
    ],
    "Zavier Scott": [
     "Injured Reserve",
