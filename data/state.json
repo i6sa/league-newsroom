@@ -81,6 +81,10 @@
     "Active",
     "2026-11-16T20:11Z"
    ],
+   "Audric Estime": [
+    "Active",
+    "2026-11-16T03:27Z"
+   ],
    "Austin Ekeler": [
     "Active",
     "2026-11-13T05:24Z"
@@ -227,7 +231,7 @@
    ],
    "Carnell Tate": [
     "Active",
-    "2026-11-22T12:40Z"
+    "2026-11-22T16:33Z"
    ],
    "Carson Beck": [
     "Out",
@@ -357,10 +361,6 @@
     "Active",
     "2026-11-16T03:58Z"
    ],
-   "Dallas Goedert": [
-    "Active",
-    "2026-11-09T00:28Z"
-   ],
    "Dallen Bentley": [
     "Active",
     "2026-11-09T21:04Z"
@@ -394,8 +394,8 @@
     "2026-11-17T00:47Z"
    ],
    "Darren Waller": [
-    "Questionable",
-    "2026-11-20T17:34Z"
+    "Active",
+    "2026-11-22T16:40Z"
    ],
    "Davante Adams": [
     "Injured Reserve",
@@ -493,6 +493,10 @@
     "Out",
     "2026-11-22T15:45Z"
    ],
+   "Drew Allar": [
+    "Active",
+    "2026-11-16T19:36Z"
+   ],
    "Drew Lock": [
     "Active",
     "2026-11-16T02:02Z"
@@ -525,25 +529,17 @@
     "Active",
     "2026-11-18T02:02Z"
    ],
+   "Eli Heidenreich": [
+    "Active",
+    "2026-11-16T19:36Z"
+   ],
    "Eli Raridon": [
     "Active",
     "2026-11-17T04:43Z"
    ],
-   "Eli Stowers": [
-    "Active",
-    "2026-11-10T02:43Z"
-   ],
-   "Elic Ayomanor": [
-    "Active",
-    "2026-11-16T02:17Z"
-   ],
    "Elijah Higgins": [
     "Active",
     "2026-11-18T01:38Z"
-   ],
-   "Elijah Mitchell": [
-    "Active",
-    "2026-11-10T04:53Z"
    ],
    "Elijah Moore": [
     "Active",
@@ -733,13 +729,9 @@
     "Active",
     "2026-11-18T02:54Z"
    ],
-   "Jake Elliott": [
-    "Active",
-    "2026-11-10T02:57Z"
-   ],
    "Jake Ferguson": [
     "Out",
-    "2026-11-18T23:05Z"
+    "2026-11-22T16:31Z"
    ],
    "Jake Moody": [
     "Active",
@@ -787,7 +779,7 @@
    ],
    "Jared Wayne": [
     "Out",
-    "2026-11-20T23:48Z"
+    "2026-11-22T16:40Z"
    ],
    "Jared Wiley": [
     "Injured Reserve",
@@ -879,7 +871,7 @@
    ],
    "Jonathan Mingo": [
     "Out",
-    "2026-11-20T22:32Z"
+    "2026-11-22T16:31Z"
    ],
    "Jonathan Taylor": [
     "Active",
@@ -949,10 +941,6 @@
     "Active",
     "2026-11-16T00:09Z"
    ],
-   "Justin Joly": [
-    "Active",
-    "2026-11-16T19:26Z"
-   ],
    "Juwan Johnson": [
     "Active",
     "2026-11-16T04:32Z"
@@ -984,10 +972,6 @@
    "Kayshon Boutte": [
     "Questionable",
     "2026-11-20T16:18Z"
-   ],
-   "Kaytron Allen": [
-    "Active",
-    "2026-11-17T01:46Z"
    ],
    "Keaton Mitchell": [
     "Active",
@@ -1094,8 +1078,8 @@
     "2026-11-22T14:06Z"
    ],
    "Luke Schoonmaker": [
-    "Questionable",
-    "2026-11-20T22:34Z"
+    "Active",
+    "2026-11-22T16:31Z"
    ],
    "Luther Burden III": [
     "Active",
@@ -1209,10 +1193,6 @@
     "Active",
     "2026-11-22T00:33Z"
    ],
-   "Nicholas Singleton": [
-    "Active",
-    "2026-11-16T20:09Z"
-   ],
    "Nick Vannett": [
     "Active",
     "2026-11-22T00:10Z"
@@ -1322,7 +1302,7 @@
     "2026-11-18T01:56Z"
    ],
    "Roman Wilson": [
-    "Active",
+    "Questionable",
     "2026-11-21T19:38Z"
    ],
    "Rome Odunze": [
@@ -1390,8 +1370,8 @@
     "2026-11-18T01:18Z"
    ],
    "Sione Vaki": [
-    "Questionable",
-    "2026-11-20T21:26Z"
+    "Active",
+    "2026-11-22T16:42Z"
    ],
    "Skyy Moore": [
     "Questionable",
@@ -1590,8 +1570,8 @@
     "2026-11-17T03:05Z"
    ],
    "Will Shipley": [
-    "Questionable",
-    "2026-11-21T21:30Z"
+    "Active",
+    "2026-11-22T16:41Z"
    ],
    "Woody Marks": [
     "Out",
@@ -1625,6 +1605,10 @@
     "Active",
     "2026-11-16T18:31Z"
    ],
+   "Zach Wilson": [
+    "Active",
+    "2026-11-16T19:32Z"
+   ],
    "Zachariah Branch": [
     "Out",
     "2026-11-17T12:20Z"
@@ -1648,11 +1632,6 @@
     "2026-11-22T16:34Z",
     "2026-11-18T19:18Z"
    ],
-   "Audric Estime": [
-    "Active",
-    "2026-11-22T16:44Z",
-    "2026-11-16T03:27Z"
-   ],
    "Bam Knight": [
     "Active",
     "2026-11-22T16:39Z",
@@ -1673,15 +1652,25 @@
     "2026-11-22T16:39Z",
     "2026-11-17T03:45Z"
    ],
-   "Drew Allar": [
+   "Dallas Goedert": [
     "Active",
-    "2026-11-22T16:44Z",
-    "2026-11-16T19:36Z"
+    "2026-11-22T16:46Z",
+    "2026-11-09T00:28Z"
    ],
-   "Eli Heidenreich": [
+   "Eli Stowers": [
     "Active",
-    "2026-11-22T16:44Z",
-    "2026-11-16T19:36Z"
+    "2026-11-22T16:46Z",
+    "2026-11-10T02:43Z"
+   ],
+   "Elic Ayomanor": [
+    "Active",
+    "2026-11-22T16:46Z",
+    "2026-11-16T02:17Z"
+   ],
+   "Elijah Mitchell": [
+    "Active",
+    "2026-11-22T16:46Z",
+    "2026-11-10T04:53Z"
    ],
    "Elijah Sarratt": [
     "Active",
@@ -1693,20 +1682,35 @@
     "2026-11-22T16:42Z",
     "2026-11-16T19:22Z"
    ],
+   "Jake Elliott": [
+    "Active",
+    "2026-11-22T16:46Z",
+    "2026-11-10T02:57Z"
+   ],
    "Josh Allen": [
     "Active",
     "2026-11-22T16:39Z",
     "2026-11-15T22:00Z"
+   ],
+   "Justin Joly": [
+    "Active",
+    "2026-11-22T16:46Z",
+    "2026-11-16T19:26Z"
+   ],
+   "Kaytron Allen": [
+    "Active",
+    "2026-11-22T16:46Z",
+    "2026-11-17T01:46Z"
    ],
    "Kedon Slovis": [
     "Active",
     "2026-11-22T16:34Z",
     "2026-11-17T12:17Z"
    ],
-   "Zach Wilson": [
+   "Nicholas Singleton": [
     "Active",
-    "2026-11-22T16:44Z",
-    "2026-11-16T19:32Z"
+    "2026-11-22T16:46Z",
+    "2026-11-16T20:09Z"
    ],
    "Zavier Scott": [
     "Injured Reserve",
