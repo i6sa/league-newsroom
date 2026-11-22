@@ -33,10 +33,6 @@
     "Active",
     "2026-11-20T17:13Z"
    ],
-   "Alec Pierce": [
-    "Injured Reserve",
-    "2026-11-22T12:52Z"
-   ],
    "Alvin Kamara": [
     "Active",
     "2026-11-16T01:43Z"
@@ -1694,7 +1690,13 @@
     "2026-11-22T00:19Z"
    ]
   },
-  "injuries_gone": {},
+  "injuries_gone": {
+   "Alec Pierce": [
+    "Injured Reserve",
+    "2026-11-22T13:03Z",
+    "2026-11-22T12:52Z"
+   ]
+  },
   "news": [
    "50425853",
    "50427398",
