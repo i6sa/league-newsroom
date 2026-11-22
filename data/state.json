@@ -417,6 +417,10 @@
     "Active",
     "2026-11-16T01:18Z"
    ],
+   "Derrick Henry": [
+    "Questionable",
+    "2026-11-22T21:02Z"
+   ],
    "Deshaun Watson": [
     "Active",
     "2026-11-16T00:06Z"
@@ -1497,10 +1501,6 @@
     "Active",
     "2026-11-22T16:49Z"
    ],
-   "Zay Flowers": [
-    "Active",
-    "2026-11-17T05:20Z"
-   ],
    "Zay Jones": [
     "Active",
     "2026-11-22T00:19Z"
@@ -1571,11 +1571,6 @@
     "Active",
     "2026-11-22T20:10Z",
     "2026-11-09T21:04Z"
-   ],
-   "Derrick Henry": [
-    "Active",
-    "2026-11-22T20:20Z",
-    "2026-11-17T05:01Z"
    ],
    "Dont'e Thornton Jr.": [
     "Active",
@@ -1746,6 +1741,11 @@
     "Injured Reserve",
     "2026-11-22T16:45Z",
     "2026-11-05T21:19Z"
+   ],
+   "Zay Flowers": [
+    "Active",
+    "2026-11-22T21:04Z",
+    "2026-11-17T05:20Z"
    ]
   },
   "news": [
