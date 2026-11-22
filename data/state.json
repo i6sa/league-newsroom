@@ -9,10 +9,6 @@
     "Active",
     "2026-11-16T05:29Z"
    ],
-   "AJ Dillon": [
-    "Active",
-    "2026-11-16T18:55Z"
-   ],
    "Aaron Jones Sr.": [
     "Active",
     "2026-11-16T00:29Z"
@@ -509,6 +505,10 @@
     "Active",
     "2026-11-16T04:43Z"
    ],
+   "Easton Stick": [
+    "Active",
+    "2026-11-16T21:22Z"
+   ],
    "Eddy Pineiro": [
     "Active",
     "2026-11-17T03:37Z"
@@ -605,10 +605,6 @@
     "Active",
     "2026-11-18T14:52Z"
    ],
-   "Haynes King": [
-    "Active",
-    "2026-11-16T18:55Z"
-   ],
    "Hunter Henry": [
     "Active",
     "2026-11-15T19:21Z"
@@ -660,10 +656,6 @@
    "Ja'Marr Chase": [
     "Active",
     "2026-11-16T04:47Z"
-   ],
-   "Ja'Tavion Sanders": [
-    "Active",
-    "2026-11-16T18:55Z"
    ],
    "Jack Bech": [
     "Active",
@@ -1541,10 +1533,6 @@
     "Active",
     "2026-11-10T02:43Z"
    ],
-   "Will Howard": [
-    "Active",
-    "2026-11-16T00:20Z"
-   ],
    "Will Mallory": [
     "Out",
     "2026-11-19T23:48Z"
@@ -1607,6 +1595,11 @@
    ]
   },
   "injuries_gone": {
+   "AJ Dillon": [
+    "Active",
+    "2026-11-22T16:53Z",
+    "2026-11-16T18:55Z"
+   ],
    "Adam Randall": [
     "Active",
     "2026-11-22T16:34Z",
@@ -1647,11 +1640,6 @@
     "2026-11-22T16:47Z",
     "2026-11-16T19:36Z"
    ],
-   "Easton Stick": [
-    "Active",
-    "2026-11-22T16:52Z",
-    "2026-11-16T21:22Z"
-   ],
    "Eli Heidenreich": [
     "Active",
     "2026-11-22T16:47Z",
@@ -1682,6 +1670,16 @@
     "2026-11-22T16:42Z",
     "2026-11-16T19:22Z"
    ],
+   "Haynes King": [
+    "Active",
+    "2026-11-22T16:53Z",
+    "2026-11-16T18:55Z"
+   ],
+   "Ja'Tavion Sanders": [
+    "Active",
+    "2026-11-22T16:53Z",
+    "2026-11-16T18:55Z"
+   ],
    "Jake Elliott": [
     "Active",
     "2026-11-22T16:46Z",
@@ -1711,6 +1709,11 @@
     "Active",
     "2026-11-22T16:46Z",
     "2026-11-16T20:09Z"
+   ],
+   "Will Howard": [
+    "Active",
+    "2026-11-22T16:53Z",
+    "2026-11-16T00:20Z"
    ],
    "Zach Wilson": [
     "Active",
