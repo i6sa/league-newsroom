@@ -113,10 +113,6 @@
     "Questionable",
     "2026-11-22T21:38Z"
    ],
-   "Brady Cook": [
-    "Active",
-    "2026-11-18T00:30Z"
-   ],
    "Braelon Allen": [
     "Active",
     "2026-11-16T00:54Z"
@@ -806,8 +802,8 @@
     "2026-11-23T00:00Z"
    ],
    "Jordan James": [
-    "Questionable",
-    "2026-11-21T00:45Z"
+    "Active",
+    "2026-11-23T00:02Z"
    ],
    "Jordan Love": [
     "Active",
@@ -937,6 +933,10 @@
     "Active",
     "2026-11-20T23:18Z"
    ],
+   "Kyle McCord": [
+    "Active",
+    "2026-11-22T23:57Z"
+   ],
    "Kyle Monangai": [
     "Active",
     "2026-11-22T22:15Z"
@@ -994,8 +994,8 @@
     "2026-11-22T22:24Z"
    ],
    "Mac Jones": [
-    "Questionable",
-    "2026-11-21T00:40Z"
+    "Active",
+    "2026-11-23T00:02Z"
    ],
    "Mack Hollins": [
     "Active",
@@ -1510,6 +1510,11 @@
     "Active",
     "2026-11-22T20:10Z",
     "2026-11-08T23:47Z"
+   ],
+   "Brady Cook": [
+    "Active",
+    "2026-11-23T00:18Z",
+    "2026-11-18T00:30Z"
    ],
    "Brenton Strange": [
     "Active",
