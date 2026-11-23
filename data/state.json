@@ -485,10 +485,6 @@
     "Active",
     "2026-11-23T01:51Z"
    ],
-   "Devin Duvernay": [
-    "Active",
-    "2026-11-18T01:32Z"
-   ],
    "Dillon Gabriel": [
     "Active",
     "2026-11-16T19:07Z"
@@ -552,10 +548,6 @@
    "Eli Raridon": [
     "Active",
     "2026-11-17T04:43Z"
-   ],
-   "Elijah Higgins": [
-    "Active",
-    "2026-11-18T01:38Z"
    ],
    "Elijah Sarratt": [
     "Active",
@@ -660,6 +652,10 @@
    "Hunter Henry": [
     "Active",
     "2026-11-15T19:21Z"
+   ],
+   "Hunter Long": [
+    "Active",
+    "2026-11-23T16:29Z"
    ],
    "Ian Thomas": [
     "Active",
@@ -1457,6 +1453,10 @@
     "Active",
     "2026-11-16T19:07Z"
    ],
+   "Teagan Quitoriano": [
+    "Active",
+    "2026-11-23T16:31Z"
+   ],
    "Ted Hurst III": [
     "Active",
     "2026-11-23T01:22Z"
@@ -1668,10 +1668,20 @@
     "2026-11-23T13:50Z",
     "2026-11-18T20:26Z"
    ],
+   "Devin Duvernay": [
+    "Active",
+    "2026-11-23T16:45Z",
+    "2026-11-18T01:32Z"
+   ],
    "Eddy Pineiro": [
     "Active",
     "2026-11-23T05:03Z",
     "2026-11-17T03:37Z"
+   ],
+   "Elijah Higgins": [
+    "Active",
+    "2026-11-23T16:45Z",
+    "2026-11-18T01:38Z"
    ],
    "Elijah Moore": [
     "Active",
