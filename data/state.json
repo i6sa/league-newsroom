@@ -493,10 +493,6 @@
     "Active",
     "2026-11-23T05:12Z"
    ],
-   "Dont'e Thornton Jr.": [
-    "Out",
-    "2026-11-22T20:12Z"
-   ],
    "Dontayvion Wicks": [
     "Injured Reserve",
     "2026-11-21T21:09Z"
@@ -833,10 +829,6 @@
     "Active",
     "2026-11-22T23:10Z"
    ],
-   "Jelani Woods": [
-    "Active",
-    "2026-11-23T15:45Z"
-   ],
    "Jerry Jeudy": [
     "Active",
     "2026-11-16T01:53Z"
@@ -972,6 +964,10 @@
    "Kayshon Boutte": [
     "Questionable",
     "2026-11-20T16:18Z"
+   ],
+   "KeAndre Lambert-Smith": [
+    "Active",
+    "2026-11-22T19:46Z"
    ],
    "Keaton Mitchell": [
     "Questionable",
@@ -1144,6 +1140,10 @@
    "Matthew Golden": [
     "Active",
     "2026-11-16T00:50Z"
+   ],
+   "Max Brosmer": [
+    "Active",
+    "2026-11-23T15:41Z"
    ],
    "Max Hurleman": [
     "Active",
@@ -1617,6 +1617,11 @@
     "2026-11-23T13:50Z",
     "2026-11-18T20:26Z"
    ],
+   "Dont'e Thornton Jr.": [
+    "Out",
+    "2026-11-23T15:49Z",
+    "2026-11-22T20:12Z"
+   ],
    "Eddy Pineiro": [
     "Active",
     "2026-11-23T05:03Z",
@@ -1632,6 +1637,11 @@
     "2026-11-23T05:15Z",
     "2026-11-18T02:48Z"
    ],
+   "Jelani Woods": [
+    "Active",
+    "2026-11-23T15:49Z",
+    "2026-11-23T15:45Z"
+   ],
    "Jordan Watkins": [
     "Active",
     "2026-11-23T05:03Z",
@@ -1646,11 +1656,6 @@
     "Active",
     "2026-11-23T04:12Z",
     "2026-11-16T15:58Z"
-   ],
-   "Max Brosmer": [
-    "Active",
-    "2026-11-23T15:48Z",
-    "2026-11-23T15:41Z"
    ],
    "Wan'Dale Robinson": [
     "Injured Reserve",
