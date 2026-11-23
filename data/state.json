@@ -197,6 +197,10 @@
     "Active",
     "2026-11-22T22:20Z"
    ],
+   "Calvin Ridley": [
+    "Active",
+    "2026-11-23T01:41Z"
+   ],
    "Cam Little": [
     "Active",
     "2026-11-17T02:34Z"
@@ -333,6 +337,10 @@
     "Active",
     "2026-11-22T22:05Z"
    ],
+   "Dallas Goedert": [
+    "Active",
+    "2026-11-23T01:39Z"
+   ],
    "Dalton Kincaid": [
     "Out",
     "2026-11-22T16:34Z"
@@ -348,10 +356,6 @@
    "Dareke Young": [
     "Questionable",
     "2026-11-22T22:53Z"
-   ],
-   "Darius Cooper": [
-    "Active",
-    "2026-11-11T01:14Z"
    ],
    "Darnell Mooney": [
     "Active",
@@ -767,7 +771,7 @@
    ],
    "Joe Milton": [
     "Active",
-    "2026-11-18T17:33Z"
+    "2026-11-23T01:37Z"
    ],
    "John Metchie III": [
     "Active",
@@ -1003,7 +1007,7 @@
    ],
    "Makai Lemon": [
     "Active",
-    "2026-11-20T23:24Z"
+    "2026-11-23T01:41Z"
    ],
    "Malachi Corley": [
     "Active",
@@ -1453,10 +1457,6 @@
     "Active",
     "2026-11-18T02:46Z"
    ],
-   "Xavier Restrepo": [
-    "Active",
-    "2026-11-18T15:25Z"
-   ],
    "Xavier Worthy": [
     "Active",
     "2026-11-16T00:50Z"
@@ -1527,11 +1527,6 @@
     "2026-11-22T20:07Z",
     "2026-11-16T19:22Z"
    ],
-   "Calvin Ridley": [
-    "Active",
-    "2026-11-22T20:01Z",
-    "2026-11-17T01:37Z"
-   ],
    "Case Keenum": [
     "Active",
     "2026-11-22T16:45Z",
@@ -1552,11 +1547,6 @@
     "2026-11-23T00:57Z",
     "2026-11-09T05:30Z"
    ],
-   "Dallas Goedert": [
-    "Active",
-    "2026-11-22T16:46Z",
-    "2026-11-09T00:28Z"
-   ],
    "Dallen Bentley": [
     "Active",
     "2026-11-22T20:10Z",
@@ -1566,6 +1556,11 @@
     "Active",
     "2026-11-22T22:47Z",
     "2026-11-17T05:09Z"
+   ],
+   "Darius Cooper": [
+    "Active",
+    "2026-11-23T01:47Z",
+    "2026-11-11T01:14Z"
    ],
    "Demarcus Robinson": [
     "Active",
@@ -1781,6 +1776,11 @@
     "Active",
     "2026-11-22T16:53Z",
     "2026-11-16T00:20Z"
+   ],
+   "Xavier Restrepo": [
+    "Active",
+    "2026-11-23T01:47Z",
+    "2026-11-18T15:25Z"
    ],
    "Zach Wilson": [
     "Active",
