@@ -161,6 +161,10 @@
     "Out",
     "2026-11-23T01:15Z"
    ],
+   "Brock Purdy": [
+    "Active",
+    "2026-11-23T04:52Z"
+   ],
    "Brock Wright": [
     "Active",
     "2026-11-18T02:51Z"
@@ -425,6 +429,10 @@
     "Active",
     "2026-11-22T22:23Z"
    ],
+   "Deebo Samuel Sr.": [
+    "Active",
+    "2026-11-23T05:01Z"
+   ],
    "Deion Burks": [
     "Active",
     "2026-11-21T01:48Z"
@@ -488,10 +496,6 @@
    "Dylan Sampson": [
     "Active",
     "2026-11-16T04:43Z"
-   ],
-   "Eddy Pineiro": [
-    "Active",
-    "2026-11-17T03:37Z"
    ],
    "Efton Chism III": [
     "Active",
@@ -560,6 +564,10 @@
    "George Holani": [
     "Questionable",
     "2026-11-16T20:56Z"
+   ],
+   "George Kittle": [
+    "Active",
+    "2026-11-23T04:53Z"
    ],
    "George Pickens": [
     "Active",
@@ -648,10 +656,6 @@
    "Jackson Hawes": [
     "Active",
     "2026-11-22T16:58Z"
-   ],
-   "Jacob Cowing": [
-    "Active",
-    "2026-11-18T02:48Z"
    ],
    "Jacob Saylors": [
     "Active",
@@ -840,10 +844,6 @@
    "Jordan Mason": [
     "Active",
     "2026-11-16T00:27Z"
-   ],
-   "Jordan Watkins": [
-    "Active",
-    "2026-11-17T05:21Z"
    ],
    "Jordyn Tyson": [
     "Active",
@@ -1579,10 +1579,20 @@
     "2026-11-23T00:41Z",
     "2026-11-16T15:51Z"
    ],
+   "Eddy Pineiro": [
+    "Active",
+    "2026-11-23T05:03Z",
+    "2026-11-17T03:37Z"
+   ],
    "Ja'Kobi Lane": [
     "Active",
     "2026-11-23T00:20Z",
     "2026-11-17T06:03Z"
+   ],
+   "Jacob Cowing": [
+    "Active",
+    "2026-11-23T05:03Z",
+    "2026-11-18T02:48Z"
    ],
    "Jalen McMillan": [
     "Injured Reserve",
@@ -1603,6 +1613,11 @@
     "Active",
     "2026-11-22T20:47Z",
     "2026-11-17T02:44Z"
+   ],
+   "Jordan Watkins": [
+    "Active",
+    "2026-11-23T05:03Z",
+    "2026-11-17T05:21Z"
    ],
    "Josh Cameron": [
     "Active",
