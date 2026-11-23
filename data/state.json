@@ -577,6 +577,10 @@
     "Active",
     "2026-11-17T03:50Z"
    ],
+   "Feleipe Franks": [
+    "Active",
+    "2026-11-23T16:47Z"
+   ],
    "Fernando Mendoza": [
     "Active",
     "2026-11-23T02:09Z"
@@ -1369,10 +1373,6 @@
     "Questionable",
     "2026-11-22T19:58Z"
    ],
-   "Ryan Fitzgerald": [
-    "Active",
-    "2026-11-17T03:15Z"
-   ],
    "Ryan Flournoy": [
     "Active",
     "2026-11-23T04:09Z"
@@ -1436,6 +1436,10 @@
    "Stefon Diggs": [
     "Active",
     "2026-11-13T05:01Z"
+   ],
+   "Stephen Carlson": [
+    "Active",
+    "2026-11-23T16:56Z"
    ],
    "Sterling Shepard": [
     "Active",
@@ -1699,6 +1703,11 @@
     "Active",
     "2026-11-23T05:15Z",
     "2026-11-18T02:48Z"
+   ],
+   "Ryan Fitzgerald": [
+    "Active",
+    "2026-11-23T17:05Z",
+    "2026-11-17T03:15Z"
    ]
   },
   "news": [
@@ -1931,7 +1940,8 @@
    "50569390",
    "50569582",
    "50569797",
-   "50571034"
+   "50571034",
+   "50573989"
   ],
   "trades": [
    "2026-08-24:Deion Jones-Zamir White",
