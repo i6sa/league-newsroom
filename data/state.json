@@ -10,8 +10,8 @@
     "2026-11-16T05:29Z"
    ],
    "AJ Dillon": [
-    "Out",
-    "2026-11-22T16:46Z"
+    "Active",
+    "2026-11-23T15:21Z"
    ],
    "Aaron Jones Sr.": [
     "Active",
@@ -715,7 +715,7 @@
    ],
    "Jake Ferguson": [
     "Out",
-    "2026-11-22T16:31Z"
+    "2026-11-23T15:26Z"
    ],
    "Jake Moody": [
     "Active",
@@ -847,7 +847,7 @@
    ],
    "Jonathan Mingo": [
     "Out",
-    "2026-11-22T16:31Z"
+    "2026-11-23T15:26Z"
    ],
    "Jonathan Taylor": [
     "Active",
@@ -1257,6 +1257,10 @@
     "Active",
     "2026-11-22T23:11Z"
    ],
+   "Riley Leonard": [
+    "Active",
+    "2026-11-23T15:33Z"
+   ],
    "Riley Patterson": [
     "Active",
     "2026-11-18T01:56Z"
@@ -1292,10 +1296,6 @@
    "Sam Darnold": [
     "Out",
     "2026-11-16T18:03Z"
-   ],
-   "Sam Ehlinger": [
-    "Active",
-    "2026-11-22T20:12Z"
    ],
    "Sam LaPorta": [
     "Active",
@@ -1511,7 +1511,7 @@
    ],
    "Will Mallory": [
     "Out",
-    "2026-11-19T23:48Z"
+    "2026-11-23T15:33Z"
    ],
    "Will Reichard": [
     "Active",
@@ -1606,6 +1606,11 @@
     "Active",
     "2026-11-23T04:12Z",
     "2026-11-16T15:58Z"
+   ],
+   "Sam Ehlinger": [
+    "Active",
+    "2026-11-23T15:35Z",
+    "2026-11-22T20:12Z"
    ],
    "Wan'Dale Robinson": [
     "Injured Reserve",
