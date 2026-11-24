@@ -409,6 +409,10 @@
     "Questionable",
     "2026-11-22T22:53Z"
    ],
+   "Darius Cooper": [
+    "Active",
+    "2026-11-24T01:32Z"
+   ],
    "Darnell Washington": [
     "Active",
     "2026-11-23T04:38Z"
@@ -1649,10 +1653,6 @@
     "Active",
     "2026-11-16T01:48Z"
    ],
-   "Zach Ertz": [
-    "Active",
-    "2026-11-16T18:31Z"
-   ],
    "Zach Wilson": [
     "Active",
     "2026-11-22T16:48Z"
@@ -1704,11 +1704,6 @@
     "Active",
     "2026-11-24T01:14Z",
     "2026-11-22T05:01Z"
-   ],
-   "Darius Cooper": [
-    "Active",
-    "2026-11-24T01:44Z",
-    "2026-11-24T01:32Z"
    ],
    "De'Zhaun Stribling": [
     "Injured Reserve",
@@ -1784,6 +1779,11 @@
     "Active",
     "2026-11-23T23:15Z",
     "2026-11-18T02:27Z"
+   ],
+   "Zach Ertz": [
+    "Active",
+    "2026-11-24T01:47Z",
+    "2026-11-16T18:31Z"
    ]
   },
   "news": [
