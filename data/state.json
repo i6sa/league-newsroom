@@ -281,10 +281,6 @@
     "Active",
     "2026-11-22T22:11Z"
    ],
-   "Chad Ryland": [
-    "Active",
-    "2026-11-24T00:40Z"
-   ],
    "Charlie Kolar": [
     "Active",
     "2026-11-22T19:44Z"
@@ -292,10 +288,6 @@
    "Charlie Smyth": [
     "Active",
     "2026-11-23T19:17Z"
-   ],
-   "Chase McLaughlin": [
-    "Active",
-    "2026-11-24T00:37Z"
    ],
    "Chig Okonkwo": [
     "Active",
@@ -541,6 +533,10 @@
     "Active",
     "2026-11-22T17:15Z"
    ],
+   "Eddy Pineiro": [
+    "Active",
+    "2026-11-24T00:33Z"
+   ],
    "Efton Chism III": [
     "Active",
     "2026-11-18T02:02Z"
@@ -592,6 +588,10 @@
    "Foster Moreau": [
     "Active",
     "2026-11-21T01:48Z"
+   ],
+   "Gardner Minshew II": [
+    "Injured Reserve",
+    "2026-11-18T04:40Z"
    ],
    "Garrett Nussmeier": [
     "Active",
@@ -992,6 +992,10 @@
    "Kalif Raymond": [
     "Active",
     "2026-11-11T01:16Z"
+   ],
+   "Kameron Johnson": [
+    "Active",
+    "2026-11-11T15:26Z"
    ],
    "Kayshon Boutte": [
     "Questionable",
@@ -1406,7 +1410,7 @@
     "2026-11-22T20:12Z"
    ],
    "Sam LaPorta": [
-    "Active",
+    "Questionable",
     "2026-11-23T00:45Z"
    ],
    "Sam Roush": [
@@ -1692,10 +1696,20 @@
     "2026-11-24T00:02Z",
     "2026-11-16T20:11Z"
    ],
+   "Chad Ryland": [
+    "Active",
+    "2026-11-24T00:48Z",
+    "2026-11-24T00:40Z"
+   ],
    "Chase Brown": [
     "Active",
     "2026-11-23T23:59Z",
     "2026-11-16T04:51Z"
+   ],
+   "Chase McLaughlin": [
+    "Active",
+    "2026-11-24T00:48Z",
+    "2026-11-24T00:37Z"
    ],
    "Christian Kirk": [
     "Injured Reserve",
@@ -1712,20 +1726,10 @@
     "2026-11-23T16:45Z",
     "2026-11-18T01:32Z"
    ],
-   "Eddy Pineiro": [
-    "Active",
-    "2026-11-24T00:44Z",
-    "2026-11-24T00:33Z"
-   ],
    "Elijah Higgins": [
     "Active",
     "2026-11-23T16:45Z",
     "2026-11-18T01:38Z"
-   ],
-   "Gardner Minshew II": [
-    "Injured Reserve",
-    "2026-11-24T00:46Z",
-    "2026-11-18T04:40Z"
    ],
    "Ja'Marr Chase": [
     "Active",
@@ -1736,11 +1740,6 @@
     "Active",
     "2026-11-24T00:38Z",
     "2026-11-18T02:34Z"
-   ],
-   "Kameron Johnson": [
-    "Active",
-    "2026-11-24T00:47Z",
-    "2026-11-11T15:26Z"
    ],
    "Marvin Mims Jr.": [
     "Active",
