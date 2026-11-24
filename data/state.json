@@ -117,10 +117,6 @@
     "Active",
     "2026-11-14T00:34Z"
    ],
-   "Ben Yurosek": [
-    "Active",
-    "2026-11-24T16:53Z"
-   ],
    "Bhayshul Tuten": [
     "Questionable",
     "2026-11-23T19:28Z"
@@ -268,6 +264,10 @@
    "Carson Beck": [
     "Questionable",
     "2026-11-24T12:39Z"
+   ],
+   "Carson Wentz": [
+    "Active",
+    "2026-11-13T22:03Z"
    ],
    "Case Keenum": [
     "Active",
@@ -1775,10 +1775,10 @@
    ]
   },
   "injuries_gone": {
-   "Carson Wentz": [
+   "Ben Yurosek": [
     "Active",
-    "2026-11-24T17:01Z",
-    "2026-11-13T22:03Z"
+    "2026-11-24T17:02Z",
+    "2026-11-24T16:53Z"
    ],
    "Kedon Slovis": [
     "Active",
