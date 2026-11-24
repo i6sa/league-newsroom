@@ -337,6 +337,10 @@
     "Active",
     "2026-11-23T00:39Z"
    ],
+   "Cody Schrader": [
+    "Active",
+    "2026-11-22T05:01Z"
+   ],
    "Colby Parkinson": [
     "Active",
     "2026-11-17T02:29Z"
@@ -1165,10 +1169,6 @@
     "Out",
     "2026-11-23T15:31Z"
    ],
-   "Marvin Mims Jr.": [
-    "Active",
-    "2026-11-11T02:45Z"
-   ],
    "Mason Taylor": [
     "Active",
     "2026-11-23T04:48Z"
@@ -1241,13 +1241,13 @@
     "Active",
     "2026-11-23T17:49Z"
    ],
-   "Nate Carter": [
-    "Active",
-    "2026-11-22T00:33Z"
-   ],
    "Nicholas Singleton": [
     "Active",
     "2026-11-22T16:55Z"
+   ],
+   "Nick Vannett": [
+    "Active",
+    "2026-11-22T00:10Z"
    ],
    "Nico Collins": [
     "Active",
@@ -1703,11 +1703,6 @@
     "2026-11-23T19:21Z",
     "2026-11-19T15:22Z"
    ],
-   "Cody Schrader": [
-    "Active",
-    "2026-11-24T01:04Z",
-    "2026-11-22T05:01Z"
-   ],
    "De'Zhaun Stribling": [
     "Injured Reserve",
     "2026-11-23T13:50Z",
@@ -1748,10 +1743,15 @@
     "2026-11-24T00:49Z",
     "2026-11-11T15:26Z"
    ],
-   "Nick Vannett": [
+   "Marvin Mims Jr.": [
     "Active",
-    "2026-11-24T01:04Z",
-    "2026-11-22T00:10Z"
+    "2026-11-24T01:05Z",
+    "2026-11-11T02:45Z"
+   ],
+   "Nate Carter": [
+    "Active",
+    "2026-11-24T01:05Z",
+    "2026-11-22T00:33Z"
    ],
    "Tez Johnson": [
     "Active",
