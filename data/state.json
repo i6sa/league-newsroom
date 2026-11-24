@@ -281,6 +281,10 @@
     "Active",
     "2026-11-22T22:11Z"
    ],
+   "Chad Ryland": [
+    "Active",
+    "2026-11-24T00:40Z"
+   ],
    "Charlie Kolar": [
     "Active",
     "2026-11-22T19:44Z"
@@ -584,10 +588,6 @@
    "Foster Moreau": [
     "Active",
     "2026-11-21T01:48Z"
-   ],
-   "Gardner Minshew II": [
-    "Injured Reserve",
-    "2026-11-18T04:40Z"
    ],
    "Garrett Nussmeier": [
     "Active",
@@ -1169,17 +1169,13 @@
     "Out",
     "2026-11-23T15:31Z"
    ],
-   "Marvin Mims Jr.": [
-    "Active",
-    "2026-11-11T02:45Z"
-   ],
    "Mason Taylor": [
     "Active",
     "2026-11-23T04:48Z"
    ],
    "Matt Gay": [
     "Active",
-    "2026-11-22T20:01Z"
+    "2026-11-24T00:32Z"
    ],
    "Matt Hibner": [
     "Active",
@@ -1621,6 +1617,10 @@
     "Injured Reserve",
     "2026-11-18T20:16Z"
    ],
+   "Wil Lutz": [
+    "Active",
+    "2026-11-24T00:29Z"
+   ],
    "Will Howard": [
     "Active",
     "2026-11-22T16:51Z"
@@ -1722,6 +1722,11 @@
     "2026-11-23T16:45Z",
     "2026-11-18T01:38Z"
    ],
+   "Gardner Minshew II": [
+    "Injured Reserve",
+    "2026-11-24T00:46Z",
+    "2026-11-18T04:40Z"
+   ],
    "Ja'Marr Chase": [
     "Active",
     "2026-11-23T21:29Z",
@@ -1731,6 +1736,11 @@
     "Active",
     "2026-11-24T00:38Z",
     "2026-11-18T02:34Z"
+   ],
+   "Marvin Mims Jr.": [
+    "Active",
+    "2026-11-24T00:46Z",
+    "2026-11-11T02:45Z"
    ],
    "Tez Johnson": [
     "Active",
@@ -1751,11 +1761,6 @@
     "Active",
     "2026-11-23T23:15Z",
     "2026-11-18T02:27Z"
-   ],
-   "Wil Lutz": [
-    "Active",
-    "2026-11-24T00:44Z",
-    "2026-11-24T00:29Z"
    ]
   },
   "news": [
