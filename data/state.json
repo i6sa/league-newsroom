@@ -417,10 +417,6 @@
     "Active",
     "2026-11-24T01:32Z"
    ],
-   "Darnell Mooney": [
-    "Active",
-    "2026-11-24T02:30Z"
-   ],
    "Darnell Washington": [
     "Active",
     "2026-11-23T04:38Z"
@@ -484,6 +480,10 @@
    "Devaughn Vele": [
     "Active",
     "2026-11-23T01:51Z"
+   ],
+   "Devontez Walker": [
+    "Active",
+    "2026-11-24T02:23Z"
    ],
    "Dillon Gabriel": [
     "Active",
@@ -676,6 +676,10 @@
    "Ian Thomas": [
     "Active",
     "2026-11-20T22:00Z"
+   ],
+   "Isaac Guerendo": [
+    "Out",
+    "2026-11-20T00:28Z"
    ],
    "Isaac TeSlaa": [
     "Active",
@@ -924,10 +928,6 @@
    "Jordan Mason": [
     "Active",
     "2026-11-23T05:02Z"
-   ],
-   "Jordan Watkins": [
-    "Active",
-    "2026-11-24T02:22Z"
    ],
    "Jordyn Tyson": [
     "Active",
@@ -1728,25 +1728,20 @@
     "2026-11-24T01:14Z",
     "2026-11-22T05:01Z"
    ],
+   "Darnell Mooney": [
+    "Active",
+    "2026-11-24T02:39Z",
+    "2026-11-24T02:30Z"
+   ],
    "Devin Duvernay": [
     "Active",
     "2026-11-23T16:45Z",
     "2026-11-18T01:32Z"
    ],
-   "Devontez Walker": [
-    "Active",
-    "2026-11-24T02:38Z",
-    "2026-11-24T02:23Z"
-   ],
    "Gardner Minshew II": [
     "Injured Reserve",
     "2026-11-24T00:49Z",
     "2026-11-18T04:40Z"
-   ],
-   "Isaac Guerendo": [
-    "Out",
-    "2026-11-24T02:38Z",
-    "2026-11-20T00:28Z"
    ],
    "Ja'Marr Chase": [
     "Active",
@@ -1762,6 +1757,11 @@
     "Active",
     "2026-11-24T00:38Z",
     "2026-11-18T02:34Z"
+   ],
+   "Jordan Watkins": [
+    "Active",
+    "2026-11-24T02:39Z",
+    "2026-11-24T02:22Z"
    ],
    "Kameron Johnson": [
     "Active",
