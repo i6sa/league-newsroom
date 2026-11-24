@@ -255,7 +255,7 @@
    ],
    "Cameron Dicker": [
     "Active",
-    "2026-11-18T01:55Z"
+    "2026-11-24T00:22Z"
    ],
    "Carnell Tate": [
     "Active",
@@ -739,7 +739,7 @@
    ],
    "Jake Bates": [
     "Active",
-    "2026-11-15T19:35Z"
+    "2026-11-24T00:26Z"
    ],
    "Jake Briningstool": [
     "Active",
@@ -1172,6 +1172,10 @@
    "Marvin Harrison Jr.": [
     "Out",
     "2026-11-23T15:31Z"
+   ],
+   "Marvin Mims Jr.": [
+    "Active",
+    "2026-11-11T02:45Z"
    ],
    "Mason Taylor": [
     "Active",
@@ -1617,10 +1621,6 @@
     "Injured Reserve",
     "2026-11-18T20:16Z"
    ],
-   "Wil Lutz": [
-    "Active",
-    "2026-11-24T00:29Z"
-   ],
    "Will Howard": [
     "Active",
     "2026-11-22T16:51Z"
@@ -1722,11 +1722,6 @@
     "2026-11-23T21:29Z",
     "2026-11-16T04:47Z"
    ],
-   "Marvin Mims Jr.": [
-    "Active",
-    "2026-11-24T00:35Z",
-    "2026-11-11T02:45Z"
-   ],
    "Ryan Fitzgerald": [
     "Active",
     "2026-11-23T17:05Z",
@@ -1751,6 +1746,11 @@
     "Active",
     "2026-11-23T23:15Z",
     "2026-11-18T02:27Z"
+   ],
+   "Wil Lutz": [
+    "Active",
+    "2026-11-24T00:37Z",
+    "2026-11-24T00:29Z"
    ]
   },
   "news": [
