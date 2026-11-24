@@ -533,10 +533,6 @@
     "Active",
     "2026-11-22T17:15Z"
    ],
-   "Eddy Pineiro": [
-    "Active",
-    "2026-11-24T00:33Z"
-   ],
    "Efton Chism III": [
     "Active",
     "2026-11-18T02:02Z"
@@ -1173,6 +1169,10 @@
     "Out",
     "2026-11-23T15:31Z"
    ],
+   "Marvin Mims Jr.": [
+    "Active",
+    "2026-11-11T02:45Z"
+   ],
    "Mason Taylor": [
     "Active",
     "2026-11-23T04:48Z"
@@ -1367,7 +1367,7 @@
    ],
    "Riley Patterson": [
     "Active",
-    "2026-11-18T01:56Z"
+    "2026-11-24T00:33Z"
    ],
    "Roman Wilson": [
     "Active",
@@ -1621,10 +1621,6 @@
     "Injured Reserve",
     "2026-11-18T20:16Z"
    ],
-   "Wil Lutz": [
-    "Active",
-    "2026-11-24T00:29Z"
-   ],
    "Will Howard": [
     "Active",
     "2026-11-22T16:51Z"
@@ -1716,6 +1712,11 @@
     "2026-11-23T16:45Z",
     "2026-11-18T01:32Z"
    ],
+   "Eddy Pineiro": [
+    "Active",
+    "2026-11-24T00:40Z",
+    "2026-11-24T00:33Z"
+   ],
    "Elijah Higgins": [
     "Active",
     "2026-11-23T16:45Z",
@@ -1730,11 +1731,6 @@
     "Active",
     "2026-11-24T00:38Z",
     "2026-11-18T02:34Z"
-   ],
-   "Marvin Mims Jr.": [
-    "Active",
-    "2026-11-24T00:39Z",
-    "2026-11-11T02:45Z"
    ],
    "Tez Johnson": [
     "Active",
@@ -1755,6 +1751,11 @@
     "Active",
     "2026-11-23T23:15Z",
     "2026-11-18T02:27Z"
+   ],
+   "Wil Lutz": [
+    "Active",
+    "2026-11-24T00:40Z",
+    "2026-11-24T00:29Z"
    ]
   },
   "news": [
