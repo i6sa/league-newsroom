@@ -367,7 +367,7 @@
    ],
    "Cyrus Allen": [
     "Active",
-    "2026-11-16T02:45Z"
+    "2026-11-24T02:04Z"
    ],
    "D'Andre Swift": [
     "Active",
@@ -556,10 +556,6 @@
    "Elic Ayomanor": [
     "Active",
     "2026-11-24T00:39Z"
-   ],
-   "Elijah Higgins": [
-    "Active",
-    "2026-11-24T02:16Z"
    ],
    "Elijah Sarratt": [
     "Active",
@@ -792,6 +788,10 @@
    "Jameis Winston": [
     "Active",
     "2026-11-18T16:31Z"
+   ],
+   "James Conner": [
+    "Injured Reserve",
+    "2026-11-18T21:40Z"
    ],
    "James Cook III": [
     "Active",
@@ -1429,10 +1429,6 @@
     "Out",
     "2026-11-23T20:02Z"
    ],
-   "Simi Fehoko": [
-    "Active",
-    "2026-11-24T02:13Z"
-   ],
    "Sione Vaki": [
     "Active",
     "2026-11-24T01:26Z"
@@ -1508,6 +1504,10 @@
    "Tetairoa McMillan": [
     "Active",
     "2026-11-23T00:51Z"
+   ],
+   "Theo Johnson": [
+    "Active",
+    "2026-11-24T02:09Z"
    ],
    "Thomas Fidone II": [
     "Active",
@@ -1717,6 +1717,11 @@
     "2026-11-23T16:45Z",
     "2026-11-18T01:32Z"
    ],
+   "Elijah Higgins": [
+    "Active",
+    "2026-11-24T02:21Z",
+    "2026-11-24T02:16Z"
+   ],
    "Gardner Minshew II": [
     "Injured Reserve",
     "2026-11-24T00:49Z",
@@ -1726,11 +1731,6 @@
     "Active",
     "2026-11-23T21:29Z",
     "2026-11-16T04:47Z"
-   ],
-   "James Conner": [
-    "Injured Reserve",
-    "2026-11-24T02:20Z",
-    "2026-11-18T21:40Z"
    ],
    "John Metchie III": [
     "Active",
@@ -1762,15 +1762,15 @@
     "2026-11-24T01:24Z",
     "2026-11-22T00:35Z"
    ],
+   "Simi Fehoko": [
+    "Active",
+    "2026-11-24T02:21Z",
+    "2026-11-24T02:13Z"
+   ],
    "Tez Johnson": [
     "Active",
     "2026-11-23T17:46Z",
     "2026-11-11T00:51Z"
-   ],
-   "Theo Johnson": [
-    "Active",
-    "2026-11-24T02:20Z",
-    "2026-11-14T01:18Z"
    ],
    "Trevor Etienne": [
     "Active",
