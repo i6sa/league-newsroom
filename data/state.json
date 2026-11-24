@@ -181,6 +181,10 @@
     "Active",
     "2026-11-23T04:52Z"
    ],
+   "Brock Wright": [
+    "Active",
+    "2026-11-24T01:49Z"
+   ],
    "Bryce Lance": [
     "Active",
     "2026-11-18T00:54Z"
@@ -669,6 +673,10 @@
     "Out",
     "2026-11-20T00:28Z"
    ],
+   "Isaac TeSlaa": [
+    "Active",
+    "2026-11-24T01:50Z"
+   ],
    "Isaiah Davis": [
     "Active",
     "2026-11-23T04:40Z"
@@ -712,10 +720,6 @@
    "Jackson Hawes": [
     "Active",
     "2026-11-22T16:58Z"
-   ],
-   "Jacob Saylors": [
-    "Active",
-    "2026-11-18T02:57Z"
    ],
    "Jacoby Brissett": [
     "Active",
@@ -1585,10 +1589,6 @@
     "Active",
     "2026-11-23T05:10Z"
    ],
-   "Tyler Conklin": [
-    "Active",
-    "2026-11-18T17:14Z"
-   ],
    "Tyler Higbee": [
     "Active",
     "2026-11-17T02:38Z"
@@ -1684,11 +1684,6 @@
     "2026-11-24T00:02Z",
     "2026-11-16T20:11Z"
    ],
-   "Brock Wright": [
-    "Active",
-    "2026-11-24T02:01Z",
-    "2026-11-24T01:49Z"
-   ],
    "Carter Runyon": [
     "Active",
     "2026-11-24T01:30Z",
@@ -1724,15 +1719,15 @@
     "2026-11-24T00:49Z",
     "2026-11-18T04:40Z"
    ],
-   "Isaac TeSlaa": [
-    "Active",
-    "2026-11-24T02:01Z",
-    "2026-11-24T01:50Z"
-   ],
    "Ja'Marr Chase": [
     "Active",
     "2026-11-23T21:29Z",
     "2026-11-16T04:47Z"
+   ],
+   "Jacob Saylors": [
+    "Active",
+    "2026-11-24T02:03Z",
+    "2026-11-18T02:57Z"
    ],
    "John Metchie III": [
     "Active",
@@ -1773,6 +1768,11 @@
     "Active",
     "2026-11-23T17:45Z",
     "2026-11-11T02:37Z"
+   ],
+   "Tyler Conklin": [
+    "Active",
+    "2026-11-24T02:03Z",
+    "2026-11-18T17:14Z"
    ],
    "Zach Ertz": [
     "Active",
