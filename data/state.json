@@ -485,6 +485,10 @@
     "Active",
     "2026-11-23T01:51Z"
    ],
+   "Devin Duvernay": [
+    "Active",
+    "2026-11-24T03:15Z"
+   ],
    "Devin Singletary": [
     "Active",
     "2026-11-24T02:48Z"
@@ -741,10 +745,6 @@
     "Active",
     "2026-11-22T16:58Z"
    ],
-   "Jacob Cowing": [
-    "Active",
-    "2026-11-24T03:19Z"
-   ],
    "Jacob Saylors": [
     "Active",
     "2026-11-24T01:57Z"
@@ -884,10 +884,6 @@
    "Jaylen Warren": [
     "Active",
     "2026-11-22T23:10Z"
-   ],
-   "Jaylen Wright": [
-    "Active",
-    "2026-11-24T03:12Z"
    ],
    "Jelani Woods": [
     "Active",
@@ -1717,10 +1713,6 @@
     "Active",
     "2026-11-20T16:10Z"
    ],
-   "Xavier Restrepo": [
-    "Active",
-    "2026-11-24T03:17Z"
-   ],
    "Xavier Worthy": [
     "Active",
     "2026-11-23T03:29Z"
@@ -1776,11 +1768,6 @@
     "2026-11-24T01:14Z",
     "2026-11-22T05:01Z"
    ],
-   "Devin Duvernay": [
-    "Active",
-    "2026-11-24T03:23Z",
-    "2026-11-24T03:15Z"
-   ],
    "Gardner Minshew II": [
     "Injured Reserve",
     "2026-11-24T00:49Z",
@@ -1796,10 +1783,20 @@
     "2026-11-23T21:29Z",
     "2026-11-16T04:47Z"
    ],
+   "Jacob Cowing": [
+    "Active",
+    "2026-11-24T03:24Z",
+    "2026-11-24T03:19Z"
+   ],
    "James Conner": [
     "Injured Reserve",
     "2026-11-24T02:32Z",
     "2026-11-18T21:40Z"
+   ],
+   "Jaylen Wright": [
+    "Active",
+    "2026-11-24T03:24Z",
+    "2026-11-24T03:12Z"
    ],
    "Kameron Johnson": [
     "Active",
@@ -1840,6 +1837,11 @@
     "Active",
     "2026-11-24T02:53Z",
     "2026-11-18T02:46Z"
+   ],
+   "Xavier Restrepo": [
+    "Active",
+    "2026-11-24T03:24Z",
+    "2026-11-24T03:17Z"
    ],
    "Zach Ertz": [
     "Active",
