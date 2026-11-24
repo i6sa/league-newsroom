@@ -265,10 +265,6 @@
     "Active",
     "2026-11-13T22:03Z"
    ],
-   "Carter Runyon": [
-    "Active",
-    "2026-11-22T00:13Z"
-   ],
    "Case Keenum": [
     "Active",
     "2026-11-22T16:56Z"
@@ -1293,6 +1289,10 @@
     "Active",
     "2026-11-23T17:31Z"
    ],
+   "Phil Mafah": [
+    "Active",
+    "2026-11-22T00:35Z"
+   ],
    "Puka Nacua": [
     "Injured Reserve",
     "2026-11-22T01:25Z"
@@ -1497,10 +1497,6 @@
     "Active",
     "2026-11-23T00:51Z"
    ],
-   "Theo Johnson": [
-    "Active",
-    "2026-11-14T01:18Z"
-   ],
    "Thomas Fidone II": [
     "Active",
     "2026-11-23T15:44Z"
@@ -1689,6 +1685,11 @@
     "2026-11-24T00:53Z",
     "2026-11-18T02:51Z"
    ],
+   "Carter Runyon": [
+    "Active",
+    "2026-11-24T01:23Z",
+    "2026-11-22T00:13Z"
+   ],
    "Chase Brown": [
     "Active",
     "2026-11-23T23:59Z",
@@ -1754,15 +1755,15 @@
     "2026-11-24T01:10Z",
     "2026-11-22T00:10Z"
    ],
-   "Phil Mafah": [
-    "Active",
-    "2026-11-24T01:22Z",
-    "2026-11-22T00:35Z"
-   ],
    "Tez Johnson": [
     "Active",
     "2026-11-23T17:46Z",
     "2026-11-11T00:51Z"
+   ],
+   "Theo Johnson": [
+    "Active",
+    "2026-11-24T01:23Z",
+    "2026-11-14T01:18Z"
    ],
    "Trevor Etienne": [
     "Active",
