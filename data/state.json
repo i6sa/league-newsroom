@@ -233,10 +233,6 @@
     "Active",
     "2026-11-23T01:57Z"
    ],
-   "Caleb Lohner": [
-    "Injured Reserve",
-    "2026-11-21T00:17Z"
-   ],
    "Caleb Williams": [
     "Active",
     "2026-11-22T22:20Z"
@@ -1673,6 +1669,10 @@
     "Active",
     "2026-11-22T23:47Z"
    ],
+   "Tyler Badie": [
+    "Injured Reserve",
+    "2026-11-24T23:07Z"
+   ],
    "Tyler Bass": [
     "Active",
     "2026-11-23T05:10Z"
@@ -1775,6 +1775,11 @@
    ]
   },
   "injuries_gone": {
+   "Caleb Lohner": [
+    "Injured Reserve",
+    "2026-11-24T23:26Z",
+    "2026-11-21T00:17Z"
+   ],
    "Carson Wentz": [
     "Active",
     "2026-11-24T17:03Z",
@@ -1799,11 +1804,6 @@
     "Active",
     "2026-11-24T22:29Z",
     "2026-11-24T20:09Z"
-   ],
-   "Tyler Badie": [
-    "Injured Reserve",
-    "2026-11-24T23:24Z",
-    "2026-11-24T23:07Z"
    ]
   },
   "news": [
