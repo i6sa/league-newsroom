@@ -565,6 +565,10 @@
     "Active",
     "2026-11-16T04:43Z"
    ],
+   "Easton Stick": [
+    "Active",
+    "2026-11-22T17:15Z"
+   ],
    "Eddy Pineiro": [
     "Active",
     "2026-11-24T00:33Z"
@@ -1112,10 +1116,6 @@
    "Kirk Cousins": [
     "Active",
     "2026-11-23T04:55Z"
-   ],
-   "Ko Kieft": [
-    "Active",
-    "2026-11-25T17:24Z"
    ],
    "Konata Mumpfield": [
     "Active",
@@ -1783,11 +1783,6 @@
    ]
   },
   "injuries_gone": {
-   "Easton Stick": [
-    "Active",
-    "2026-11-25T17:38Z",
-    "2026-11-22T17:15Z"
-   ],
    "Jalon Daniels": [
     "Active",
     "2026-11-25T17:33Z",
@@ -1797,6 +1792,11 @@
     "Active",
     "2026-11-25T16:29Z",
     "2026-11-18T16:31Z"
+   ],
+   "Ko Kieft": [
+    "Active",
+    "2026-11-25T17:39Z",
+    "2026-11-25T17:24Z"
    ],
    "Laquon Treadwell": [
     "Active",
