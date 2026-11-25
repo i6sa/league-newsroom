@@ -745,10 +745,6 @@
     "Active",
     "2026-11-23T01:31Z"
    ],
-   "Jack Endries": [
-    "Active",
-    "2026-11-25T01:28Z"
-   ],
    "Jack Strand": [
     "Active",
     "2026-11-16T17:37Z"
@@ -936,10 +932,6 @@
    "Joey Slye": [
     "Active",
     "2026-11-23T05:34Z"
-   ],
-   "John Bates": [
-    "Active",
-    "2026-11-25T01:34Z"
    ],
    "John Metchie III": [
     "Active",
@@ -1701,10 +1693,6 @@
     "Active",
     "2026-11-22T23:23Z"
    ],
-   "Tyler Warren": [
-    "Active",
-    "2026-11-20T05:05Z"
-   ],
    "Tyrell Shavers": [
     "Active",
     "2026-11-24T01:48Z"
@@ -1810,6 +1798,16 @@
     "2026-11-24T23:04Z",
     "2026-11-24T21:57Z"
    ],
+   "Jack Endries": [
+    "Active",
+    "2026-11-25T01:46Z",
+    "2026-11-25T01:28Z"
+   ],
+   "John Bates": [
+    "Active",
+    "2026-11-25T01:46Z",
+    "2026-11-25T01:34Z"
+   ],
    "Jonathan Taylor": [
     "Active",
     "2026-11-24T20:15Z",
@@ -1824,6 +1822,11 @@
     "Active",
     "2026-11-24T22:29Z",
     "2026-11-24T20:09Z"
+   ],
+   "Tyler Warren": [
+    "Active",
+    "2026-11-25T01:46Z",
+    "2026-11-20T05:05Z"
    ]
   },
   "news": [
