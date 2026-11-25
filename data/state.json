@@ -449,6 +449,10 @@
     "Injured Reserve",
     "2026-11-22T14:32Z"
    ],
+   "David Martin-Robinson": [
+    "Active",
+    "2026-11-25T17:27Z"
+   ],
    "David Montgomery": [
     "Active",
     "2026-11-20T04:36Z"
@@ -1141,6 +1145,10 @@
     "Active",
     "2026-11-18T02:08Z"
    ],
+   "Kylen Granson": [
+    "Active",
+    "2026-11-25T17:31Z"
+   ],
    "Kyler Murray": [
     "Questionable",
     "2026-11-24T12:39Z"
@@ -1783,11 +1791,6 @@
    ]
   },
   "injuries_gone": {
-   "David Martin-Robinson": [
-    "Active",
-    "2026-11-25T17:42Z",
-    "2026-11-25T17:27Z"
-   ],
    "Easton Stick": [
     "Active",
     "2026-11-25T17:40Z",
@@ -1802,11 +1805,6 @@
     "Active",
     "2026-11-25T16:29Z",
     "2026-11-18T16:31Z"
-   ],
-   "Kylen Granson": [
-    "Active",
-    "2026-11-25T17:42Z",
-    "2026-11-25T17:31Z"
    ],
    "Laquon Treadwell": [
     "Active",
