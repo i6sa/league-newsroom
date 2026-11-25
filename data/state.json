@@ -17,10 +17,6 @@
     "Active",
     "2026-11-23T05:01Z"
    ],
-   "Aaron Rodgers": [
-    "Active",
-    "2026-11-25T19:33Z"
-   ],
    "Adam Randall": [
     "Active",
     "2026-11-22T16:39Z"
@@ -1729,6 +1725,10 @@
     "Active",
     "2026-11-24T00:29Z"
    ],
+   "Will Howard": [
+    "Active",
+    "2026-11-22T16:51Z"
+   ],
    "Will Kacmarek": [
     "Active",
     "2026-11-24T16:49Z"
@@ -1791,6 +1791,11 @@
    ]
   },
   "injuries_gone": {
+   "Aaron Rodgers": [
+    "Active",
+    "2026-11-25T20:11Z",
+    "2026-11-25T19:33Z"
+   ],
    "Easton Stick": [
     "Active",
     "2026-11-25T17:40Z",
@@ -1815,11 +1820,6 @@
     "Active",
     "2026-11-25T16:42Z",
     "2026-11-16T19:35Z"
-   ],
-   "Will Howard": [
-    "Active",
-    "2026-11-25T20:10Z",
-    "2026-11-22T16:51Z"
    ]
   },
   "news": [
