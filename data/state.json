@@ -65,10 +65,6 @@
     "Active",
     "2026-11-16T17:37Z"
    ],
-   "Anthony Gould": [
-    "Active",
-    "2026-11-20T05:16Z"
-   ],
    "Anthony Richardson Sr.": [
     "Active",
     "2026-11-20T18:16Z"
@@ -1513,6 +1509,10 @@
     "Out",
     "2026-11-23T20:02Z"
    ],
+   "Shane Buechele": [
+    "Active",
+    "2026-11-24T22:05Z"
+   ],
    "Simi Fehoko": [
     "Active",
     "2026-11-24T02:13Z"
@@ -1745,10 +1745,6 @@
     "Questionable",
     "2026-11-23T19:05Z"
    ],
-   "Xavier Gipson": [
-    "Active",
-    "2026-11-17T00:21Z"
-   ],
    "Xavier Hutchinson": [
     "Active",
     "2026-11-20T16:10Z"
@@ -1791,6 +1787,11 @@
    ]
   },
   "injuries_gone": {
+   "Anthony Gould": [
+    "Active",
+    "2026-11-25T02:31Z",
+    "2026-11-20T05:16Z"
+   ],
    "Caleb Lohner": [
     "Injured Reserve",
     "2026-11-24T23:26Z",
@@ -1825,6 +1826,11 @@
     "Active",
     "2026-11-25T01:46Z",
     "2026-11-20T05:05Z"
+   ],
+   "Xavier Gipson": [
+    "Active",
+    "2026-11-25T02:31Z",
+    "2026-11-17T00:21Z"
    ]
   },
   "news": [
