@@ -105,10 +105,6 @@
     "Active",
     "2026-11-22T23:51Z"
    ],
-   "Bauer Sharp": [
-    "Active",
-    "2026-11-25T17:18Z"
-   ],
    "Behren Morton": [
     "Active",
     "2026-11-16T19:30Z"
@@ -833,6 +829,10 @@
     "Active",
     "2026-11-24T02:50Z"
    ],
+   "Jalon Daniels": [
+    "Active",
+    "2026-11-22T17:00Z"
+   ],
    "James Cook III": [
     "Active",
     "2026-11-22T21:26Z"
@@ -1373,10 +1373,6 @@
     "Active",
     "2026-11-22T21:57Z"
    ],
-   "Payne Durham": [
-    "Active",
-    "2026-11-25T17:15Z"
-   ],
    "Pharaoh Brown": [
     "Active",
     "2026-11-23T17:31Z"
@@ -1783,10 +1779,10 @@
    ]
   },
   "injuries_gone": {
-   "Jalon Daniels": [
+   "Bauer Sharp": [
     "Active",
-    "2026-11-25T17:25Z",
-    "2026-11-22T17:00Z"
+    "2026-11-25T17:26Z",
+    "2026-11-25T17:18Z"
    ],
    "Jameis Winston": [
     "Active",
@@ -1797,6 +1793,11 @@
     "Active",
     "2026-11-25T15:48Z",
     "2026-11-20T16:07Z"
+   ],
+   "Payne Durham": [
+    "Active",
+    "2026-11-25T17:26Z",
+    "2026-11-25T17:15Z"
    ],
    "Tim Patrick": [
     "Active",
