@@ -945,6 +945,10 @@
     "Questionable",
     "2026-11-24T22:36Z"
    ],
+   "Jonathan Taylor": [
+    "Active",
+    "2026-11-25T15:39Z"
+   ],
    "Jordan Addison": [
     "Doubtful",
     "2026-11-23T20:30Z"
@@ -1140,10 +1144,6 @@
    "Lan Larison": [
     "Active",
     "2026-11-18T02:04Z"
-   ],
-   "Laquon Treadwell": [
-    "Active",
-    "2026-11-20T16:07Z"
    ],
    "LeQuint Allen Jr.": [
     "Active",
@@ -1767,6 +1767,11 @@
    ]
   },
   "injuries_gone": {
+   "Laquon Treadwell": [
+    "Active",
+    "2026-11-25T15:48Z",
+    "2026-11-20T16:07Z"
+   ],
    "Will Howard": [
     "Active",
     "2026-11-25T04:38Z",
