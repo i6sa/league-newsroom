@@ -17,10 +17,6 @@
     "Active",
     "2026-11-23T05:01Z"
    ],
-   "Aaron Rodgers": [
-    "Active",
-    "2026-11-25T19:33Z"
-   ],
    "Adam Randall": [
     "Active",
     "2026-11-22T16:39Z"
@@ -187,7 +183,7 @@
    ],
    "Brock Purdy": [
     "Questionable",
-    "2026-11-25T19:53Z"
+    "2026-11-25T19:57Z"
    ],
    "Brock Wright": [
     "Active",
@@ -1298,8 +1294,8 @@
     "2026-11-24T21:36Z"
    ],
    "Mike Evans": [
-    "Active",
-    "2026-11-23T04:44Z"
+    "Questionable",
+    "2026-11-25T20:02Z"
    ],
    "Mike Gesicki": [
     "Active",
@@ -1729,6 +1725,10 @@
     "Active",
     "2026-11-24T00:29Z"
    ],
+   "Will Howard": [
+    "Active",
+    "2026-11-22T16:51Z"
+   ],
    "Will Kacmarek": [
     "Active",
     "2026-11-24T16:49Z"
@@ -1791,6 +1791,11 @@
    ]
   },
   "injuries_gone": {
+   "Aaron Rodgers": [
+    "Active",
+    "2026-11-25T20:09Z",
+    "2026-11-25T19:33Z"
+   ],
    "Easton Stick": [
     "Active",
     "2026-11-25T17:40Z",
