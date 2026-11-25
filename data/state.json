@@ -265,10 +265,6 @@
     "Questionable",
     "2026-11-25T19:21Z"
    ],
-   "Case Keenum": [
-    "Active",
-    "2026-11-22T16:56Z"
-   ],
    "CeeDee Lamb": [
     "Active",
     "2026-11-22T22:11Z"
@@ -550,8 +546,8 @@
     "2026-11-16T02:02Z"
    ],
    "Drew Ogletree": [
-    "Active",
-    "2026-11-23T17:42Z"
+    "Questionable",
+    "2026-11-25T20:44Z"
    ],
    "Drew Sample": [
     "Active",
@@ -1791,6 +1787,11 @@
     "Active",
     "2026-11-25T20:11Z",
     "2026-11-25T19:33Z"
+   ],
+   "Case Keenum": [
+    "Active",
+    "2026-11-25T20:46Z",
+    "2026-11-22T16:56Z"
    ],
    "Easton Stick": [
     "Active",
