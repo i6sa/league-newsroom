@@ -149,10 +149,6 @@
     "Active",
     "2026-11-17T03:25Z"
    ],
-   "Brayden Willis": [
-    "Active",
-    "2026-11-25T16:55Z"
-   ],
    "Breece Hall": [
     "Active",
     "2026-11-23T00:50Z"
@@ -1779,6 +1775,11 @@
    ]
   },
   "injuries_gone": {
+   "Brayden Willis": [
+    "Active",
+    "2026-11-25T17:07Z",
+    "2026-11-25T16:55Z"
+   ],
    "Jameis Winston": [
     "Active",
     "2026-11-25T16:29Z",
