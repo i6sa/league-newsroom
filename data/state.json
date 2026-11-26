@@ -557,10 +557,6 @@
     "Active",
     "2026-11-24T02:16Z"
    ],
-   "Emanuel Wilson": [
-    "Active",
-    "2026-11-15T19:55Z"
-   ],
    "Emari Demercado": [
     "Active",
     "2026-11-20T16:25Z"
@@ -630,8 +626,8 @@
     "2026-11-23T03:51Z"
    ],
    "Harold Fannin Jr.": [
-    "Questionable",
-    "2026-11-25T22:30Z"
+    "Active",
+    "2026-11-26T22:24Z"
    ],
    "Harrison Butker": [
     "Active",
@@ -1737,6 +1733,11 @@
     "2026-11-26T21:40Z",
     "2026-11-22T16:43Z"
    ],
+   "Emanuel Wilson": [
+    "Active",
+    "2026-11-26T22:31Z",
+    "2026-11-15T19:55Z"
+   ],
    "J. Michael Sturdivant": [
     "Active",
     "2026-11-26T15:26Z",
@@ -2043,7 +2044,8 @@
    "50602564",
    "50605070",
    "50605365",
-   "50606063"
+   "50606063",
+   "50606625"
   ],
   "trades": [
    "2026-08-24:Deion Jones-Zamir White",
