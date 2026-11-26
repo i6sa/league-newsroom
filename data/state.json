@@ -201,6 +201,10 @@
     "Active",
     "2026-11-20T04:52Z"
    ],
+   "CJ Daniels": [
+    "Active",
+    "2026-11-26T17:25Z"
+   ],
    "CJ Donaldson": [
     "Active",
     "2026-11-24T02:53Z"
@@ -416,10 +420,6 @@
    "Darren Waller": [
     "Active",
     "2026-11-23T01:00Z"
-   ],
-   "Davante Adams": [
-    "Injured Reserve",
-    "2026-11-22T14:32Z"
    ],
    "David Martin-Robinson": [
     "Active",
@@ -1613,6 +1613,10 @@
     "Active",
     "2026-11-26T05:04Z"
    ],
+   "Tutu Atwell": [
+    "Active",
+    "2026-11-26T17:18Z"
+   ],
    "Ty Johnson": [
     "Active",
     "2026-11-24T01:42Z"
@@ -1719,15 +1723,15 @@
    ]
   },
   "injuries_gone": {
-   "CJ Daniels": [
-    "Active",
-    "2026-11-26T12:43Z",
-    "2026-11-17T04:58Z"
-   ],
    "D'Andre Swift": [
     "Active",
     "2026-11-26T16:49Z",
     "2026-11-22T22:10Z"
+   ],
+   "Davante Adams": [
+    "Injured Reserve",
+    "2026-11-26T17:29Z",
+    "2026-11-22T14:32Z"
    ],
    "J. Michael Sturdivant": [
     "Active",
@@ -1743,11 +1747,6 @@
     "Injured Reserve",
     "2026-11-26T16:49Z",
     "2026-11-22T01:25Z"
-   ],
-   "Tutu Atwell": [
-    "Active",
-    "2026-11-26T05:40Z",
-    "2026-11-17T04:54Z"
    ]
   },
   "news": [
