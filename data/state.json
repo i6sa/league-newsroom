@@ -45,6 +45,10 @@
     "Injured Reserve",
     "2026-11-23T22:36Z"
    ],
+   "Andrew Armstrong": [
+    "Active",
+    "2026-11-16T03:36Z"
+   ],
    "Andy Borregales": [
     "Active",
     "2026-11-15T19:38Z"
@@ -1261,10 +1265,6 @@
     "Active",
     "2026-11-23T17:49Z"
    ],
-   "Nate Carter": [
-    "Active",
-    "2026-11-26T23:27Z"
-   ],
    "Nick Kallerup": [
     "Active",
     "2026-11-26T22:22Z"
@@ -1703,11 +1703,6 @@
    ]
   },
   "injuries_gone": {
-   "Andrew Armstrong": [
-    "Active",
-    "2026-11-26T23:40Z",
-    "2026-11-16T03:36Z"
-   ],
    "Chuba Hubbard": [
     "Active",
     "2026-11-26T21:49Z",
@@ -1767,6 +1762,11 @@
     "Active",
     "2026-11-26T15:41Z",
     "2026-11-18T17:23Z"
+   ],
+   "Nate Carter": [
+    "Active",
+    "2026-11-26T23:43Z",
+    "2026-11-26T23:27Z"
    ],
    "Puka Nacua": [
     "Injured Reserve",
@@ -2061,7 +2061,8 @@
    "50605365",
    "50606063",
    "50606625",
-   "50606739"
+   "50606739",
+   "50607165"
   ],
   "trades": [
    "2026-08-24:Deion Jones-Zamir White",
