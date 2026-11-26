@@ -357,10 +357,6 @@
     "Active",
     "2026-11-24T02:04Z"
    ],
-   "D'Andre Swift": [
-    "Active",
-    "2026-11-22T22:10Z"
-   ],
    "DJ Giddens": [
     "Active",
     "2026-11-24T00:19Z"
@@ -1341,10 +1337,6 @@
     "Active",
     "2026-11-23T17:31Z"
    ],
-   "Puka Nacua": [
-    "Injured Reserve",
-    "2026-11-22T01:25Z"
-   ],
    "Quentin Johnston": [
     "Active",
     "2026-11-23T03:15Z"
@@ -1416,6 +1408,10 @@
    "Romeo Doubs": [
     "Injured Reserve",
     "2026-11-25T23:47Z"
+   ],
+   "Ronnie Rivers": [
+    "Active",
+    "2026-11-26T16:32Z"
    ],
    "Roschon Johnson": [
     "Out",
@@ -1689,6 +1685,10 @@
     "Active",
     "2026-11-24T03:17Z"
    ],
+   "Xavier Smith": [
+    "Active",
+    "2026-11-26T16:40Z"
+   ],
    "Xavier Worthy": [
     "Active",
     "2026-11-23T03:29Z"
@@ -1724,6 +1724,11 @@
     "2026-11-26T12:43Z",
     "2026-11-17T04:58Z"
    ],
+   "D'Andre Swift": [
+    "Active",
+    "2026-11-26T16:47Z",
+    "2026-11-22T22:10Z"
+   ],
    "J. Michael Sturdivant": [
     "Active",
     "2026-11-26T15:26Z",
@@ -1734,10 +1739,10 @@
     "2026-11-26T15:41Z",
     "2026-11-18T17:23Z"
    ],
-   "Ronnie Rivers": [
-    "Active",
-    "2026-11-26T05:04Z",
-    "2026-11-17T04:51Z"
+   "Puka Nacua": [
+    "Injured Reserve",
+    "2026-11-26T16:47Z",
+    "2026-11-22T01:25Z"
    ],
    "Tutu Atwell": [
     "Active",
