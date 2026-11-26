@@ -225,6 +225,10 @@
     "Active",
     "2026-11-24T00:29Z"
    ],
+   "Caleb Lohner": [
+    "Injured Reserve",
+    "2026-11-26T23:03Z"
+   ],
    "Caleb Williams": [
     "Questionable",
     "2026-11-26T21:54Z"
@@ -791,7 +795,7 @@
    ],
    "Jared Goff": [
     "Active",
-    "2026-11-22T23:45Z"
+    "2026-11-26T23:08Z"
    ],
    "Jared Wayne": [
     "Questionable",
@@ -1417,10 +1421,6 @@
     "Active",
     "2026-11-25T23:41Z"
    ],
-   "Sam Ehlinger": [
-    "Active",
-    "2026-11-22T20:12Z"
-   ],
    "Sam LaPorta": [
     "Active",
     "2026-11-24T22:39Z"
@@ -1610,8 +1610,8 @@
     "2026-11-22T23:47Z"
    ],
    "Tyler Badie": [
-    "Injured Reserve",
-    "2026-11-26T21:28Z"
+    "Questionable",
+    "2026-11-26T23:11Z"
    ],
    "Tyler Bass": [
     "Active",
@@ -1762,6 +1762,11 @@
     "Injured Reserve",
     "2026-11-26T16:49Z",
     "2026-11-22T01:25Z"
+   ],
+   "Sam Ehlinger": [
+    "Active",
+    "2026-11-26T23:16Z",
+    "2026-11-22T20:12Z"
    ],
    "Terrance Ferguson": [
     "Injured Reserve",
