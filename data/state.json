@@ -130,8 +130,8 @@
     "2026-11-25T22:39Z"
    ],
    "Bo Melton": [
-    "Questionable",
-    "2026-11-24T20:40Z"
+    "Active",
+    "2026-11-25T23:56Z"
    ],
    "Bo Nix": [
     "Active",
@@ -320,10 +320,6 @@
    "Christian McCaffrey": [
     "Active",
     "2026-11-23T04:41Z"
-   ],
-   "Christian Watson": [
-    "Active",
-    "2026-11-16T00:41Z"
    ],
    "Chuba Hubbard": [
     "Active",
@@ -961,10 +957,6 @@
     "Active",
     "2026-11-24T03:09Z"
    ],
-   "Jordan Love": [
-    "Active",
-    "2026-11-16T00:37Z"
-   ],
    "Jordan Mason": [
     "Active",
     "2026-11-23T05:02Z"
@@ -995,7 +987,7 @@
    ],
    "Josh Jacobs": [
     "Out",
-    "2026-11-25T23:52Z"
+    "2026-11-25T23:53Z"
    ],
    "Josh Johnson": [
     "Active",
@@ -1514,8 +1506,8 @@
     "2026-11-24T01:26Z"
    ],
    "Skyy Moore": [
-    "Questionable",
-    "2026-11-24T20:48Z"
+    "Active",
+    "2026-11-25T23:56Z"
    ],
    "Spencer Shrader": [
     "Active",
@@ -1784,6 +1776,11 @@
     "2026-11-25T20:46Z",
     "2026-11-22T16:56Z"
    ],
+   "Christian Watson": [
+    "Active",
+    "2026-11-26T00:02Z",
+    "2026-11-16T00:41Z"
+   ],
    "Demarcus Robinson": [
     "Active",
     "2026-11-25T20:57Z",
@@ -1803,6 +1800,11 @@
     "Active",
     "2026-11-25T16:29Z",
     "2026-11-18T16:31Z"
+   ],
+   "Jordan Love": [
+    "Active",
+    "2026-11-26T00:02Z",
+    "2026-11-16T00:37Z"
    ],
    "Kyle McCord": [
     "Active",
