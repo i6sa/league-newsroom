@@ -1317,6 +1317,10 @@
     "Active",
     "2026-11-24T17:02Z"
    ],
+   "Parker Washington": [
+    "Questionable",
+    "2026-11-26T20:20Z"
+   ],
    "Pat Bryant": [
     "Active",
     "2026-11-23T03:46Z"
@@ -1585,10 +1589,6 @@
     "Active",
     "2026-11-24T02:40Z"
    ],
-   "Trevor Lawrence": [
-    "Active",
-    "2026-11-23T02:38Z"
-   ],
    "Trey McBride": [
     "Active",
     "2026-11-22T23:39Z"
@@ -1758,6 +1758,11 @@
     "Injured Reserve",
     "2026-11-26T17:43Z",
     "2026-11-23T19:35Z"
+   ],
+   "Trevor Lawrence": [
+    "Active",
+    "2026-11-26T20:31Z",
+    "2026-11-23T02:38Z"
    ]
   },
   "news": [
