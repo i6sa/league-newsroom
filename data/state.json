@@ -45,6 +45,10 @@
     "Injured Reserve",
     "2026-11-23T22:36Z"
    ],
+   "Andrew Armstrong": [
+    "Active",
+    "2026-11-16T03:36Z"
+   ],
    "Andy Borregales": [
     "Active",
     "2026-11-15T19:38Z"
@@ -324,10 +328,6 @@
    "Christian Watson": [
     "Questionable",
     "2026-11-26T03:09Z"
-   ],
-   "Cody Schrader": [
-    "Active",
-    "2026-11-26T23:22Z"
    ],
    "Colbie Young": [
     "Active",
@@ -1113,6 +1113,10 @@
     "Active",
     "2026-11-24T03:24Z"
    ],
+   "Lil'Jordan Humphrey": [
+    "Active",
+    "2026-11-22T20:16Z"
+   ],
    "Luke Farrell": [
     "Active",
     "2026-11-25T16:51Z"
@@ -1260,10 +1264,6 @@
    "Nate Boerkircher": [
     "Active",
     "2026-11-23T17:49Z"
-   ],
-   "Nate Carter": [
-    "Active",
-    "2026-11-26T23:27Z"
    ],
    "Nick Kallerup": [
     "Active",
@@ -1703,15 +1703,15 @@
    ]
   },
   "injuries_gone": {
-   "Andrew Armstrong": [
-    "Active",
-    "2026-11-26T23:34Z",
-    "2026-11-16T03:36Z"
-   ],
    "Chuba Hubbard": [
     "Active",
     "2026-11-26T21:49Z",
     "2026-11-23T00:39Z"
+   ],
+   "Cody Schrader": [
+    "Active",
+    "2026-11-26T23:38Z",
+    "2026-11-26T23:22Z"
    ],
    "Cole Payton": [
     "Active",
@@ -1758,15 +1758,15 @@
     "2026-11-26T23:37Z",
     "2026-11-22T22:15Z"
    ],
-   "Lil'Jordan Humphrey": [
-    "Active",
-    "2026-11-26T23:31Z",
-    "2026-11-22T20:16Z"
-   ],
    "Max Klare": [
     "Active",
     "2026-11-26T15:41Z",
     "2026-11-18T17:23Z"
+   ],
+   "Nate Carter": [
+    "Active",
+    "2026-11-26T23:38Z",
+    "2026-11-26T23:27Z"
    ],
    "Puka Nacua": [
     "Injured Reserve",
