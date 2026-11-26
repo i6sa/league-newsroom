@@ -809,10 +809,6 @@
     "Injured Reserve",
     "2026-11-25T15:55Z"
    ],
-   "Jalen Milroe": [
-    "Questionable",
-    "2026-11-26T00:26Z"
-   ],
    "Jalen Nailor": [
     "Active",
     "2026-11-23T04:25Z"
@@ -1309,10 +1305,6 @@
     "Active",
     "2026-11-23T17:49Z"
    ],
-   "Nick Kallerup": [
-    "Questionable",
-    "2026-11-26T00:28Z"
-   ],
    "Nico Collins": [
     "Active",
     "2026-11-20T04:41Z"
@@ -1804,6 +1796,11 @@
     "2026-11-25T17:40Z",
     "2026-11-22T17:15Z"
    ],
+   "Jalen Milroe": [
+    "Questionable",
+    "2026-11-26T00:39Z",
+    "2026-11-26T00:26Z"
+   ],
    "Jalon Daniels": [
     "Active",
     "2026-11-25T17:33Z",
@@ -1838,6 +1835,11 @@
     "Active",
     "2026-11-25T22:10Z",
     "2026-11-22T16:55Z"
+   ],
+   "Nick Kallerup": [
+    "Questionable",
+    "2026-11-26T00:39Z",
+    "2026-11-26T00:28Z"
    ],
    "Ollie Gordon II": [
     "Active",
