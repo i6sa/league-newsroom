@@ -121,10 +121,6 @@
     "Active",
     "2026-11-15T22:00Z"
    ],
-   "Blake Corum": [
-    "Active",
-    "2026-11-26T04:53Z"
-   ],
    "Blake Whiteheart": [
     "Questionable",
     "2026-11-26T02:00Z"
@@ -1413,6 +1409,10 @@
     "Injured Reserve",
     "2026-11-25T23:47Z"
    ],
+   "Ronnie Rivers": [
+    "Active",
+    "2026-11-17T04:51Z"
+   ],
    "Roschon Johnson": [
     "Out",
     "2026-11-25T20:15Z"
@@ -1734,6 +1734,11 @@
     "2026-11-26T01:16Z",
     "2026-11-20T18:16Z"
    ],
+   "Blake Corum": [
+    "Active",
+    "2026-11-26T05:03Z",
+    "2026-11-26T04:53Z"
+   ],
    "Brandon McManus": [
     "Active",
     "2026-11-26T04:02Z",
@@ -1843,11 +1848,6 @@
     "Active",
     "2026-11-25T22:55Z",
     "2026-11-15T23:37Z"
-   ],
-   "Ronnie Rivers": [
-    "Active",
-    "2026-11-26T05:02Z",
-    "2026-11-17T04:51Z"
    ],
    "Stefon Diggs": [
     "Active",
