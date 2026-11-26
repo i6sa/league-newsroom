@@ -1189,6 +1189,10 @@
     "Injured Reserve",
     "2026-11-23T17:19Z"
    ],
+   "MarShawn Lloyd": [
+    "Active",
+    "2026-11-16T01:03Z"
+   ],
    "Mark Andrews": [
     "Active",
     "2026-11-23T00:25Z"
@@ -1605,10 +1609,6 @@
     "Active",
     "2026-11-24T03:08Z"
    ],
-   "Tucker Kraft": [
-    "Active",
-    "2026-11-26T05:04Z"
-   ],
    "Tutu Atwell": [
     "Active",
     "2026-11-17T04:54Z"
@@ -1819,11 +1819,6 @@
     "2026-11-25T23:15Z",
     "2026-11-23T00:17Z"
    ],
-   "MarShawn Lloyd": [
-    "Active",
-    "2026-11-26T05:11Z",
-    "2026-11-16T01:03Z"
-   ],
    "Matthew Golden": [
     "Active",
     "2026-11-26T01:37Z",
@@ -1858,6 +1853,11 @@
     "Active",
     "2026-11-25T20:25Z",
     "2026-11-24T04:52Z"
+   ],
+   "Tucker Kraft": [
+    "Active",
+    "2026-11-26T05:12Z",
+    "2026-11-26T05:04Z"
    ],
    "Tyrone Tracy Jr.": [
     "Injured Reserve",
