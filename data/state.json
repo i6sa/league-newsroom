@@ -325,10 +325,6 @@
     "Questionable",
     "2026-11-26T03:09Z"
    ],
-   "Chuba Hubbard": [
-    "Active",
-    "2026-11-23T00:39Z"
-   ],
    "Colbie Young": [
     "Active",
     "2026-11-25T01:21Z"
@@ -418,8 +414,8 @@
     "2026-11-23T04:38Z"
    ],
    "Darren Waller": [
-    "Active",
-    "2026-11-23T01:00Z"
+    "Questionable",
+    "2026-11-26T21:43Z"
    ],
    "David Martin-Robinson": [
     "Active",
@@ -431,7 +427,7 @@
    ],
    "David Njoku": [
     "Questionable",
-    "2026-11-25T23:45Z"
+    "2026-11-26T21:33Z"
    ],
    "Davis Allen": [
     "Questionable",
@@ -590,8 +586,8 @@
     "2026-11-25T01:16Z"
    ],
    "Feleipe Franks": [
-    "Active",
-    "2026-11-23T16:47Z"
+    "Questionable",
+    "2026-11-26T21:36Z"
    ],
    "Fernando Mendoza": [
     "Active",
@@ -1550,8 +1546,8 @@
     "2026-11-24T01:15Z"
    ],
    "Tommy Tremble": [
-    "Active",
-    "2026-11-24T02:41Z"
+    "Questionable",
+    "2026-11-26T21:36Z"
    ],
    "Tony Pollard": [
     "Active",
@@ -1715,6 +1711,11 @@
    ]
   },
   "injuries_gone": {
+   "Chuba Hubbard": [
+    "Active",
+    "2026-11-26T21:49Z",
+    "2026-11-23T00:39Z"
+   ],
    "Cole Payton": [
     "Active",
     "2026-11-26T20:20Z",
