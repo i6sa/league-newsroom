@@ -145,6 +145,10 @@
     "Active",
     "2026-11-23T05:55Z"
    ],
+   "Brandon McManus": [
+    "Active",
+    "2026-11-26T17:31Z"
+   ],
    "Brayden Willis": [
     "Active",
     "2026-11-25T16:55Z"
@@ -1529,10 +1533,6 @@
     "Active",
     "2026-11-24T04:49Z"
    ],
-   "Terrance Ferguson": [
-    "Injured Reserve",
-    "2026-11-23T19:35Z"
-   ],
    "Tetairoa McMillan": [
     "Questionable",
     "2026-11-25T20:18Z"
@@ -1723,11 +1723,6 @@
    ]
   },
   "injuries_gone": {
-   "Brandon McManus": [
-    "Active",
-    "2026-11-26T17:36Z",
-    "2026-11-26T17:31Z"
-   ],
    "D'Andre Swift": [
     "Active",
     "2026-11-26T16:49Z",
@@ -1752,6 +1747,11 @@
     "Injured Reserve",
     "2026-11-26T16:49Z",
     "2026-11-22T01:25Z"
+   ],
+   "Terrance Ferguson": [
+    "Injured Reserve",
+    "2026-11-26T17:37Z",
+    "2026-11-23T19:35Z"
    ]
   },
   "news": [
