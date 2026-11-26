@@ -145,6 +145,10 @@
     "Active",
     "2026-11-23T05:55Z"
    ],
+   "Brandon McManus": [
+    "Active",
+    "2026-11-26T17:31Z"
+   ],
    "Brayden Willis": [
     "Active",
     "2026-11-25T16:55Z"
@@ -200,6 +204,10 @@
    "C.J. Stroud": [
     "Active",
     "2026-11-20T04:52Z"
+   ],
+   "CJ Daniels": [
+    "Active",
+    "2026-11-26T17:25Z"
    ],
    "CJ Donaldson": [
     "Active",
@@ -416,10 +424,6 @@
    "Darren Waller": [
     "Active",
     "2026-11-23T01:00Z"
-   ],
-   "Davante Adams": [
-    "Injured Reserve",
-    "2026-11-22T14:32Z"
    ],
    "David Martin-Robinson": [
     "Active",
@@ -1529,10 +1533,6 @@
     "Active",
     "2026-11-24T04:49Z"
    ],
-   "Terrance Ferguson": [
-    "Injured Reserve",
-    "2026-11-23T19:35Z"
-   ],
    "Tetairoa McMillan": [
     "Questionable",
     "2026-11-25T20:18Z"
@@ -1612,6 +1612,10 @@
    "Tucker Kraft": [
     "Active",
     "2026-11-26T05:04Z"
+   ],
+   "Tutu Atwell": [
+    "Active",
+    "2026-11-26T17:18Z"
    ],
    "Ty Johnson": [
     "Active",
@@ -1719,15 +1723,15 @@
    ]
   },
   "injuries_gone": {
-   "CJ Daniels": [
-    "Active",
-    "2026-11-26T17:31Z",
-    "2026-11-26T17:25Z"
-   ],
    "D'Andre Swift": [
     "Active",
     "2026-11-26T16:49Z",
     "2026-11-22T22:10Z"
+   ],
+   "Davante Adams": [
+    "Injured Reserve",
+    "2026-11-26T17:35Z",
+    "2026-11-22T14:32Z"
    ],
    "J. Michael Sturdivant": [
     "Active",
@@ -1744,10 +1748,10 @@
     "2026-11-26T16:49Z",
     "2026-11-22T01:25Z"
    ],
-   "Tutu Atwell": [
-    "Active",
-    "2026-11-26T17:31Z",
-    "2026-11-26T17:18Z"
+   "Terrance Ferguson": [
+    "Injured Reserve",
+    "2026-11-26T17:35Z",
+    "2026-11-23T19:35Z"
    ]
   },
   "news": [
