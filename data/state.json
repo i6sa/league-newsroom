@@ -337,10 +337,6 @@
     "Active",
     "2026-11-26T15:30Z"
    ],
-   "Cole Payton": [
-    "Active",
-    "2026-11-23T15:49Z"
-   ],
    "Colson Yankoff": [
     "Active",
     "2026-11-20T00:51Z"
@@ -767,7 +763,7 @@
    ],
    "Jake Ferguson": [
     "Out",
-    "2026-11-25T19:14Z"
+    "2026-11-26T20:13Z"
    ],
    "Jake Moody": [
     "Active",
@@ -923,7 +919,7 @@
    ],
    "Jonathan Mingo": [
     "Out",
-    "2026-11-26T00:36Z"
+    "2026-11-26T20:13Z"
    ],
    "Jonathan Taylor": [
     "Active",
@@ -1723,6 +1719,11 @@
    ]
   },
   "injuries_gone": {
+   "Cole Payton": [
+    "Active",
+    "2026-11-26T20:20Z",
+    "2026-11-23T15:49Z"
+   ],
    "D'Andre Swift": [
     "Active",
     "2026-11-26T16:49Z",
