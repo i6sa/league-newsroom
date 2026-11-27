@@ -509,10 +509,6 @@
     "Out",
     "2026-11-23T20:26Z"
    ],
-   "Drew Allar": [
-    "Active",
-    "2026-11-23T15:50Z"
-   ],
    "Drew Lock": [
     "Questionable",
     "2026-11-26T22:32Z"
@@ -540,10 +536,6 @@
    "Efton Chism III": [
     "Active",
     "2026-11-18T02:02Z"
-   ],
-   "Eli Heidenreich": [
-    "Active",
-    "2026-11-23T15:50Z"
    ],
    "Eli Raridon": [
     "Active",
@@ -980,6 +972,10 @@
    "KaVontae Turpin": [
     "Active",
     "2026-11-23T02:34Z"
+   ],
+   "Kaden Wetjen": [
+    "Active",
+    "2026-11-22T17:19Z"
    ],
    "Kaleb Johnson": [
     "Active",
@@ -1683,10 +1679,15 @@
    ]
   },
   "injuries_gone": {
-   "Kaden Wetjen": [
+   "Drew Allar": [
     "Active",
-    "2026-11-27T18:44Z",
-    "2026-11-22T17:19Z"
+    "2026-11-27T18:45Z",
+    "2026-11-23T15:50Z"
+   ],
+   "Eli Heidenreich": [
+    "Active",
+    "2026-11-27T18:45Z",
+    "2026-11-23T15:50Z"
    ],
    "Ray Davis": [
     "Active",
