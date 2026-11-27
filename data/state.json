@@ -153,10 +153,6 @@
     "Questionable",
     "2026-11-26T02:24Z"
    ],
-   "Brenton Strange": [
-    "Active",
-    "2026-11-23T03:18Z"
-   ],
    "Brevin Jordan": [
     "Out",
     "2026-11-27T20:56Z"
@@ -308,6 +304,10 @@
    "Chris Olave": [
     "Active",
     "2026-11-22T23:19Z"
+   ],
+   "Chris Rodriguez Jr.": [
+    "Active",
+    "2026-11-27T22:11Z"
    ],
    "Christian Watson": [
     "Questionable",
@@ -918,8 +918,8 @@
     "2026-11-23T00:21Z"
    ],
    "Justin Herbert": [
-    "Questionable",
-    "2026-11-27T21:10Z"
+    "Out",
+    "2026-11-27T22:19Z"
    ],
    "Justin Jefferson": [
     "Active",
@@ -962,8 +962,8 @@
     "2026-11-24T03:02Z"
    ],
    "Keaton Mitchell": [
-    "Questionable",
-    "2026-11-25T23:44Z"
+    "Out",
+    "2026-11-27T22:20Z"
    ],
    "Kedon Slovis": [
     "Active",
@@ -1643,15 +1643,15 @@
    ]
   },
   "injuries_gone": {
+   "Brenton Strange": [
+    "Active",
+    "2026-11-27T22:24Z",
+    "2026-11-23T03:18Z"
+   ],
    "Bucky Irving": [
     "Active",
     "2026-11-27T20:50Z",
     "2026-11-22T23:02Z"
-   ],
-   "Chris Rodriguez Jr.": [
-    "Active",
-    "2026-11-27T21:39Z",
-    "2026-11-23T03:11Z"
    ],
    "Dallen Bentley": [
     "Active",
