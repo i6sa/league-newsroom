@@ -153,10 +153,6 @@
     "Questionable",
     "2026-11-26T02:24Z"
    ],
-   "Brennan Presley": [
-    "Active",
-    "2026-11-26T00:14Z"
-   ],
    "Brenton Strange": [
     "Active",
     "2026-11-23T03:18Z"
@@ -1505,6 +1501,10 @@
     "Active",
     "2026-11-24T04:49Z"
    ],
+   "Terrance Ferguson": [
+    "Injured Reserve",
+    "2026-11-23T19:35Z"
+   ],
    "Tetairoa McMillan": [
     "Questionable",
     "2026-11-26T21:26Z"
@@ -1696,6 +1696,11 @@
     "2026-11-26T23:44Z",
     "2026-11-16T03:36Z"
    ],
+   "Brennan Presley": [
+    "Active",
+    "2026-11-27T01:17Z",
+    "2026-11-26T00:14Z"
+   ],
    "Chuba Hubbard": [
     "Active",
     "2026-11-26T21:49Z",
@@ -1785,11 +1790,6 @@
     "Active",
     "2026-11-26T23:16Z",
     "2026-11-22T20:12Z"
-   ],
-   "Terrance Ferguson": [
-    "Injured Reserve",
-    "2026-11-26T17:43Z",
-    "2026-11-23T19:35Z"
    ],
    "Trevor Lawrence": [
     "Active",
@@ -2070,7 +2070,8 @@
    "50606063",
    "50606625",
    "50606739",
-   "50607165"
+   "50607165",
+   "50607635"
   ],
   "trades": [
    "2026-08-24:Deion Jones-Zamir White",
