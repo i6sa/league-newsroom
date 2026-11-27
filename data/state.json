@@ -763,7 +763,7 @@
    ],
    "Jalen Royals": [
     "Questionable",
-    "2026-11-27T04:49Z"
+    "2026-11-27T05:17Z"
    ],
    "Jalen Tolbert": [
     "Active",
@@ -936,10 +936,6 @@
    "Josh Cuevas": [
     "Active",
     "2026-11-24T03:00Z"
-   ],
-   "Josh Downs": [
-    "Active",
-    "2026-11-22T23:20Z"
    ],
    "Josh Jacobs": [
     "Out",
@@ -1301,6 +1297,10 @@
     "Active",
     "2026-11-23T04:02Z"
    ],
+   "Patrick Mahomes": [
+    "Active",
+    "2026-11-27T05:18Z"
+   ],
    "Payne Durham": [
     "Active",
     "2026-11-25T17:15Z"
@@ -1331,7 +1331,7 @@
    ],
    "Rashee Rice": [
     "Active",
-    "2026-11-22T23:16Z"
+    "2026-11-27T05:22Z"
    ],
    "Rashid Shaheed": [
     "Active",
@@ -1663,7 +1663,7 @@
    ],
    "Xavier Worthy": [
     "Active",
-    "2026-11-23T03:29Z"
+    "2026-11-27T05:29Z"
    ],
    "Zach Charbonnet": [
     "Active",
@@ -1761,6 +1761,11 @@
     "2026-11-27T00:08Z",
     "2026-11-19T01:06Z"
    ],
+   "Josh Downs": [
+    "Active",
+    "2026-11-27T05:33Z",
+    "2026-11-22T23:20Z"
+   ],
    "KeAndre Lambert-Smith": [
     "Active",
     "2026-11-26T19:03Z",
@@ -1770,11 +1775,6 @@
     "Active",
     "2026-11-26T23:40Z",
     "2026-11-22T20:16Z"
-   ],
-   "Patrick Mahomes": [
-    "Active",
-    "2026-11-27T03:34Z",
-    "2026-11-22T21:57Z"
    ],
    "Sam Ehlinger": [
     "Active",
