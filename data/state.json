@@ -775,7 +775,7 @@
    ],
    "Jashaun Corbin": [
     "Active",
-    "2026-11-25T22:58Z"
+    "2026-11-27T22:37Z"
    ],
    "Jason Myers": [
     "Active",
@@ -890,8 +890,8 @@
     "2026-11-23T05:02Z"
    ],
    "Jordan Watkins": [
-    "Questionable",
-    "2026-11-26T22:29Z"
+    "Out",
+    "2026-11-27T22:44Z"
    ],
    "Jordyn Tyson": [
     "Active",
@@ -976,10 +976,6 @@
    "Kedon Slovis": [
     "Active",
     "2026-11-25T21:42Z"
-   ],
-   "Keenan Allen": [
-    "Active",
-    "2026-11-23T05:13Z"
    ],
    "Keleki Latu": [
     "Active",
@@ -1088,6 +1084,10 @@
    "Luther Burden III": [
     "Active",
     "2026-11-26T23:42Z"
+   ],
+   "Mac Jones": [
+    "Active",
+    "2026-11-27T22:40Z"
    ],
    "Mack Hollins": [
     "Active",
@@ -1701,6 +1701,11 @@
     "2026-11-27T18:46Z",
     "2026-11-22T17:19Z"
    ],
+   "Keenan Allen": [
+    "Active",
+    "2026-11-27T22:56Z",
+    "2026-11-23T05:13Z"
+   ],
    "Pat Freiermuth": [
     "Active",
     "2026-11-27T22:05Z",
@@ -2010,7 +2015,8 @@
    "50613922",
    "50614218",
    "50614763",
-   "50614804"
+   "50614804",
+   "50615482"
   ],
   "trades": [
    "2026-08-24:Deion Jones-Zamir White",
