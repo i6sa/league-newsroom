@@ -189,10 +189,6 @@
     "Active",
     "2026-11-23T00:55Z"
    ],
-   "Bucky Irving": [
-    "Active",
-    "2026-11-22T23:02Z"
-   ],
    "C.J. Stroud": [
     "Active",
     "2026-11-20T04:52Z"
@@ -1482,8 +1478,8 @@
     "2026-11-27T20:08Z"
    ],
    "Tez Johnson": [
-    "Active",
-    "2026-11-24T02:17Z"
+    "Questionable",
+    "2026-11-27T20:42Z"
    ],
    "Theo Johnson": [
     "Active",
@@ -1663,6 +1659,11 @@
    ]
   },
   "injuries_gone": {
+   "Bucky Irving": [
+    "Active",
+    "2026-11-27T20:50Z",
+    "2026-11-22T23:02Z"
+   ],
    "Dallen Bentley": [
     "Active",
     "2026-11-27T18:49Z",
