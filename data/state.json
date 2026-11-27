@@ -165,6 +165,10 @@
     "Active",
     "2026-11-27T02:44Z"
    ],
+   "Brian Thomas Jr.": [
+    "Active",
+    "2026-11-27T21:26Z"
+   ],
    "Brock Bowers": [
     "Questionable",
     "2026-11-27T20:47Z"
@@ -304,10 +308,6 @@
    "Chris Olave": [
     "Active",
     "2026-11-22T23:19Z"
-   ],
-   "Chris Rodriguez Jr.": [
-    "Active",
-    "2026-11-23T03:11Z"
    ],
    "Christian Watson": [
     "Questionable",
@@ -1655,15 +1655,15 @@
    ]
   },
   "injuries_gone": {
-   "Brian Thomas Jr.": [
-    "Active",
-    "2026-11-27T21:22Z",
-    "2026-11-23T02:40Z"
-   ],
    "Bucky Irving": [
     "Active",
     "2026-11-27T20:50Z",
     "2026-11-22T23:02Z"
+   ],
+   "Chris Rodriguez Jr.": [
+    "Active",
+    "2026-11-27T21:39Z",
+    "2026-11-23T03:11Z"
    ],
    "Dallen Bentley": [
     "Active",
