@@ -131,7 +131,7 @@
    ],
    "Bo Nix": [
     "Active",
-    "2026-11-23T02:01Z"
+    "2026-11-27T23:31Z"
    ],
    "Braelon Allen": [
     "Active",
@@ -343,7 +343,7 @@
    ],
    "Courtland Sutton": [
     "Active",
-    "2026-11-23T02:32Z"
+    "2026-11-27T23:31Z"
    ],
    "Cyrus Allen": [
     "Active",
@@ -556,10 +556,6 @@
    "Emmett Johnson": [
     "Active",
     "2026-11-27T05:04Z"
-   ],
-   "Evan Engram": [
-    "Active",
-    "2026-11-23T02:15Z"
    ],
    "Evan McPherson": [
     "Active",
@@ -809,6 +805,10 @@
     "Active",
     "2026-11-24T02:59Z"
    ],
+   "Jaylen Waddle": [
+    "Active",
+    "2026-11-27T23:30Z"
+   ],
    "Jaylen Wright": [
     "Active",
     "2026-11-24T03:12Z"
@@ -860,6 +860,10 @@
    "John Metchie III": [
     "Active",
     "2026-11-24T02:40Z"
+   ],
+   "Jonah Coleman": [
+    "Active",
+    "2026-11-27T23:29Z"
    ],
    "Jonathan Mingo": [
     "Out",
@@ -1260,10 +1264,6 @@
    "Parker Washington": [
     "Out",
     "2026-11-27T15:44Z"
-   ],
-   "Pat Bryant": [
-    "Active",
-    "2026-11-23T03:46Z"
    ],
    "Patrick Mahomes": [
     "Active",
@@ -1681,20 +1681,15 @@
     "2026-11-27T18:45Z",
     "2026-11-23T15:50Z"
    ],
-   "Jaylen Waddle": [
+   "Evan Engram": [
     "Active",
-    "2026-11-27T18:50Z",
-    "2026-11-23T01:52Z"
+    "2026-11-27T23:35Z",
+    "2026-11-23T02:15Z"
    ],
    "Jaylen Warren": [
     "Active",
     "2026-11-27T19:35Z",
     "2026-11-22T23:10Z"
-   ],
-   "Jonah Coleman": [
-    "Active",
-    "2026-11-27T18:50Z",
-    "2026-11-23T01:33Z"
    ],
    "Kaden Wetjen": [
     "Active",
@@ -1705,6 +1700,11 @@
     "Active",
     "2026-11-27T22:56Z",
     "2026-11-23T05:13Z"
+   ],
+   "Pat Bryant": [
+    "Active",
+    "2026-11-27T23:35Z",
+    "2026-11-23T03:46Z"
    ],
    "Pat Freiermuth": [
     "Active",
