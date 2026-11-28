@@ -513,6 +513,10 @@
     "Active",
     "2026-11-17T04:43Z"
    ],
+   "Eli Stowers": [
+    "Active",
+    "2026-11-24T02:56Z"
+   ],
    "Elic Ayomanor": [
     "Active",
     "2026-11-24T00:39Z"
@@ -848,10 +852,6 @@
    "John Metchie III": [
     "Active",
     "2026-11-24T02:40Z"
-   ],
-   "Johnny Mundt": [
-    "Active",
-    "2026-11-28T04:59Z"
    ],
    "Jonah Coleman": [
     "Active",
@@ -1629,10 +1629,6 @@
     "Active",
     "2026-11-16T01:48Z"
    ],
-   "Zach Ertz": [
-    "Active",
-    "2026-11-28T05:02Z"
-   ],
    "Zach Wilson": [
     "Active",
     "2026-11-22T16:48Z"
@@ -1705,15 +1701,15 @@
     "2026-11-27T18:45Z",
     "2026-11-23T15:50Z"
    ],
-   "Eli Stowers": [
-    "Active",
-    "2026-11-28T05:12Z",
-    "2026-11-24T02:56Z"
-   ],
    "Evan Engram": [
     "Active",
     "2026-11-27T23:35Z",
     "2026-11-23T02:15Z"
+   ],
+   "Johnny Mundt": [
+    "Active",
+    "2026-11-28T05:14Z",
+    "2026-11-28T04:59Z"
    ],
    "Kaden Wetjen": [
     "Active",
@@ -1749,6 +1745,11 @@
     "Active",
     "2026-11-27T17:40Z",
     "2026-11-22T22:32Z"
+   ],
+   "Zach Ertz": [
+    "Active",
+    "2026-11-28T05:14Z",
+    "2026-11-28T05:02Z"
    ]
   },
   "news": [
