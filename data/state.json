@@ -285,10 +285,6 @@
     "Active",
     "2026-11-24T02:56Z"
    ],
-   "Chris Boswell": [
-    "Active",
-    "2026-11-23T05:23Z"
-   ],
    "Chris Brooks": [
     "Active",
     "2026-11-26T15:44Z"
@@ -367,7 +363,7 @@
    ],
    "DK Metcalf": [
     "Active",
-    "2026-11-23T21:08Z"
+    "2026-11-28T00:26Z"
    ],
    "Dak Prescott": [
     "Active",
@@ -404,10 +400,6 @@
    "Darnell Mooney": [
     "Active",
     "2026-11-24T02:30Z"
-   ],
-   "Darnell Washington": [
-    "Active",
-    "2026-11-23T04:38Z"
    ],
    "Darren Waller": [
     "Questionable",
@@ -808,6 +800,10 @@
    "Jaylen Waddle": [
     "Active",
     "2026-11-27T23:30Z"
+   ],
+   "Jaylen Warren": [
+    "Active",
+    "2026-11-28T00:18Z"
    ],
    "Jaylen Wright": [
     "Active",
@@ -1325,6 +1321,10 @@
     "Active",
     "2026-11-26T18:31Z"
    ],
+   "Rico Dowdle": [
+    "Active",
+    "2026-11-28T00:21Z"
+   ],
    "Riley Leonard": [
     "Active",
     "2026-11-23T15:33Z"
@@ -1479,7 +1479,7 @@
    ],
    "Tez Johnson": [
     "Questionable",
-    "2026-11-27T20:42Z"
+    "2026-11-28T00:24Z"
    ],
    "Theo Johnson": [
     "Active",
@@ -1665,10 +1665,20 @@
     "2026-11-27T20:50Z",
     "2026-11-22T23:02Z"
    ],
+   "Chris Boswell": [
+    "Active",
+    "2026-11-28T00:36Z",
+    "2026-11-23T05:23Z"
+   ],
    "Dallen Bentley": [
     "Active",
     "2026-11-27T18:49Z",
     "2026-11-23T15:27Z"
+   ],
+   "Darnell Washington": [
+    "Active",
+    "2026-11-28T00:36Z",
+    "2026-11-23T04:38Z"
    ],
    "Dont'e Thornton Jr.": [
     "Active",
@@ -1690,11 +1700,6 @@
     "2026-11-27T23:35Z",
     "2026-11-23T02:15Z"
    ],
-   "Jaylen Warren": [
-    "Active",
-    "2026-11-27T19:35Z",
-    "2026-11-22T23:10Z"
-   ],
    "Kaden Wetjen": [
     "Active",
     "2026-11-27T18:46Z",
@@ -1709,11 +1714,6 @@
     "Active",
     "2026-11-27T22:05Z",
     "2026-11-23T04:02Z"
-   ],
-   "Rico Dowdle": [
-    "Active",
-    "2026-11-27T21:50Z",
-    "2026-11-22T23:11Z"
    ],
    "Tony Pollard": [
     "Active",
